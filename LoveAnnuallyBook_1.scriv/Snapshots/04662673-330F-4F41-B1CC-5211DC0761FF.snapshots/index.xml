@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Snapshots Version="1.0">
+    <Snapshot>
+        <Title>After ProWriting Styles Cleanup</Title>
+        <Date>2021-07-23 03:01:03 -0400</Date>
+        <Comments>
+            <Comment ID="C9FBA0AB-4932-4F70-998A-A45D7014B6A3" Collapsed="No" Color="0.996078 0.964706 0.737255"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 SegoeUI;}{\f1\fnil\fcharset0\fprq2 Calibri;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs0\cf0
+\pard\plain \ltrch\loch {\f1\fs20 ex}}]]></Comment>
+            <Comment ID="D4F169E3-56D3-4646-AFB7-A1AB291F02F9" Collapsed="No" Color="0.996078 0.964706 0.737255"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 SegoeUI;}{\f1\fnil\fcharset0\fprq2 Calibri;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs0\cf0
+\pard\plain \ltrch\loch {\f1\fs20 ex}}]]></Comment>
+            <Comment ID="89CAB07A-4249-4B5C-B62A-2D86C545D68C" Collapsed="No" Color="0.996078 0.964706 0.737255"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 SegoeUI;}{\f1\fnil\fcharset0\fprq2 Calibri;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs0\cf0
+\pard\plain \ltrch\loch {\f1\fs20 POV when evan removed sarah's glasses}}]]></Comment>
+            <Comment ID="16BCB696-BE99-497A-B8BE-9FCD64684BF7" Collapsed="No" Color="0.996078 0.964706 0.737255"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 SegoeUI;}{\f1\fnil\fcharset0\fprq2 Calibri;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs0\cf0
+\pard\plain \ltrch\loch {\f1\fs20 pronoun}}]]></Comment>
+            <Comment ID="6108D803-E098-4A31-8B85-F1D9DBCF280B" Collapsed="No" Color="0.996078 0.964706 0.737255"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 SegoeUI;}{\f1\fnil\fcharset0\fprq2 Calibri;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs0\cf0
+\pard\plain \ltrch\loch {\f1\fs20 Atag}}]]></Comment>
+            <Comment ID="9331853C-2609-4592-B7B2-DB97E8DBB868" Collapsed="No" Color="0.996078 0.964706 0.737255"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 SegoeUI;}{\f1\fnil\fcharset0\fprq2 Calibri;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs0\cf0
+\pard\plain \ltrch\loch {\f1\fs20 ex}}]]></Comment>
+            <Comment ID="412408FA-BB2E-4529-BE06-A5DD3749689E" Collapsed="No" Color="0.996078 0.964706 0.737255"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 SegoeUI;}{\f1\fnil\fcharset0\fprq2 Calibri;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs0\cf0
+\pard\plain \ltrch\loch {\f1\fs20 maybe an action tag to denote sarcasm. Maybe research examples on showing sarcasm in books.}}]]></Comment>
+        </Comments>
+        <StyleIDs>FBCB145F-8BEC-4D87-929E-2056C2D00D72,B82F78DA-0DFA-4D1C-9546-9C8C86445B30,43AFA13D-0E72-4BFC-9CFA-1E2EE20EEA29,18C709D9-0D1E-4A41-8EDF-1CE668567134</StyleIDs>
+    </Snapshot>
+    <Snapshot>
+        <Title>Before Major PWA Cleanup</Title>
+        <Date>2021-07-23 15:22:25 -0400</Date>
+        <Comments>
+            <Comment ID="89CAB07A-4249-4B5C-B62A-2D86C545D68C" Collapsed="No" Color="0.996078 0.964706 0.737255"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 SegoeUI;}{\f1\fnil\fcharset0\fprq2 Calibri;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs0\cf0
+\pard\plain \ltrch\loch {\f1\fs20 POV when evan removed sarah's glasses}}]]></Comment>
+            <Comment ID="6108D803-E098-4A31-8B85-F1D9DBCF280B" Collapsed="No" Color="0.996078 0.964706 0.737255"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 SegoeUI;}{\f1\fnil\fcharset0\fprq2 Calibri;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs0\cf0
+\pard\plain \ltrch\loch {\f1\fs20 Atag}}]]></Comment>
+            <Comment ID="16BCB696-BE99-497A-B8BE-9FCD64684BF7" Collapsed="No" Color="0.996078 0.964706 0.737255"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 SegoeUI;}{\f1\fnil\fcharset0\fprq2 Calibri;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs0\cf0
+\pard\plain \ltrch\loch {\f1\fs20 pronoun}}]]></Comment>
+            <Comment ID="D4F169E3-56D3-4646-AFB7-A1AB291F02F9" Collapsed="No" Color="0.996078 0.964706 0.737255"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 SegoeUI;}{\f1\fnil\fcharset0\fprq2 Calibri;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs0\cf0
+\pard\plain \ltrch\loch {\f1\fs20 ex}}]]></Comment>
+            <Comment ID="412408FA-BB2E-4529-BE06-A5DD3749689E" Collapsed="No" Color="0.996078 0.964706 0.737255"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 SegoeUI;}{\f1\fnil\fcharset0\fprq2 Calibri;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs0\cf0
+\pard\plain \ltrch\loch {\f1\fs20 maybe an action tag to denote sarcasm. Maybe research examples on showing sarcasm in books.}}]]></Comment>
+            <Comment ID="C9FBA0AB-4932-4F70-998A-A45D7014B6A3" Collapsed="No" Color="0.996078 0.964706 0.737255"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 SegoeUI;}{\f1\fnil\fcharset0\fprq2 Calibri;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs0\cf0
+\pard\plain \ltrch\loch {\f1\fs20 ex}}]]></Comment>
+            <Comment ID="9331853C-2609-4592-B7B2-DB97E8DBB868" Collapsed="No" Color="0.996078 0.964706 0.737255"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 SegoeUI;}{\f1\fnil\fcharset0\fprq2 Calibri;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs0\cf0
+\pard\plain \ltrch\loch {\f1\fs20 ex}}]]></Comment>
+        </Comments>
+        <StyleIDs>FBCB145F-8BEC-4D87-929E-2056C2D00D72,B82F78DA-0DFA-4D1C-9546-9C8C86445B30,43AFA13D-0E72-4BFC-9CFA-1E2EE20EEA29,18C709D9-0D1E-4A41-8EDF-1CE668567134</StyleIDs>
+    </Snapshot>
+</Snapshots>
