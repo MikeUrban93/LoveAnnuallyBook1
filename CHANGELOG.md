@@ -1,5 +1,11 @@
 # Changelog
 
+#### 0.0.1.3 - MAU `2023-08-05`
+1. Added Liz's profile.
+2. I wrote scene cards for the first three scenes.
+----
+
+
 #### 0.0.1.2 - MAU `2023-08-04`
 1. Created Plot Summaries for each style
 2. Shortened Evan's profile
