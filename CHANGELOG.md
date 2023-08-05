@@ -1,5 +1,9 @@
 # Changelog
 
+#### 0.0.1.5 - MAU `2023-08-05`
+1. I finished the scene cards for the first chapter – "Evan Charmed Sarah."
+----
+
 #### 0.0.1.4 - MAU `2023-08-05`
 1. Added the scene "0116 Evan Hopes for Sarah's Return"
 2. I finished the scene cards for the first chapter – "A Budding Romance."

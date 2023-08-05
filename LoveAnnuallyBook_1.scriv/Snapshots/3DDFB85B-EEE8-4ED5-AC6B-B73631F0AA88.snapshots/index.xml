@@ -1,37 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Snapshots Version="1.0">
     <Snapshot>
-        <Title>After ProWriting Styles Cleanup</Title>
-        <Date>2021-07-23 03:01:09 -0400</Date>
-        <Comments>
-            <Comment ID="B8EA4F5E-825F-461A-8EAC-F80055F637CF" Collapsed="No" Color="0.996078 0.964706 0.737255"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
-{\fonttbl{\f0\fnil\fcharset0\fprq2 SegoeUI;}{\f1\fnil\fcharset0\fprq2 Calibri;}}
-{\colortbl;\red0\green0\blue0;\red255\green255\blue255;}
-\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs0\cf0
-\pard\plain \ltrch\loch {\f1\fs20 pronoun}}]]></Comment>
-            <Comment ID="4E8AAFAF-B0E7-4D0A-8CCB-434A6427E34E" Collapsed="No" Color="0.996078 0.964706 0.737255"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
-{\fonttbl{\f0\fnil\fcharset0\fprq2 SegoeUI;}{\f1\fnil\fcharset0\fprq2 Calibri;}}
-{\colortbl;\red0\green0\blue0;\red255\green255\blue255;}
-\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs0\cf0
-\pard\plain \ltrch\loch {\f1\fs20 out of character?}}]]></Comment>
-        </Comments>
+        <Title>WIP</Title>
+        <Date>2023-08-05 16:50:41 -0400</Date>
         <StyleIDs>B82F78DA-0DFA-4D1C-9546-9C8C86445B30,18C709D9-0D1E-4A41-8EDF-1CE668567134,43AFA13D-0E72-4BFC-9CFA-1E2EE20EEA29</StyleIDs>
     </Snapshot>
     <Snapshot>
-        <Title>Before Major PWA Cleanup</Title>
-        <Date>2021-07-23 15:22:42 -0400</Date>
-        <Comments>
-            <Comment ID="B8EA4F5E-825F-461A-8EAC-F80055F637CF" Collapsed="No" Color="0.996078 0.964706 0.737255"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
-{\fonttbl{\f0\fnil\fcharset0\fprq2 SegoeUI;}{\f1\fnil\fcharset0\fprq2 Calibri;}}
-{\colortbl;\red0\green0\blue0;\red255\green255\blue255;}
-\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs0\cf0
-\pard\plain \ltrch\loch {\f1\fs20 pronoun}}]]></Comment>
-            <Comment ID="4E8AAFAF-B0E7-4D0A-8CCB-434A6427E34E" Collapsed="No" Color="0.996078 0.964706 0.737255"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
-{\fonttbl{\f0\fnil\fcharset0\fprq2 SegoeUI;}{\f1\fnil\fcharset0\fprq2 Calibri;}}
-{\colortbl;\red0\green0\blue0;\red255\green255\blue255;}
-\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs0\cf0
-\pard\plain \ltrch\loch {\f1\fs20 out of character?}}]]></Comment>
-        </Comments>
+        <Title>Untitled (First Draft)</Title>
+        <Date>2023-08-05 17:09:14 -0400</Date>
         <StyleIDs>B82F78DA-0DFA-4D1C-9546-9C8C86445B30,18C709D9-0D1E-4A41-8EDF-1CE668567134,43AFA13D-0E72-4BFC-9CFA-1E2EE20EEA29</StyleIDs>
     </Snapshot>
 </Snapshots>
