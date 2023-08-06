@@ -1,5 +1,9 @@
 # Changelog
 
+#### 0.0.1.7 - MAU `2023-08-06`
+1. Using default chatGPT4, wrote all scenes up to and including "0122 Sarah Can't Concentrate"
+----
+
 #### 0.0.1.6 - MAU `2023-08-06`
 1. I moved scene 0100 to 0101.
 2. I inserted a new version of scene 0100 which is meant to be a compelling first one paragraph scene.

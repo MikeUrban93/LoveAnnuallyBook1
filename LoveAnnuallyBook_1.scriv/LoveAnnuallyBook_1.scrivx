@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="C1CC4C75-4A12-4579-ADB5-479DFFD60702" Creator="SCRWIN-3.1.3.0" Device="Trinity" Author="The Kindergarten Poet" Modified="2023-08-06 09:04:54 -0400" ModID="DEC9D00B-03DF-4865-A266-1589FAC0DEE9">
+<ScrivenerProject Template="No" Version="2.0" Identifier="C1CC4C75-4A12-4579-ADB5-479DFFD60702" Creator="SCRWIN-3.1.3.0" Device="Trinity" Author="The Kindergarten Poet" Modified="2023-08-06 18:14:49 -0400" ModID="B1F762B4-20BD-4D02-A70B-AF9D4F5E1CAB">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 12:57:53 -0400" Modified="2023-08-04 14:07:09 -0400">
             <Title>Novel Format</Title>
@@ -38,9 +38,10 @@
                         <Bookmark Destination="file:///C:/Users/mikeu/Documents/LocalProjects/Writing/LoveAnnuallySaga/CustomFiles/Stats/ProWritingApp/05 - Prequel/PWA C01 - V2 The Kiss.pdf">PWA C01 - V2 The Kiss.pdf</Bookmark>
                     </Bookmarks>
                     <Children>
-                        <BinderItem UUID="8154460B-239F-40AB-962A-4514D8BC54D7" Type="Text" Created="2023-08-04 10:21:25 -0400" Modified="2023-08-06 08:47:36 -0400">
+                        <BinderItem UUID="8154460B-239F-40AB-962A-4514D8BC54D7" Type="Text" Created="2023-08-04 10:21:25 -0400" Modified="2023-08-06 14:26:12 -0400">
                             <Title>0100 Everything is on Track for Sarah</Title>
                             <MetaData>
+                                <LabelID>8</LabelID>
                                 <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
@@ -80,7 +81,7 @@
                                 </CustomMetaData>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>631,0</TextSelection>
+                                <TextSelection>697,0</TextSelection>
                             </TextSettings>
                             <Keywords>
                                 <KeywordID>62</KeywordID>
@@ -99,10 +100,23 @@
                                 <KeywordID>11</KeywordID>
                                 <KeywordID>30</KeywordID>
                             </Keywords>
+                            <Children>
+                                <BinderItem UUID="EAAB86E9-0DB1-46C5-9CCC-B04D55B60D21" Type="Text" Created="2023-08-06 11:39:17 -0400" Modified="2023-08-06 11:59:31 -0400">
+                                    <Title>Versions</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>627,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>897,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
-                        <BinderItem UUID="9FAEBC41-2A1A-46B2-BF07-FC8C5BE10BAE" Type="Text" Created="2023-08-06 08:39:36 -0400" Modified="2023-08-06 08:39:42 -0400">
+                        <BinderItem UUID="9FAEBC41-2A1A-46B2-BF07-FC8C5BE10BAE" Type="Text" Created="2023-08-06 08:39:36 -0400" Modified="2023-08-06 15:51:22 -0400">
                             <Title>0101 Sarah is Late for Class</Title>
                             <MetaData>
+                                <LabelID>8</LabelID>
                                 <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
@@ -142,7 +156,7 @@
                                 </CustomMetaData>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>631,0</TextSelection>
+                                <TextSelection>1173,0</TextSelection>
                             </TextSettings>
                             <Keywords>
                                 <KeywordID>62</KeywordID>
@@ -162,9 +176,10 @@
                                 <KeywordID>30</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem UUID="90636363-BA36-4BA8-BACA-4D64A3AA6A66" Type="Text" Created="2023-08-04 10:21:25 -0400" Modified="2023-08-05 00:01:48 -0400">
+                        <BinderItem UUID="90636363-BA36-4BA8-BACA-4D64A3AA6A66" Type="Text" Created="2023-08-04 10:21:25 -0400" Modified="2023-08-06 15:51:37 -0400">
                             <Title>0105 Evan and Guido in the Quad</Title>
                             <MetaData>
+                                <LabelID>8</LabelID>
                                 <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
@@ -201,7 +216,7 @@ Evan</Value>
                                 </CustomMetaData>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>292,0</TextSelection>
+                                <TextSelection>872,0</TextSelection>
                             </TextSettings>
                             <Keywords>
                                 <KeywordID>62</KeywordID>
@@ -218,13 +233,26 @@ Evan</Value>
                                 <KeywordID>11</KeywordID>
                                 <KeywordID>30</KeywordID>
                             </Keywords>
+                            <Children>
+                                <BinderItem UUID="A478B0D2-EC2D-4BBE-8625-C44EA622BD60" Type="Text" Created="2023-08-06 14:07:59 -0400" Modified="2023-08-06 14:08:11 -0400">
+                                    <Title>Dan</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>826,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
-                        <BinderItem UUID="0812A13B-BA0D-4C9C-AFE4-5302245B7841" Type="Text" Created="2023-08-04 10:21:25 -0400" Modified="2023-08-05 01:37:09 -0400">
+                        <BinderItem UUID="0812A13B-BA0D-4C9C-AFE4-5302245B7841" Type="Text" Created="2023-08-04 10:21:25 -0400" Modified="2023-08-06 16:35:31 -0400">
                             <Title>0110 Evan And Sarah Kiss</Title>
                             <MetaData>
+                                <LabelID>8</LabelID>
                                 <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>226,0</NotesTextSelection>
                                 <CustomMetaData>
                                     <MetaDataItem>
                                         <FieldID>aeonEndDate</FieldID>
@@ -258,7 +286,7 @@ Evan</Value>
                                 </CustomMetaData>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>1953,0</TextSelection>
                             </TextSettings>
                             <Keywords>
                                 <KeywordID>62</KeywordID>
@@ -279,13 +307,44 @@ Evan</Value>
                                 <KeywordID>19</KeywordID>
                                 <KeywordID>30</KeywordID>
                             </Keywords>
+                            <Children>
+                                <BinderItem UUID="6653D3E1-8EA5-43CD-95CC-E1CA5F572F6D" Type="Text" Created="2023-08-06 16:10:15 -0400" Modified="2023-08-06 16:14:33 -0400">
+                                    <Title>Evan Deep POV</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1936,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="C2291842-D7B5-4681-8344-674E89EE3522" Type="Text" Created="2023-08-06 16:24:14 -0400" Modified="2023-08-06 16:24:26 -0400">
+                                    <Title>Sarah Deep POV</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>2672,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="C38DC93C-D285-49ED-B026-9C6B535FFB7C" Type="Text" Created="2023-08-06 16:30:17 -0400" Modified="2023-08-06 16:30:35 -0400">
+                                    <Title>Evan. No Pov</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>3335,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
-                        <BinderItem UUID="02284D04-F0A8-433D-8EB4-62F861FB192C" Type="Text" Created="2023-08-04 10:21:25 -0400" Modified="2023-08-05 09:12:45 -0400">
+                        <BinderItem UUID="02284D04-F0A8-433D-8EB4-62F861FB192C" Type="Text" Created="2023-08-04 10:21:25 -0400" Modified="2023-08-06 17:10:55 -0400">
                             <Title>0115 Sarah is Frazzled</Title>
                             <MetaData>
+                                <LabelID>8</LabelID>
                                 <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>167,0</NotesTextSelection>
                                 <CustomMetaData>
                                     <MetaDataItem>
                                         <FieldID>aeonEndDate</FieldID>
@@ -319,7 +378,7 @@ Katie Andrews</Value>
                                 </CustomMetaData>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>576,0</TextSelection>
                             </TextSettings>
                             <Keywords>
                                 <KeywordID>62</KeywordID>
@@ -343,13 +402,14 @@ Katie Andrews</Value>
                                 <Bookmark Destination="file:///C:/Users/mikeu/Documents/LocalProjects/Writing/LoveAnnuallySaga/CustomFiles/Stats/ProWritingApp/05 - Prequel/PWA B00 - V1 Up To Sarah Updates Katie.pdf">PWA B00 - V1 Up To Sarah Updates Katie.pdf</Bookmark>
                             </Bookmarks>
                         </BinderItem>
-                        <BinderItem UUID="9A8901EA-67DA-4051-9D61-5AA662EE7EA3" Type="Text" Created="2023-08-05 06:35:08 -0400" Modified="2023-08-05 08:50:20 -0400">
+                        <BinderItem UUID="9A8901EA-67DA-4051-9D61-5AA662EE7EA3" Type="Text" Created="2023-08-05 06:35:08 -0400" Modified="2023-08-06 17:27:03 -0400">
                             <Title>0116 Evan Hopes for Sarah's Return</Title>
                             <MetaData>
+                                <LabelID>8</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>1269,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -378,9 +438,10 @@ Katie Andrews</Value>
                         <Bookmark Destination="file:///C:/Users/mikeu/Documents/LocalProjects/Writing/LoveAnnuallySaga/CustomFiles/Stats/ProWritingApp/05 - Prequel/PWA C02 - V2 Evan Woos Sarah.pdf">PWA C02 - V2 Evan Woos Sarah.pdf</Bookmark>
                     </Bookmarks>
                     <Children>
-                        <BinderItem UUID="84FC3F31-E7B4-470D-861F-A4D2B8602D39" Type="Text" Created="2023-08-04 10:21:25 -0400" Modified="2023-08-05 11:46:32 -0400">
+                        <BinderItem UUID="84FC3F31-E7B4-470D-861F-A4D2B8602D39" Type="Text" Created="2023-08-04 10:21:25 -0400" Modified="2023-08-06 18:00:36 -0400">
                             <Title>0120 Waiting Game</Title>
                             <MetaData>
+                                <LabelID>8</LabelID>
                                 <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <FileExtension>rtf</FileExtension>
@@ -420,7 +481,7 @@ Katie Andrews</Value>
                                 </CustomMetaData>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1033,0</TextSelection>
+                                <TextSelection>1409,0</TextSelection>
                             </TextSettings>
                             <Keywords>
                                 <KeywordID>62</KeywordID>
@@ -442,16 +503,17 @@ Katie Andrews</Value>
                                 <Bookmark Destination="file:///C:/Users/mikeu/Documents/LocalProjects/Writing/LoveAnnuallySaga/CustomFiles/Stats/ProWritingApp/05 - Prequel/PWA S0120 - V2 Evan Waits for Sarah.pdf">PWA S0120 - V2 Evan Waits for Sarah.pdf</Bookmark>
                             </Bookmarks>
                         </BinderItem>
-                        <BinderItem UUID="917E0B6F-6E2F-4AE4-8707-2EBBE0D5AAEB" Type="Text" Created="2023-08-05 10:15:01 -0400" Modified="2023-08-05 21:12:09 -0400">
+                        <BinderItem UUID="917E0B6F-6E2F-4AE4-8707-2EBBE0D5AAEB" Type="Text" Created="2023-08-05 10:15:01 -0400" Modified="2023-08-06 18:00:42 -0400">
                             <Title>0121 Evan is a Man With a Plan</Title>
                             <MetaData>
+                                <LabelID>8</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2066,0</TextSelection>
+                                <TextSelection>1379,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="7147E055-DE73-44D4-BE5B-F3FFA3D07E64" Type="Text" Created="2023-08-05 10:19:38 -0400" Modified="2023-08-05 21:12:17 -0400">
+                        <BinderItem UUID="7147E055-DE73-44D4-BE5B-F3FFA3D07E64" Type="Text" Created="2023-08-05 10:19:38 -0400" Modified="2023-08-06 18:13:55 -0400">
                             <Title>0122 Sarah Can't Concentrate</Title>
                             <MetaData>
                                 <StatusID>2</StatusID>
@@ -493,7 +555,7 @@ Katie Andrews</Value>
                                 </CustomMetaData>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>645,0</TextSelection>
+                                <TextSelection>695,0</TextSelection>
                             </TextSettings>
                             <Keywords>
                                 <KeywordID>62</KeywordID>
@@ -515,7 +577,7 @@ Katie Andrews</Value>
                                 <Bookmark Destination="file:///C:/Users/mikeu/Documents/LocalProjects/Writing/LoveAnnuallySaga/CustomFiles/Stats/ProWritingApp/05 - Prequel/PWA S0120 - V2 Evan Waits for Sarah.pdf">PWA S0120 - V2 Evan Waits for Sarah.pdf</Bookmark>
                             </Bookmarks>
                         </BinderItem>
-                        <BinderItem UUID="04662673-330F-4F41-B1CC-5211DC0761FF" Type="Text" Created="2023-08-04 10:21:25 -0400" Modified="2023-08-05 15:25:50 -0400">
+                        <BinderItem UUID="04662673-330F-4F41-B1CC-5211DC0761FF" Type="Text" Created="2023-08-04 10:21:25 -0400" Modified="2023-08-06 10:28:30 -0400">
                             <Title>0125 Evan Finds Sarah at the library</Title>
                             <MetaData>
                                 <StatusID>2</StatusID>
@@ -558,7 +620,7 @@ Evan</Value>
                                 </CustomMetaData>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>49,0</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Keywords>
                                 <KeywordID>62</KeywordID>
@@ -1132,17 +1194,16 @@ Katie Andrews</Value>
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem UUID="DF178785-3F71-42E5-99CC-BC7514AFA5D5" Type="Folder" Created="2023-08-04 10:18:00 -0400" Modified="2023-08-04 14:07:08 -0400">
-            <Title>Prepped Scenes</Title>
+        <BinderItem UUID="45199766-34AE-4505-BABD-79D04665E2BF" Type="Folder" Created="2023-08-06 10:29:06 -0400" Modified="2023-08-06 10:29:21 -0400">
+            <Title>chatGTP3.5</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
-                <NotesTextSelection>14,0</NotesTextSelection>
             </MetaData>
             <TextSettings>
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="55B09589-D0FD-41D7-B4D3-F01F165E2544" Type="Folder" Created="2023-08-02 17:57:33 -0400" Modified="2023-08-05 06:36:28 -0400">
+                <BinderItem UUID="A2107D0B-91B7-4264-9406-00958EE23AC4" Type="Folder" Created="2023-08-06 10:29:32 -0400" Modified="2023-08-06 10:29:36 -0400">
                     <Title>Chapter - A Budding Romance</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1165,7 +1226,7 @@ Katie Andrews</Value>
                         <Bookmark Destination="file:///C:/Users/mikeu/Documents/LocalProjects/Writing/LoveAnnuallySaga/CustomFiles/Stats/ProWritingApp/05 - Prequel/PWA C01 - V2 The Kiss.pdf">PWA C01 - V2 The Kiss.pdf</Bookmark>
                     </Bookmarks>
                     <Children>
-                        <BinderItem UUID="D4499772-6F95-47DE-BA6B-E122AE6824F1" Type="Text" Created="2023-08-06 08:59:16 -0400" Modified="2023-08-06 09:00:05 -0400">
+                        <BinderItem UUID="E43BDDAC-0ACE-47DE-897E-83E749E70805" Type="Text" Created="2023-08-06 10:29:32 -0400" Modified="2023-08-06 10:29:32 -0400">
                             <Title>0100 Everything is on Track for Sarah</Title>
                             <MetaData>
                                 <StatusID>2</StatusID>
@@ -1207,7 +1268,7 @@ Katie Andrews</Value>
                                 </CustomMetaData>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1114,0</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Keywords>
                                 <KeywordID>62</KeywordID>
@@ -1227,7 +1288,7 @@ Katie Andrews</Value>
                                 <KeywordID>30</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem UUID="C0AFF093-B9A4-4BD2-8EC7-744A56131CC6" Type="Text" Created="2023-08-02 17:57:33 -0400" Modified="2023-08-06 08:59:12 -0400">
+                        <BinderItem UUID="F2032B4A-949C-4A7E-9AF1-4D1896736087" Type="Text" Created="2023-08-06 10:29:32 -0400" Modified="2023-08-06 10:29:32 -0400">
                             <Title>0101 Sarah is Late for Class</Title>
                             <MetaData>
                                 <StatusID>2</StatusID>
@@ -1269,7 +1330,7 @@ Katie Andrews</Value>
                                 </CustomMetaData>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection Caret="1277">0,1277</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Keywords>
                                 <KeywordID>62</KeywordID>
@@ -1289,7 +1350,7 @@ Katie Andrews</Value>
                                 <KeywordID>30</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem UUID="683BDFBD-403B-4229-B8A1-D9D77EC62BE0" Type="Text" Created="2023-08-02 17:57:33 -0400" Modified="2023-08-05 07:31:59 -0400">
+                        <BinderItem UUID="6D72AE27-24EF-474C-B74E-93EA16CB2951" Type="Text" Created="2023-08-06 10:29:32 -0400" Modified="2023-08-06 10:29:32 -0400">
                             <Title>0105 Evan and Guido in the Quad</Title>
                             <MetaData>
                                 <StatusID>2</StatusID>
@@ -1328,7 +1389,7 @@ Evan</Value>
                                 </CustomMetaData>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection Caret="1323">0,1323</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Keywords>
                                 <KeywordID>62</KeywordID>
@@ -1346,7 +1407,7 @@ Evan</Value>
                                 <KeywordID>30</KeywordID>
                             </Keywords>
                         </BinderItem>
-                        <BinderItem UUID="F4E9025C-D853-4B66-A452-A1612D03A9DD" Type="Text" Created="2023-08-02 17:57:33 -0400" Modified="2023-08-05 01:49:55 -0400">
+                        <BinderItem UUID="FCA96E63-E9C4-4AFB-A62D-6F2E0D5A327B" Type="Text" Created="2023-08-06 10:29:32 -0400" Modified="2023-08-06 10:29:32 -0400">
                             <Title>0110 Evan And Sarah Kiss</Title>
                             <MetaData>
                                 <StatusID>2</StatusID>
@@ -1385,7 +1446,359 @@ Evan</Value>
                                 </CustomMetaData>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2262,0</TextSelection>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Keywords>
+                                <KeywordID>62</KeywordID>
+                                <KeywordID>42</KeywordID>
+                                <KeywordID>43</KeywordID>
+                                <KeywordID>45</KeywordID>
+                                <KeywordID>46</KeywordID>
+                                <KeywordID>47</KeywordID>
+                                <KeywordID>48</KeywordID>
+                                <KeywordID>50</KeywordID>
+                                <KeywordID>52</KeywordID>
+                                <KeywordID>20</KeywordID>
+                                <KeywordID>3</KeywordID>
+                                <KeywordID>36</KeywordID>
+                                <KeywordID>10</KeywordID>
+                                <KeywordID>14</KeywordID>
+                                <KeywordID>5</KeywordID>
+                                <KeywordID>19</KeywordID>
+                                <KeywordID>30</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem UUID="1CFE5182-F79E-4894-956E-C531AEEDF537" Type="Text" Created="2023-08-06 10:29:32 -0400" Modified="2023-08-06 10:29:32 -0400">
+                            <Title>0115 Sarah is Frazzled</Title>
+                            <MetaData>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>aeonEndDate</FieldID>
+                                        <Value>2006-09-21 10:04:00</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>aeonLocation</FieldID>
+                                        <Value>University of Illinois Campus</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>aeonPlace</FieldID>
+                                        <Value>Classroom</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>aeonStartDate</FieldID>
+                                        <Value>2006-09-21 10:04:00</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>endingemotion</FieldID>
+                                        <Value>9</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>participants</FieldID>
+                                        <Value>Sarah
+Katie Andrews</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>primaryemotion</FieldID>
+                                        <Value>11</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Keywords>
+                                <KeywordID>62</KeywordID>
+                                <KeywordID>42</KeywordID>
+                                <KeywordID>43</KeywordID>
+                                <KeywordID>45</KeywordID>
+                                <KeywordID>46</KeywordID>
+                                <KeywordID>47</KeywordID>
+                                <KeywordID>48</KeywordID>
+                                <KeywordID>50</KeywordID>
+                                <KeywordID>52</KeywordID>
+                                <KeywordID>12</KeywordID>
+                                <KeywordID>14</KeywordID>
+                                <KeywordID>5</KeywordID>
+                                <KeywordID>20</KeywordID>
+                                <KeywordID>19</KeywordID>
+                                <KeywordID>11</KeywordID>
+                                <KeywordID>30</KeywordID>
+                            </Keywords>
+                            <Bookmarks>
+                                <Bookmark Destination="file:///C:/Users/mikeu/Documents/LocalProjects/Writing/LoveAnnuallySaga/CustomFiles/Stats/ProWritingApp/05 - Prequel/PWA B00 - V1 Up To Sarah Updates Katie.pdf">PWA B00 - V1 Up To Sarah Updates Katie.pdf</Bookmark>
+                            </Bookmarks>
+                        </BinderItem>
+                        <BinderItem UUID="93C77B38-B862-45AE-A270-8AC6CEA224DC" Type="Text" Created="2023-08-06 10:29:32 -0400" Modified="2023-08-06 10:29:32 -0400">
+                            <Title>0116 Evan Hopes for Sarah's Return</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="DF178785-3F71-42E5-99CC-BC7514AFA5D5" Type="Folder" Created="2023-08-04 10:18:00 -0400" Modified="2023-08-04 14:07:08 -0400">
+            <Title>Prepped Scenes</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>14,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="55B09589-D0FD-41D7-B4D3-F01F165E2544" Type="Folder" Created="2023-08-02 17:57:33 -0400" Modified="2023-08-05 06:36:28 -0400">
+                    <Title>Chapter - A Budding Romance</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>aeonEndDate</FieldID>
+                                <Value>2006-09-21 10:04:00</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>aeonStartDate</FieldID>
+                                <Value>2006-09-21 09:58:00</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Bookmarks>
+                        <Bookmark Destination="file:///C:/Users/mikeu/Documents/LocalProjects/Writing/LoveAnnuallySaga/CustomFiles/Stats/ProWritingApp/05 - Prequel/PWA C01 - V1 The Kiss.pdf">PWA C01 - V1 The Kiss.pdf</Bookmark>
+                        <Bookmark Destination="file:///C:/Users/mikeu/Documents/LocalProjects/Writing/LoveAnnuallySaga/CustomFiles/Stats/ProWritingApp/05 - Prequel/PWA C01 - V2 The Kiss.pdf">PWA C01 - V2 The Kiss.pdf</Bookmark>
+                    </Bookmarks>
+                    <Children>
+                        <BinderItem UUID="D4499772-6F95-47DE-BA6B-E122AE6824F1" Type="Text" Created="2023-08-06 08:59:16 -0400" Modified="2023-08-06 13:56:13 -0400">
+                            <Title>0100 Everything is on Track for Sarah</Title>
+                            <MetaData>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <NotesTextSelection>635,0</NotesTextSelection>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>aeonEndDate</FieldID>
+                                        <Value>2006-09-21 09:59:00</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>aeonLocation</FieldID>
+                                        <Value>University of Illinois Campus</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>aeonPlace</FieldID>
+                                        <Value>Library</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>aeonStartDate</FieldID>
+                                        <Value>2006-09-21 09:58:00</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>booknum</FieldID>
+                                        <Value>0</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>endingemotion</FieldID>
+                                        <Value>4</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>participants</FieldID>
+                                        <Value>Sarah</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>primaryemotion</FieldID>
+                                        <Value>1</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>159,0</TextSelection>
+                            </TextSettings>
+                            <Keywords>
+                                <KeywordID>62</KeywordID>
+                                <KeywordID>42</KeywordID>
+                                <KeywordID>43</KeywordID>
+                                <KeywordID>45</KeywordID>
+                                <KeywordID>46</KeywordID>
+                                <KeywordID>47</KeywordID>
+                                <KeywordID>48</KeywordID>
+                                <KeywordID>50</KeywordID>
+                                <KeywordID>52</KeywordID>
+                                <KeywordID>35</KeywordID>
+                                <KeywordID>12</KeywordID>
+                                <KeywordID>33</KeywordID>
+                                <KeywordID>7</KeywordID>
+                                <KeywordID>11</KeywordID>
+                                <KeywordID>30</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem UUID="C0AFF093-B9A4-4BD2-8EC7-744A56131CC6" Type="Text" Created="2023-08-02 17:57:33 -0400" Modified="2023-08-06 15:52:02 -0400">
+                            <Title>0101 Sarah is Late for Class</Title>
+                            <MetaData>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>aeonEndDate</FieldID>
+                                        <Value>2006-09-21 09:59:00</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>aeonLocation</FieldID>
+                                        <Value>University of Illinois Campus</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>aeonPlace</FieldID>
+                                        <Value>Library</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>aeonStartDate</FieldID>
+                                        <Value>2006-09-21 09:58:00</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>booknum</FieldID>
+                                        <Value>0</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>endingemotion</FieldID>
+                                        <Value>4</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>participants</FieldID>
+                                        <Value>Sarah</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>primaryemotion</FieldID>
+                                        <Value>1</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,18</TextSelection>
+                            </TextSettings>
+                            <Keywords>
+                                <KeywordID>62</KeywordID>
+                                <KeywordID>42</KeywordID>
+                                <KeywordID>43</KeywordID>
+                                <KeywordID>45</KeywordID>
+                                <KeywordID>46</KeywordID>
+                                <KeywordID>47</KeywordID>
+                                <KeywordID>48</KeywordID>
+                                <KeywordID>50</KeywordID>
+                                <KeywordID>52</KeywordID>
+                                <KeywordID>35</KeywordID>
+                                <KeywordID>12</KeywordID>
+                                <KeywordID>33</KeywordID>
+                                <KeywordID>7</KeywordID>
+                                <KeywordID>11</KeywordID>
+                                <KeywordID>30</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem UUID="683BDFBD-403B-4229-B8A1-D9D77EC62BE0" Type="Text" Created="2023-08-02 17:57:33 -0400" Modified="2023-08-06 13:55:14 -0400">
+                            <Title>0105 Evan and Guido in the Quad</Title>
+                            <MetaData>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>aeonEndDate</FieldID>
+                                        <Value>2006-09-21 09:59:00</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>aeonLocation</FieldID>
+                                        <Value>University of Illinois Campus</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>aeonPlace</FieldID>
+                                        <Value>The &quot;Quad&quot;</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>aeonStartDate</FieldID>
+                                        <Value>2006-09-21 09:58:00</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>endingemotion</FieldID>
+                                        <Value>1</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>participants</FieldID>
+                                        <Value>Guido
+Evan</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>primaryemotion</FieldID>
+                                        <Value>1</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>242,0</TextSelection>
+                            </TextSettings>
+                            <Keywords>
+                                <KeywordID>62</KeywordID>
+                                <KeywordID>42</KeywordID>
+                                <KeywordID>43</KeywordID>
+                                <KeywordID>45</KeywordID>
+                                <KeywordID>46</KeywordID>
+                                <KeywordID>47</KeywordID>
+                                <KeywordID>48</KeywordID>
+                                <KeywordID>50</KeywordID>
+                                <KeywordID>52</KeywordID>
+                                <KeywordID>12</KeywordID>
+                                <KeywordID>33</KeywordID>
+                                <KeywordID>11</KeywordID>
+                                <KeywordID>30</KeywordID>
+                            </Keywords>
+                        </BinderItem>
+                        <BinderItem UUID="F4E9025C-D853-4B66-A452-A1612D03A9DD" Type="Text" Created="2023-08-02 17:57:33 -0400" Modified="2023-08-06 16:27:57 -0400">
+                            <Title>0110 Evan And Sarah Kiss</Title>
+                            <MetaData>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>aeonEndDate</FieldID>
+                                        <Value>2006-09-21 10:04:00</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>aeonLocation</FieldID>
+                                        <Value>University of Illinois Campus</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>aeonPlace</FieldID>
+                                        <Value>Outside the U Of I library</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>aeonStartDate</FieldID>
+                                        <Value>2006-09-21 10:00:00</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>endingemotion</FieldID>
+                                        <Value>7</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>participants</FieldID>
+                                        <Value>Sarah
+Evan</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>primaryemotion</FieldID>
+                                        <Value>11</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>176,0</TextSelection>
                             </TextSettings>
                             <Keywords>
                                 <KeywordID>62</KeywordID>
@@ -1446,7 +1859,7 @@ Katie Andrews</Value>
                                 </CustomMetaData>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection Caret="780">716,64</TextSelection>
+                                <TextSelection Caret="54">0,54</TextSelection>
                             </TextSettings>
                             <Keywords>
                                 <KeywordID>62</KeywordID>
@@ -1470,13 +1883,13 @@ Katie Andrews</Value>
                                 <Bookmark Destination="file:///C:/Users/mikeu/Documents/LocalProjects/Writing/LoveAnnuallySaga/CustomFiles/Stats/ProWritingApp/05 - Prequel/PWA B00 - V1 Up To Sarah Updates Katie.pdf">PWA B00 - V1 Up To Sarah Updates Katie.pdf</Bookmark>
                             </Bookmarks>
                         </BinderItem>
-                        <BinderItem UUID="E25BA7AE-4720-46CB-ABA0-E0A86E653B09" Type="Text" Created="2023-08-05 06:44:09 -0400" Modified="2023-08-05 10:45:21 -0400">
+                        <BinderItem UUID="E25BA7AE-4720-46CB-ABA0-E0A86E653B09" Type="Text" Created="2023-08-05 06:44:09 -0400" Modified="2023-08-06 17:27:27 -0400">
                             <Title>0116 Evan Hopes for Sarah's Return </Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>671,77</TextSelection>
+                                <TextSelection>3533,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -1505,7 +1918,7 @@ Katie Andrews</Value>
                         <Bookmark Destination="file:///C:/Users/mikeu/Documents/LocalProjects/Writing/LoveAnnuallySaga/CustomFiles/Stats/ProWritingApp/05 - Prequel/PWA C02 - V2 Evan Woos Sarah.pdf">PWA C02 - V2 Evan Woos Sarah.pdf</Bookmark>
                     </Bookmarks>
                     <Children>
-                        <BinderItem UUID="FB59F231-7777-4FAB-B1DE-A9DD1B935633" Type="Text" Created="2023-08-05 10:19:50 -0400" Modified="2023-08-05 21:05:13 -0400">
+                        <BinderItem UUID="FB59F231-7777-4FAB-B1DE-A9DD1B935633" Type="Text" Created="2023-08-05 10:19:50 -0400" Modified="2023-08-06 17:38:18 -0400">
                             <Title>0120 Waiting Game</Title>
                             <MetaData>
                                 <StatusID>2</StatusID>
@@ -1547,7 +1960,7 @@ Katie Andrews</Value>
                                 </CustomMetaData>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>622,0</TextSelection>
+                                <TextSelection Caret="146">125,21</TextSelection>
                             </TextSettings>
                             <Keywords>
                                 <KeywordID>62</KeywordID>
@@ -1569,7 +1982,7 @@ Katie Andrews</Value>
                                 <Bookmark Destination="file:///C:/Users/mikeu/Documents/LocalProjects/Writing/LoveAnnuallySaga/CustomFiles/Stats/ProWritingApp/05 - Prequel/PWA S0120 - V2 Evan Waits for Sarah.pdf">PWA S0120 - V2 Evan Waits for Sarah.pdf</Bookmark>
                             </Bookmarks>
                         </BinderItem>
-                        <BinderItem UUID="37D42D36-A774-4899-802F-E98617EEB2D3" Type="Text" Created="2023-08-02 17:57:33 -0400" Modified="2023-08-05 21:11:58 -0400">
+                        <BinderItem UUID="37D42D36-A774-4899-802F-E98617EEB2D3" Type="Text" Created="2023-08-02 17:57:33 -0400" Modified="2023-08-06 18:05:41 -0400">
                             <Title>0121 Evan is a Man With a Plan</Title>
                             <MetaData>
                                 <StatusID>2</StatusID>
@@ -1611,7 +2024,7 @@ Katie Andrews</Value>
                                 </CustomMetaData>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection Caret="251">208,43</TextSelection>
+                                <TextSelection>35,0</TextSelection>
                             </TextSettings>
                             <Keywords>
                                 <KeywordID>62</KeywordID>
@@ -1633,7 +2046,7 @@ Katie Andrews</Value>
                                 <Bookmark Destination="file:///C:/Users/mikeu/Documents/LocalProjects/Writing/LoveAnnuallySaga/CustomFiles/Stats/ProWritingApp/05 - Prequel/PWA S0120 - V2 Evan Waits for Sarah.pdf">PWA S0120 - V2 Evan Waits for Sarah.pdf</Bookmark>
                             </Bookmarks>
                         </BinderItem>
-                        <BinderItem UUID="C8C8DC65-E3A2-44AB-B64E-EA598975887F" Type="Text" Created="2023-08-05 10:17:06 -0400" Modified="2023-08-05 21:14:56 -0400">
+                        <BinderItem UUID="C8C8DC65-E3A2-44AB-B64E-EA598975887F" Type="Text" Created="2023-08-05 10:17:06 -0400" Modified="2023-08-06 18:05:36 -0400">
                             <Title>0122 Sarah Can't Concentrate</Title>
                             <MetaData>
                                 <StatusID>2</StatusID>
@@ -1675,7 +2088,7 @@ Katie Andrews</Value>
                                 </CustomMetaData>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>77,0</TextSelection>
+                                <TextSelection>2683,0</TextSelection>
                             </TextSettings>
                             <Keywords>
                                 <KeywordID>62</KeywordID>
@@ -2354,13 +2767,13 @@ Katie Andrews</Value>
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="C2DD2CCD-23A9-4B7E-8C4A-E43289291197" Type="Text" Created="2023-08-06 04:51:10 -0400" Modified="2023-08-06 09:02:46 -0400">
+                <BinderItem UUID="C2DD2CCD-23A9-4B7E-8C4A-E43289291197" Type="Text" Created="2023-08-06 04:51:10 -0400" Modified="2023-08-06 14:14:21 -0400">
                     <Title>Overview for chatGPT</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>4802,0</TextSelection>
+                        <TextSelection>0,160</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="7F85ACF8-CF68-41D0-9621-C4458C3DCEE0" Type="Text" Created="2023-08-06 05:11:10 -0400" Modified="2023-08-06 05:59:38 -0400">
@@ -2378,7 +2791,7 @@ Katie Andrews</Value>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>481,0</TextSelection>
+                        <TextSelection Caret="9953">0,9953</TextSelection>
                     </TextSettings>
                     <Children>
                         <BinderItem UUID="84DE2159-4E3C-4E72-9D74-6C5F2DA4F112" Type="Text" Created="2023-08-06 07:05:44 -0400" Modified="2023-08-06 09:04:43 -0400">
@@ -2519,25 +2932,34 @@ Katie Andrews</Value>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection Caret="215">205,10</TextSelection>
+                        <TextSelection Caret="248">238,10</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="680C9302-A82C-4619-9BA4-A4A3DD0CC804" Type="Text" Created="2023-08-05 21:48:20 -0400" Modified="2023-08-06 05:49:13 -0400">
+                <BinderItem UUID="680C9302-A82C-4619-9BA4-A4A3DD0CC804" Type="Text" Created="2023-08-05 21:48:20 -0400" Modified="2023-08-06 14:42:11 -0400">
                     <Title>chatGPT: Special Instructions</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1804,0</TextSelection>
+                        <TextSelection>2908,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="A8CF9D51-0CED-490F-A80F-DDD905D05AF3" Type="Text" Created="2023-08-06 05:49:26 -0400" Modified="2023-08-06 05:49:40 -0400">
+                <BinderItem UUID="A8CF9D51-0CED-490F-A80F-DDD905D05AF3" Type="Text" Created="2023-08-06 05:49:26 -0400" Modified="2023-08-06 11:38:27 -0400">
                     <Title>AI: Custom Instructions</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>22,0</TextSelection>
+                        <TextSelection>1165,230</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A377B3FF-8C5B-47C1-908A-283C5052CF83" Type="Text" Created="2023-08-06 13:02:38 -0400" Modified="2023-08-06 14:31:43 -0400">
+                    <Title>Coach Notes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>168,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -2611,7 +3033,7 @@ Katie Andrews</Value>
                         <ShowSynopsisImage>Yes</ShowSynopsisImage>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection Caret="19">0,19</TextSelection>
+                        <TextSelection Caret="10509">0,10509</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="E24EE04B-5E10-4D21-8A64-68628B4A9A7F" Type="Text" Created="2023-08-01 21:22:07 -0400" Modified="2023-08-06 05:15:04 -0400">
@@ -2622,10 +3044,10 @@ Katie Andrews</Value>
                         <ShowSynopsisImage>Yes</ShowSynopsisImage>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>19,0</TextSelection>
+                        <TextSelection Caret="5877">0,5877</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="7DC0A86F-0B58-4C98-93E5-EDF373D4BC1E" Type="Text" Created="2023-08-02 22:54:05 -0400" Modified="2023-08-06 05:15:18 -0400">
+                <BinderItem UUID="7DC0A86F-0B58-4C98-93E5-EDF373D4BC1E" Type="Text" Created="2023-08-02 22:54:05 -0400" Modified="2023-08-06 11:01:16 -0400">
                     <Title>Sarah Wilkins</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2634,7 +3056,7 @@ Katie Andrews</Value>
                         <NotesTextSelection>4077,1569</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>19,0</TextSelection>
+                        <TextSelection Caret="8629">0,8629</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="B892E29A-E89D-430F-9294-768C21C1122F" Type="Text" Created="2023-08-03 12:50:41 -0400" Modified="2023-08-06 05:15:26 -0400">
@@ -2688,7 +3110,7 @@ Katie Andrews</Value>
                         <ShowSynopsisImage>Yes</ShowSynopsisImage>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>19,0</TextSelection>
+                        <TextSelection>548,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -2834,7 +3256,7 @@ Katie Andrews</Value>
                         <TextSelection>1494,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="13A1577F-4373-4D6C-9EFC-1BBFA65F092E" Type="Text" Created="2023-08-02 20:41:05 -0400" Modified="2023-08-04 04:56:44 -0400">
+                <BinderItem UUID="13A1577F-4373-4D6C-9EFC-1BBFA65F092E" Type="Text" Created="2023-08-02 20:41:05 -0400" Modified="2023-08-06 13:10:31 -0400">
                     <Title>Undergrad Library</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2843,7 +3265,7 @@ Katie Andrews</Value>
                         <NotesTextSelection>550,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>2240,1312</TextSelection>
+                        <TextSelection Caret="3596">0,3596</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="BE4E7FAA-F8B1-4EFE-86B7-1C1E2FE0499E" Type="Text" Created="2023-08-02 21:20:28 -0400" Modified="2023-08-02 21:28:57 -0400">
@@ -3316,7 +3738,7 @@ Katie Andrews</Value>
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.901961 0.901961 0.980392">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="Text" Scope="Selection" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">gender</SearchSettings>
+            <SearchSettings Operator="Exact" Type="Text" Scope="Selection" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">Morning</SearchSettings>
         </Collection>
         <Collection Type="Arbitrary" ID="84A7B044-F30D-4580-B1B2-0214DB9D304D" Color="0.841505 0.920714 0.990005">
             <Title>New Collection</Title>
@@ -3748,15 +4170,15 @@ Katie Andrews</Value>
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" ShowOverrun="Yes" Deadline="2023-08-01 16:31:59 -0400" IgnoreDeadline="Yes">385000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="483" Characters="2989" Date="2023-08-06 09:04:54 -0400"/>
+        <PreviousSession Words="7081" Characters="41464" Date="2023-08-06 18:14:49 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2023-08-06 00:00:00 -0400">
-        <DraftWordCount>79</DraftWordCount>
-        <DraftCharCount>558</DraftCharCount>
-        <OtherWordCount>3801</OtherWordCount>
-        <OtherCharCount>23330</OtherCharCount>
+        <DraftWordCount>1937</DraftWordCount>
+        <DraftCharCount>10967</DraftCharCount>
+        <OtherWordCount>3030</OtherWordCount>
+        <OtherCharCount>18801</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
     <UserProjectData>

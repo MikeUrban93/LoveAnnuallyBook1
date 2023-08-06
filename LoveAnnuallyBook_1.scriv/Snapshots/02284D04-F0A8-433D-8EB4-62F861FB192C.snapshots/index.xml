@@ -1,43 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Snapshots Version="1.0">
     <Snapshot>
-        <Title>After ProWriting Styles Cleanup</Title>
-        <Date>2021-07-23 02:57:13 -0400</Date>
-        <Comments>
-            <Comment ID="5F20B15D-3027-4452-A226-B57E4D8F8960" Collapsed="No" Color="0.996078 0.964706 0.737255"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
-{\fonttbl{\f0\fnil\fcharset0\fprq2 SegoeUI;}{\f1\fnil\fcharset0\fprq2 Calibri;}}
-{\colortbl;\red0\green0\blue0;\red255\green255\blue255;}
-\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs0\cf0
-\pard\plain \ltrch\loch {\f1\fs20 EX}}]]></Comment>
-            <Comment ID="81B76531-C8ED-41E8-9335-3A6831E5E356" Collapsed="No" Color="0.996078 0.964706 0.737255"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
-{\fonttbl{\f0\fnil\fcharset0\fprq2 SegoeUI;}{\f1\fnil\fcharset0\fprq2 Calibri;}}
-{\colortbl;\red0\green0\blue0;\red255\green255\blue255;}
-\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs0\cf0
-\pard\plain \ltrch\loch {\f1\fs20 pronoun?}}]]></Comment>
-            <Comment ID="A45EDC71-5CE8-4F61-9A59-A76AEF33DF0A" Collapsed="No" Color="0.996078 0.964706 0.737255"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
-{\fonttbl{\f0\fnil\fcharset0\fprq2 SegoeUI;}{\f1\fnil\fcharset0\fprq2 Calibri;}}
-{\colortbl;\red0\green0\blue0;\red255\green255\blue255;}
-\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs0\cf0
-\pard\plain \ltrch\loch {\f1\fs20 ex}}]]></Comment>
-            <Comment ID="6B3125B4-52C5-4DD3-AE6D-2F808ACB87C4" Collapsed="No" Color="0.996078 0.964706 0.737255"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
-{\fonttbl{\f0\fnil\fcharset0\fprq2 SegoeUI;}{\f1\fnil\fcharset0\fprq2 Calibri;}}
-{\colortbl;\red0\green0\blue0;\red255\green255\blue255;}
-\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs0\cf0
-\pard\plain \ltrch\loch {\f1\fs20 description Repetition?}}]]></Comment>
-            <Comment ID="3C442B34-3841-45B1-BEF8-56B775402F4C" Collapsed="No" Color="0.996078 0.964706 0.737255"><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
-{\fonttbl{\f0\fnil\fcharset0\fprq2 SegoeUI;}{\f1\fnil\fcharset0\fprq2 Calibri;}}
-{\colortbl;\red0\green0\blue0;\red255\green255\blue255;}
-\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs0\cf0
-\pard\plain \ltrch\loch {\f1\fs20 concise}}]]></Comment>
-        </Comments>
-        <StyleIDs>B82F78DA-0DFA-4D1C-9546-9C8C86445B30,18C709D9-0D1E-4A41-8EDF-1CE668567134,43AFA13D-0E72-4BFC-9CFA-1E2EE20EEA29</StyleIDs>
+        <Title>AI</Title>
+        <Date>2023-08-06 16:54:31 -0400</Date>
+        <StyleIDs>B82F78DA-0DFA-4D1C-9546-9C8C86445B30,1F32382C-E958-415A-8607-CA55FC7BEED7</StyleIDs>
     </Snapshot>
     <Snapshot>
-        <Title>chatGPT Good</Title>
-        <Date>2023-08-05 07:21:03 -0400</Date>
-    </Snapshot>
-    <Snapshot>
-        <Title>Sparks</Title>
-        <Date>2023-08-05 07:26:52 -0400</Date>
+        <Title>ME</Title>
+        <Date>2023-08-06 17:10:59 -0400</Date>
+        <StyleIDs>B82F78DA-0DFA-4D1C-9546-9C8C86445B30,1F32382C-E958-415A-8607-CA55FC7BEED7</StyleIDs>
     </Snapshot>
 </Snapshots>
