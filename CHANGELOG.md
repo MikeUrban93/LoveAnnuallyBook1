@@ -1,5 +1,13 @@
 # Changelog
 
+#### 0.0.1.6 - MAU `2023-08-06`
+1. I moved scene 0100 to 0101.
+2. I inserted a new version of scene 0100 which is meant to be a compelling first one paragraph scene.
+3. I wrote character summaries for AI
+4. This is the safe point before I start writing scenes
+----
+
+
 #### 0.0.1.5 - MAU `2023-08-05`
 1. I finished the scene cards for the first chapter – "Evan Charmed Sarah."
 ----

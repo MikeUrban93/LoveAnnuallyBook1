@@ -164,7 +164,7 @@ Sarah found herself torn. She knew Evan's commitment to his sister and his promi
         </Document>
         <Document ID="1BAA3E5F-E801-4E2C-95F0-38B17D1E6BB2">
             <Title>0125 Evan Finds Sarah at the library</Title>
-            <Synopsis>For a second time, Evan returns to the scene of the kiss, looking for Sarah. He decides to look in the library, where he finds Sarah.</Synopsis>
+            <Synopsis>Evan finds Sarah at the library and charms into taking a break at the food court,</Synopsis>
             <Text>Scene Description:
 Scene Name: 0125 Evan Finds Sarah at the library
 Characters: Evan, Sarah
@@ -237,6 +237,9 @@ As Sarah grappled with the aftermath of the proposal, her father, a stoic yet fa
 In classic James Patterson style, this tale crescendos with Sarah's monumental decision. Facing the crossroads between her longstanding plan and the life she never imagined, she defies the odds, choosing Evan and her heart, thus beginning a thrilling journey into an unknown future.</Text>
             <Notes>[This scene is written in the style of James Patterson, using his distinctive fast-paced narrative and stark, high-contrast emotional landscape.]
 </Notes>
+        </Document>
+        <Document ID="1D90DF7D-B181-4F80-A856-9962BD3FAC7E">
+            <Title>Overview</Title>
         </Document>
         <Document ID="21506607-96CA-4FB1-8B5F-A1859F4DCEDE">
             <Title>Copyright</Title>
@@ -319,7 +322,8 @@ A week later, this location provides the venue for the scene where Sarah asks on
         </Document>
         <Document ID="29556064-441E-49DD-9A83-8B39F6CB33D6">
             <Title>Evan Vaughn</Title>
-            <Text>Name: Evan Vaughn
+            <Text>Character Profile:
+Name: Evan Vaughn
 Gender: Male
 Age: 21
 Place of Birth: Glenview, Illinois
@@ -446,7 +450,7 @@ Evan 7</CustomMetaData>
         </Document>
         <Document ID="2D0077F8-7819-4409-8E9B-3C702169BC73">
             <Title>Character Sketch: Short</Title>
-            <Text>Character Profile: 
+            <Text>Character Profile:
 Name: 
 Nickname: 
 Gender: 
@@ -1427,7 +1431,8 @@ In the style of Danielle Steel, this story unfolds with high emotion and heart-s
 [This scene is written in the style of Danielle Steele, with her signature blend of romantic turmoil and emotional upheaval, played out against the backdrop of everyday life.] </Notes>
         </Document>
         <Document ID="37D42D36-A774-4899-802F-E98617EEB2D3">
-            <Title>0122 Evan is a Man With a Plan</Title>
+            <Title>0121 Evan is a Man With a Plan</Title>
+            <Synopsis>For a second time, Evan returns to the scene of the kiss, looking for Sarah. He decides to look in the library.</Synopsis>
             <Text>Scene Description:
 Scene Name: 0122 Evan is a Man With a Plan
 Characters: Evan
@@ -1762,7 +1767,8 @@ Her brain said to stick to the plan. Her heart said to build a life with Evan. A
         <Document ID="616A9BC6-BDD8-4A09-87BC-2E6C4C9DB9E1"/>
         <Document ID="656EA0DE-4029-4F7D-9F91-1EB0BFB279B7">
             <Title>Nicole Jenkins</Title>
-            <Text>Name: Nicole Jenkins
+            <Text>Character Profile:
+Name: Nicole Jenkins
 Gender: Female
 Age: 28
 Current residence: Central Illinois
@@ -1783,6 +1789,21 @@ Nicole Jenkins, a woman in her late twenties, emanates a unique aura of creativi
 Born and raised in Central Illinois, Nicole discovered her knack for hairstyling at a young age, subsequently turning her passion into a rewarding career. Nicole has grown into a renowned hairstylist, recognized not just for her skill but also for her ability to connect and empathize with her clients.
 With a personality that can be defined as a blend of the Creator and ENFJ Myers-Briggs archetype, Nicole is friendly, outgoing, and incredibly insightful for her age. Her wisdom extends beyond her years, making her a confidante to many of her clients.
 Nicole plays a pivotal role in the novel as the hairstylist in charge of Sarah's pre-date transformation. When Katie approached her with the task of giving Sarah a hair makeover, she was more than willing to lend her expertise. What unfolds is not only a hair session but also a deep dive into Sarah's limited romantic past and prospects. In addition to beautifying Sarah's hair, Nicole becomes part of a female camaraderie that helps Sarah rediscover her desire for romantic exploration. During their appointment, Nicole's wisdom shines as she offers sage advice, becoming a guiding force in Sarah's decision to consider a relationship that she had previously shunned during her college years.</Text>
+        </Document>
+        <Document ID="680C9302-A82C-4619-9BA4-A4A3DD0CC804">
+            <Title>chatGPT: Special Instructions</Title>
+            <Text>Please ensure the scene is not dominated by dialogue. Integrate some narrative description and action into the dialogue to add depth and create a more dynamic scene. Avoid having many lines of dialogue without any breaks in between. Keep the characters 'doing' things while they're talking, making the scene more lively and engaging.
+
+Please revise and enhance this scene, but prioritize preserving my original dialogue and structure as much as possible. I'm particularly interested in maintaining the authentic voice of my characters and the specific flow of the conversation.
+
+Please revise and enhance this scene, but prioritize preserving my original dialogue and structure as much as possible. While the narrative description is important for setting the scene and expressing the characters' internal thoughts, I prefer a heavier emphasis on dialogue to carry the scene forward. Allow the characters' words and interactions to reveal their personalities and the nuances of the situation.
+
+
+&quot;Please preserve my original dialogue as much as possible. It's important that the dialogue serves as the primary driver of the scene. Use narrative description primarily to supplement the dialogue, providing context, mood, and introspection, but not steering the main course of events.&quot;
+&quot;Refrain from adding new lines of dialogue unless absolutely necessary for coherence or character development. I'd like the narrative to weave seamlessly around the original dialogue, providing connective tissue between the lines of speech rather than introducing new plot points or revelations.&quot;
+&quot;Use the narrative to enhance the existing dialogue, emphasizing character emotions, internal thoughts, and the setting as necessary. However, ensure the dialogue remains the central mechanism for moving the plot forward.&quot;
+
+</Text>
         </Document>
         <Document ID="6830B6AC-686B-4370-A979-2FD1D7288BDA">
             <Title>Places</Title>
@@ -1856,7 +1877,7 @@ Feel free to edit the text of the title page as required.</Notes>
             <Synopsis>Sarah meets with her parents in their hotel room. Sarah’s father is disappointed that she is breaking their agreement to attend an Ivy League school for her master’s degree and instead move to Chicago with Evan. He gives her a month to change her mind. He will cut off all financial support if she does not change her mind.</Synopsis>
         </Document>
         <Document ID="7147E055-DE73-44D4-BE5B-F3FFA3D07E64">
-            <Title>0121 Sarah Can't Concentrate</Title>
+            <Title>0122 Sarah Can't Concentrate</Title>
             <Text>In the belly of the college campus, nestled far beneath the radiant sunshine, the Undergraduate Library thrived. A pulsing, energetic heart in the subterranean world. Sarah, a familiar occupant of this hub of knowledge, felt like a stranger on that day.
 Sarah sat beneath the ever-vibrating fluorescence of the library lights, her once cascading blonde hair swept up hastily in a ponytail, a testament to her unsettled state of mind. The normal academic challenges that gave her pleasure were no longer enticing. She was distracted, unable to center her thoughts on anything other than the recent, life-altering kiss.
 In an attempt to battle the whirlwind of emotions, she found herself engaging in uncharacteristic activities. Neatening her workspace was an attempt to control the uncontrollable, to bring order to her chaotic feelings. The meticulous cleaning of her eyeglasses and the organization of her purse felt like menial tasks compared to the war waging within her.
@@ -1866,6 +1887,9 @@ Is this how women feel when they fall for someone? The question hung in her mind
 Days had passed since the kiss, days where her academic progress had been at a standstill, but Sarah had always been ahead. Her strong work ethic had given her a buffer, saving her from the brink of academic peril.
 In the lively and dynamic ambiance of the library, Sarah stood at the precipice of emotional turmoil, caught between her past resolution and her present desires. She was a ship adrift in an ocean of emotion, no landmark in sight, her compass spinning uncontrollably.</Text>
             <CustomMetaData>2006-09-22 11:00:00 University of Illinois Campus Outside the U Of I library 2006-09-22 10:00:00 0 10 Evan 11</CustomMetaData>
+        </Document>
+        <Document ID="729B3F09-32A7-48A5-B7C5-1F382D091995">
+            <Title>Chapter - Cliffhanger</Title>
         </Document>
         <Document ID="72BC7C6A-E804-44E3-B39F-C6F52C50AA4E">
             <Title>Outline</Title>
@@ -2025,9 +2049,14 @@ Nothing more was said as they headed home. The scene ends here. I want the reade
             <Title>Chapter - Evan Charmed Sarah</Title>
             <CustomMetaData>2006-09-25 10:41:00 2006-09-22 10:00:00</CustomMetaData>
         </Document>
+        <Document ID="7C650A18-9741-4399-AF5A-44180A409C03">
+            <Title>0195 Evan and Sarah Elope</Title>
+            <Synopsis>Short on funds and wanting to get married before Evan starts his new job, Sarah and Evan elope.</Synopsis>
+        </Document>
         <Document ID="7DC0A86F-0B58-4C98-93E5-EDF373D4BC1E">
             <Title>Sarah Wilkins</Title>
-            <Text>Name: Sarah Wilkins
+            <Text>Character Profile:
+Name: Sarah Wilkins
 Gender: Female
 Age: 21
 Place of Birth: Seattle, Washington
@@ -2226,20 +2255,49 @@ She was committed to achieving her lifelong goal; even her love for Evan would n
 
 </Text>
         </Document>
+        <Document ID="7F85ACF8-CF68-41D0-9621-C4458C3DCEE0">
+            <Title>Characters Short Description</Title>
+            <Text>Characters:
+Evan: 
+Role In Story: Protagonist and lead male love interest.
+Evan Vaughn, a 21-year-old personal trainer from Glenview, Illinois, exudes charm with his Chris Pratt-like appearance, hazel eyes, and medium-brown hair. Standing tall at 6'2&quot; with a lean, muscular build, he is loyal, polite, and seeks genuine connections in life..
+Sarah: 
+	Role In Story: Protagonist and lead female love interest.
+A sophisticated and ambitious businesswoman, torn between her lifelong goals and the love she shares with Evan. She exudes poise and intelligence, determined to follow her chosen path.
+Guido: 
+Role In Story: Evan’s best friend.
+An Italian-American personal trainer, embodying the bad-boy image with a heart of gold. Fiercely loyal to his friends, he brings comic relief and support to various characters in the story.
+Liz: 
+Role In Story:  Evan’s sister.
+A compassionate and nurturing woman who serves as a mentor and mother figure to Evan. Mature beyond her years, she remains unshakable in her support for her loved ones.
+Katie: 
+Role In Story: Sarah's student responsible for Sarah's pre-date makeover.
+A bubbly and friendly college freshman with a caring and helpful nature. Known for her modern and casual style, she forges a bond with Sarah during a transformative pre-date makeover.
+Nicole: 
+Role In Story: Hairstylist assigned to Sarah's pre-date hair makeover.
+A wise and insightful hairstylist, known for her creativity and empathetic approach to her clients. Her hair sessions extend beyond just styling, as she becomes a guiding force in helping Sarah rediscover her desire for romance.
+Jack Wilkins:
+Role In Story: Sarah's father who gives Sarah an ultimatum – work for him or build a life with Evan.
+ A tall and slender man in his mid-60s with blue eyes and gray hair, embodies a no-nonsense demeanor instilled by his hardworking farmer father. He built a successful multimillion-dollar enterprise while preparing his brilliant daughter, Sarah, to be tough and ready for the world 
+Mildred Wilkins: 
+Role In Story: Sarah's mother and Jack's supportive wife..
+A woman in her mid-60s, exudes grace with her vibrant blue eyes and gray hair, resembling actor Meryl Streep. As a devoted wife and caring mother, she supported her husband Jack in building their successful company and found fulfillment in her role as a nurturing caregiver.
+</Text>
+        </Document>
         <Document ID="8154460B-239F-40AB-962A-4514D8BC54D7">
-            <Title>0100 Sarah is Late for Class</Title>
-            <Synopsis>In the unique setting of an underground library, Sarah Wilkins loses track of time while engrossed in an audio seminar. Realizing she's late for teaching her Business-101 class, she quickly packs her belongings and rushes toward the library's exit, her seminar still playing in her ears. The scene ends as she reaches the stairs, setting the stage for a chain of unforeseen events.</Synopsis>
-            <Text>Sarah sat amidst the hum of the Undergrad Library, the quiet symphony of fervent academia filling her ears. Encased in the concrete womb of the subterranean structure, she was blissfully unaware of the perfect sunny day unfolding outside. Around her, the library pulsed with the breath of student life, the symbiosis of quiet studiousness and simmering energy all too evident. It was more than a collection of books and periodicals, it was a cocoon of culture and knowledge, a shrine built in deference to the neighboring Morrow Plots, whose shadows were untouched by any construction.
+            <Title>0100 Everything is on Track for Sarah</Title>
+            <Synopsis>Tucked away in her academic haven, sipping her favorite couple coffee, listening to a compelling audio seminar, reflecting on how smoothly her carefully orchestrated college plan is gone, college Senior Sarah Wilkins is blissfully unaware of the unforeseen encounter that will alter the course of her day, her semester, and perhaps her life.</Synopsis>
+            <Text>The underground undergrad library, a hidden sanctuary beneath the bustling campus of the University of Illinois Urbana-Champaign, housed a wealth of knowledge within its hallowed walls. It was a place where students sought refuge from the world above, diving into a sea of books, papers, and digital resources. One corner of the library was adorned with historical plaques, recounting the rich history of the university and its significance in agricultural research. Among these, the Morrow Plots, the oldest experimental cornfields in the world, stood as a testament to the university's enduring commitment to learning and growth.
+On this perfect day, the sun's warm rays filtered through the windows, casting a soft glow upon the students immersed in their studies. Among them was Sarah Wilkins, a driven and ambitious business major with a passion for international commerce. Her focused gaze fixated on her laptop screen, where an audio seminar on expanding business internationally played through her earbuds. It was a riveting discourse, and she couldn't help but hang on to every word, her desire for knowledge fueling her dedication.
+Unbeknownst to her, time was slipping away like grains of sand in an hourglass. Sarah's role as a teacher's assistant required her to teach a Business-101 class to eager first-year students, a responsibility she took seriously. However, in her engrossment with the seminar, she lost track of time and risked being late for the very class she was supposed to lead.
+The realization hit her like a bolt of lightning, causing her heart to race in panic. Hastily, she gathered her belongings from the study table, ensuring she didn't leave anything behind. The earbuds remained snugly nestled in her ears, playing the final few minutes of the seminar that held her captive.
+With every step, the urgency to reach her class on time intensified. Sarah wanted to catch every last word of the audio seminar, unwilling to sacrifice any valuable insights. Her determination propelled her forward as she navigated the labyrinthine corridors of the underground library.
+Ascending the stairs that led to the library's exit, Sarah's mind was singularly focused on her seminar, unaware of the world around her. The library, known for its tranquil ambiance, seemed like a mere backdrop to the knowledge she sought.
+As she ascended the stairs, the sounds of the library started to fade behind her. The footsteps of other students, the hushed whispers, and the soft rustling of pages were gradually replaced by the distant hum of the world above.
+Yet, unbeknownst to Sarah, fate had something in store for her. Beyond the confines of the library, an unforeseen encounter awaited her, one that would alter the course of her day, her semester, and perhaps even her life.
+The scene ends here, leaving the readers hanging in suspense as Sarah's journey continues towards the library exit, her earbuds still tightly in place, oblivious to the impending twist of destiny.
 
-Her earbuds funneled the animated voice from her audio seminar into her consciousness, an insightful monologue on expanding businesses internationally. In the intoxicating current of ideas, she found herself swept away, forgetting the real world around her. As a teaching assistant for Business-101, she often sought such engrossing material to keep her lessons engaging for her first-year students. 'There's so much these students can learn from this,' she thought to herself, an idea for the next class already blossoming in her mind.
-
-A sudden glance at her watch shattered her serenity. She was late. The usual orchestration of time had somehow slipped, and the maestro of her schedule had vanished in the wake of the riveting seminar. Her heart thumped in her chest, a drum echoing the rhythm of her rising panic. 'I can't believe I lost track of time,' she chastised herself.
-
-In a flurry of motion, she collected her belongings, the objects seeming to move in slow motion as she attempted to regain control of the runaway tempo of time. Books, pens, her tablet, all swept into her bag in a chaotic ballet of haste. With the last few minutes of her audio seminar still playing, she decided to leave her earbuds in. The outside world muted, she felt her way through the sounds of her heartbeat and the dwindling minutes of the seminar.
-
-Her footsteps echoed against the concrete stairs leading to the exit, each one amplifying her frantic rush. Just as she was about to push the heavy door, she hesitated, her breath hitching in her chest. She had left the safety of the library's cocoon, and what awaited her outside, only time would tell. 
-
-(This scene was written with elements of Danielle Steele's style, focusing on the internal thoughts and feelings of the main character, along with detailed descriptions of the setting and events.)</Text>
+</Text>
             <CustomMetaData>2006-09-21 09:59:00 University of Illinois Campus Library 2006-09-21 09:58:00 0 4 Sarah 1</CustomMetaData>
         </Document>
         <Document ID="83C8B88B-F2D3-4124-AB30-DDF9DBA17E8F">
@@ -2263,6 +2321,51 @@ The ballroom's high ceiling enhances the sense of space, accommodating the 30-40
 Round tables draped in crisp, white linens and adorned with minimalistic centerpieces are strategically arranged around the dance floor. Each seats four to six guests, promoting comfortable conversation and interaction among the party-goers. 
 On one side of the room, a long, buffet-style table offers a selection of refreshments and finger foods, ideal for refueling during the festivities. On the opposite side, a well-stocked bar serves a variety of drinks, tended by a friendly, skilled bartender. 
 Despite its formal setting, the Grand Ballroom exudes a youthful charm, making it a fitting location for a gathering of exuberant college students. The setting, while sophisticated, is infused with an infectious energy that inspires camaraderie, fun, and perhaps a touch of romance among its young guests.
+</Text>
+        </Document>
+        <Document ID="84DE2159-4E3C-4E72-9D74-6C5F2DA4F112">
+            <Title>GPT Outline</Title>
+            <Text>Chapter - A Budding Romance
+
+0100 Everything is on Track for Sarah
+0101 Sarah is Late for Class
+0105 Evan and Guido in the Quad
+0110 Evan And Sarah Kiss
+0115 Sarah is Frazzled
+0116 Evan Hopes for Sarah's Return
+
+Chapter - Evan Charmed Sarah
+
+0120 Waiting Game
+0121 Evan is a Man With a Plan
+0122 Sarah Can't Concentrate
+0125 Evan Finds Sarah at the library
+0130 Evan and Sarah Food Court Date
+
+Chapter - Sarah Prepares for First Date
+
+0140 Sarah Asks Katie For Help
+0145 Katie at Sarah’s Apartment
+0150 Sarah’s Makeover
+
+Chapter - Sarah and Evan’s First Date
+
+0160 Sarah &amp; Evan’s First Date
+0164 Evan Gives Sarah a Pendant
+0165 Sarah Updates Katie
+
+Chapter - Evan Proposes to Sarah
+
+0170 Graduation Party
+0175 Sarah's Meets with Her Parents
+0180 Evan Meets Sarah's Parents
+0185 Evan Proposes
+0190 Sarah's Father Gives Her an Ultimatum
+
+Chapter - Cliffhanger
+
+0195 Evan and Sarah Elope
+0196 Sarah has Second Thoughts
 </Text>
         </Document>
         <Document ID="84FC3F31-E7B4-470D-861F-A4D2B8602D39">
@@ -2313,6 +2416,11 @@ Information</Text>
 Insert dedication here.</Text>
             <Notes>Feel free to delete this document if you don’t need it.</Notes>
         </Document>
+        <Document ID="88DC9324-D253-43C0-B938-EC282FBE9494">
+            <Title>0196 Sarah has Second Thoughts</Title>
+            <Synopsis>While all indications are the happy couple is excited and ready to start a life together, all may not be as it seems.
+After the quick marriage ceremony is over, and Sarah and Evan are officially married, Sarah retreats to the lady's restroom. Stonefaced, she stares at herself in the mirror and asks herself, &quot;Oh my god. What have I done?&quot;</Synopsis>
+        </Document>
         <Document ID="8BE8F759-FE67-466E-B57F-7CFEE76F342C">
             <Title>List</Title>
             <Text>Sarah's Apartment
@@ -2349,7 +2457,7 @@ The Quad hummed with life, witnessing yet another chapter of Evan and Guido's ad
 Evan 1</CustomMetaData>
         </Document>
         <Document ID="917E0B6F-6E2F-4AE4-8707-2EBBE0D5AAEB">
-            <Title>0122 Evan is a Man With a Plan</Title>
+            <Title>0121 Evan is a Man With a Plan</Title>
             <Text>Evan Vaughn drove his seasoned Subaru SUV, the odometer proudly displaying over a hundred thousand miles, towards the college campus. The weather was a replica of that unforgettable day when he first met Sarah, a perfect day where the sun beamed merrily and the air held just the right amount of warmth.
 
 Inside the car, the radio played an upbeat tune, setting the rhythm of the morning. Last night, the Cubs had scored a win, and it felt like a personal victory. Life was shining bright.
@@ -2367,17 +2475,19 @@ Author's style: Direct and energetic, focusing on inner dialogue and sensory des
         </Document>
         <Document ID="9260A273-9781-4F71-A1F5-FED967335E07">
             <Title>chatGPT4</Title>
-            <Text>For two seniors, Sarah Wilkins and Evan Vaughn, their first semester at the University of Illinois Urbana-Champaign is under way. They've never met, as their social circles don't intersect. Evan, a charismatic, athletic young man, commands popularity not by choice, but by virtue of his outgoing personality. Despite his natural allure, he remains grounded thanks to the guidance from his saintly sister, Liz, treating everyone with kindness.
+            <Text>For two seniors, Sarah Wilkins and Evan Vaughn, their first semester at the University of Illinois Urbana-Champaign is underway. They've never met, as their social circles don't intersect. Evan, a charismatic, athletic young man, commands popularity not by choice but by virtue of his outgoing personality. Despite his natural allure, he remains grounded thanks to the guidance from his saintly sister, Liz, treating everyone with kindness.
 Evan isn't the most diligent student, preferring the outdoors to the confines of classrooms and libraries. However, to uphold a promise to Liz, he's striving for a minimum GPA of 3.0. As he enters his senior year, his grades are teetering on this threshold, and he is compelled to trade Frisbee games for study sessions at the undergrad library.
 Contrastingly, Sarah is a stellar student, poised to graduate at the top of her class. As a business major and teaching assistant, she considers the library her sanctuary, often losing herself in riveting audio seminars, like one on international business strategies. One day, engrossed in her seminar, she realizes she's running late for a class she's teaching. In her rush, she neglects her surroundings and dashes towards a flight of stairs without a handrail.
-Evan, heading her way, spots the impending accident. He calls out to her, but she doesn't hear him. He makes a dash to intercept her before she reaches the stairs, managing to catch her just in time. This unexpected encounter leads to a spontaneous, passionate kiss. 
+Evan, heading her way, spots the impending accident. He calls out to her, but she doesn't hear him. He dashes to intercept her before she reaches the stairs, catching her just in time. This unexpected encounter leads to a spontaneous, passionate kiss. 
 Sarah, brought up with a single-minded focus on academics and preparing to take over her father's business, has little experience with romance. She had sworn off any romantic entanglements until she completed her Master’s degree and embarked on her professional journey. 
 In a whirlwind, Sarah leaves without providing Evan her name or contact. Later, Evan manages to track her down, returning a pair of glasses she had left behind and charming her into taking a break at the food court. Despite her initial hesitation, she gives in to Evan’s allure. 
 Their encounter at the food court leaves Sarah questioning herself as she witnesses Evan’s popularity, especially among the female students. Feeling out of place, she retreats, but Evan convinces her to agree to a date. Uncertain about dating norms, Sarah enlists the help of one of her top students, Katie, to modernize her look and prep her for the date. 
-During their date, Sarah proposes a business-like arrangement with Evan, setting rules and expectations that prioritize her academics. Evan, who has been smitten since their first encounter, happily agrees. As they continue to see each other, Sarah allows herself to experience romance and affection, while Evan, with Sarah’s help, becomes a better student. 
-Their senior year unfolds beautifully. Sarah expands her social circle, and Evan lands a good job in Chicago. As graduation approaches, however, Sarah grapples with her future choices – Ivy League schools for her Master's or staying with Evan. Unbeknownst to her, Evan is planning to propose at the graduation party, inviting her parents for the surprise.
+During their date, Sarah proposes a business-like arrangement with Evan, setting rules and expectations and prioritizing her academics. Evan, who has been smitten since their first encounter, happily agrees. As they continue to see each other, Sarah allows herself to experience romance and affection, while Evan becomes a better student with Sarah’s help. 
+Their senior year unfolds beautifully. Sarah expands her social circle, and Evan lands a good job in Chicago. As graduation approaches, however, Sarah grapples with her future choices – Ivy League schools for her Master's or staying with Evan. Unbeknownst to her, Evan plans to propose at the graduation party, inviting her parents for the surprise.
 Sarah, who has downplayed the seriousness of their relationship to her parents, is taken aback by Evan’s proposal. She fears disappointing her father by deviating from her initial plan. Following the party, her father presents her with two choices – follow Evan to Chicago and build a life there, or stick to the original plan of pursuing her Master's and eventually joining her father’s business. If she chooses Evan, her father will cut off financial support.
-Sarah is torn between her love for Evan and the commitment to her father. Despite the complexities, her heart prevails, and she chooses to build a life with Evan in Chicago.</Text>
+Sarah is torn between her love for Evan and her commitment to her father. Despite the complexities, her heart prevails, and she chooses to build a life with Evan in Chicago. Sarah and Evan elope. 
+While all indications are the happy couple is excited and ready to start a life together, all may not be as it seems.
+After a quick marriage ceremony, and Sarah and Evan are officially married, Sarah retreats to the lady’s restroom. Stonefaced, she stares at herself in the mirror and asks herself, &quot;Oh my god. What have I done!?&quot;</Text>
         </Document>
         <Document ID="942C1CBE-4C42-4C86-8328-A80A8E59E4BC">
             <Title>0160 Sarah &amp; Evan’s First Date</Title>
@@ -2403,11 +2513,29 @@ Evan 11</CustomMetaData>
 Your dedication here.</Text>
             <Notes>Feel free to delete this document if you don’t need it.</Notes>
         </Document>
+        <Document ID="998593CF-9DAD-4F6E-A4CC-F6D7207EFC4B">
+            <Title>0100 Everything is on Track for Sarah-1</Title>
+            <Synopsis>In the unique setting of an underground library, Sarah Wilkins loses track of time while engrossed in an audio seminar. Realizing she's late for teaching her Business-101 class, she quickly packs her belongings and rushes toward the library's exit, her seminar still playing in her ears. The scene ends as she reaches the stairs, setting the stage for a chain of unforeseen events.</Synopsis>
+            <Text>The underground undergrad library, a hidden sanctuary beneath the bustling campus of the University of Illinois Urbana-Champaign, housed a wealth of knowledge within its hallowed walls. It was a place where students sought refuge from the world above, diving into a sea of books, papers, and digital resources. One corner of the library was adorned with historical plaques, recounting the rich history of the university and its significance in agricultural research. Among these, the Morrow Plots, the oldest experimental cornfields in the world, stood as a testament to the university's enduring commitment to learning and growth.
+On this perfect day, the sun's warm rays filtered through the windows, casting a soft glow upon the students immersed in their studies. Among them was Sarah Wilkins, a driven and ambitious business major with a passion for international commerce. Her focused gaze fixated on her laptop screen, where an audio seminar on expanding business internationally played through her earbuds. It was a riveting discourse, and she couldn't help but hang on to every word, her desire for knowledge fueling her dedication.
+Unbeknownst to her, time was slipping away like grains of sand in an hourglass. Sarah's role as a teacher's assistant required her to teach a Business-101 class to eager first-year students, a responsibility she took seriously. However, in her engrossment with the seminar, she lost track of time and risked being late for the very class she was supposed to lead.
+The realization hit her like a bolt of lightning, causing her heart to race in panic. Hastily, she gathered her belongings from the study table, ensuring she didn't leave anything behind. The earbuds remained snugly nestled in her ears, playing the final few minutes of the seminar that held her captive.
+With every step, the urgency to reach her class on time intensified. Sarah wanted to catch every last word of the audio seminar, unwilling to sacrifice any valuable insights. Her determination propelled her forward as she navigated the labyrinthine corridors of the underground library.
+Ascending the stairs that led to the library's exit, Sarah's mind was singularly focused on her seminar, unaware of the world around her. The library, known for its tranquil ambiance, seemed like a mere backdrop to the knowledge she sought.
+As she ascended the stairs, the sounds of the library started to fade behind her. The footsteps of other students, the hushed whispers, and the soft rustling of pages were gradually replaced by the distant hum of the world above.
+Yet, unbeknownst to Sarah, fate had something in store for her. Beyond the confines of the library, an unforeseen encounter awaited her, one that would alter the course of her day, her semester, and perhaps even her life.
+The scene ends here, leaving the readers hanging in suspense as Sarah's journey continues towards the library exit, her earbuds still tightly in place, oblivious to the impending twist of destiny.
+
+</Text>
+            <CustomMetaData>2006-09-21 09:59:00 University of Illinois Campus Library 2006-09-21 09:58:00 0 4 Sarah 1</CustomMetaData>
+        </Document>
         <Document ID="9A318D7B-8C58-41CE-8978-2479B3EDC67A">
             <Title>Chapter - Evan Proposes to Sarah</Title>
         </Document>
         <Document ID="9A470BDE-CF2B-4872-97C6-74F19BC90197">
             <Title>Sample Output</Title>
+            <Text>
+</Text>
         </Document>
         <Document ID="9A8901EA-67DA-4051-9D61-5AA662EE7EA3">
             <Title>0116 Evan Hopes for Sarah's Return</Title>
@@ -2466,17 +2594,150 @@ Asian Restaurant
 Champagne Hotel - Grand Ballroom
 Champagne Hotel - Luxurious Suite</Notes>
         </Document>
+        <Document ID="9FAEBC41-2A1A-46B2-BF07-FC8C5BE10BAE">
+            <Title>0101 Sarah is Late for Class</Title>
+            <Synopsis>In the unique setting of an underground library, Sarah Wilkins loses track of time while engrossed in an audio seminar. Realizing she's late for teaching her Business-101 class, she quickly packs her belongings and rushes toward the library's exit, her seminar still playing in her ears. The scene ends as she reaches the stairs, setting the stage for a chain of unforeseen events.</Synopsis>
+            <Text>The underground undergrad library, a hidden sanctuary beneath the bustling campus of the University of Illinois Urbana-Champaign, housed a wealth of knowledge within its hallowed walls. It was a place where students sought refuge from the world above, diving into a sea of books, papers, and digital resources. One corner of the library was adorned with historical plaques, recounting the rich history of the university and its significance in agricultural research. Among these, the Morrow Plots, the oldest experimental cornfields in the world, stood as a testament to the university's enduring commitment to learning and growth.
+On this perfect day, the sun's warm rays filtered through the windows, casting a soft glow upon the students immersed in their studies. Among them was Sarah Wilkins, a driven and ambitious business major with a passion for international commerce. Her focused gaze fixated on her laptop screen, where an audio seminar on expanding business internationally played through her earbuds. It was a riveting discourse, and she couldn't help but hang on to every word, her desire for knowledge fueling her dedication.
+Unbeknownst to her, time was slipping away like grains of sand in an hourglass. Sarah's role as a teacher's assistant required her to teach a Business-101 class to eager first-year students, a responsibility she took seriously. However, in her engrossment with the seminar, she lost track of time and risked being late for the very class she was supposed to lead.
+The realization hit her like a bolt of lightning, causing her heart to race in panic. Hastily, she gathered her belongings from the study table, ensuring she didn't leave anything behind. The earbuds remained snugly nestled in her ears, playing the final few minutes of the seminar that held her captive.
+With every step, the urgency to reach her class on time intensified. Sarah wanted to catch every last word of the audio seminar, unwilling to sacrifice any valuable insights. Her determination propelled her forward as she navigated the labyrinthine corridors of the underground library.
+Ascending the stairs that led to the library's exit, Sarah's mind was singularly focused on her seminar, unaware of the world around her. The library, known for its tranquil ambiance, seemed like a mere backdrop to the knowledge she sought.
+As she ascended the stairs, the sounds of the library started to fade behind her. The footsteps of other students, the hushed whispers, and the soft rustling of pages were gradually replaced by the distant hum of the world above.
+Yet, unbeknownst to Sarah, fate had something in store for her. Beyond the confines of the library, an unforeseen encounter awaited her, one that would alter the course of her day, her semester, and perhaps even her life.
+The scene ends here, leaving the readers hanging in suspense as Sarah's journey continues towards the library exit, her earbuds still tightly in place, oblivious to the impending twist of destiny.
+
+</Text>
+            <CustomMetaData>2006-09-21 09:59:00 University of Illinois Campus Library 2006-09-21 09:58:00 0 4 Sarah 1</CustomMetaData>
+        </Document>
         <Document ID="A2ABAC4E-F1EE-43FD-82F2-5F574F6B2306">
             <Title>0145 Katie at Sarah’s Apartment</Title>
             <Synopsis>Katie arrives at Sarah’s up argument to help her pick clothes for her date. Katie and Sarah get to know each other a little bit better.</Synopsis>
+            <Text>Scene Description:
+Scene Name: 0140 Sarah Asks Katie For Help
+Characters: Sarah, Katie
+POV: Third person limited, from Sarah's perspective 
+Location: Sarah’s Apartment
+Tone: Frantic
+Weather: Not relevant for this scene
+Special Instructions: 
+Please revise and enhance this scene, but prioritize preserving my original dialogue and structure as much as possible. While the narrative description is important for setting the scene and expressing the characters' internal thoughts, I prefer a heavier emphasis on dialogue to carry the scene forward. Allow the characters' words and interactions to reveal their personalities and the nuances of the situation.
+Sequence of Events:
+Sarah and Katie arrive at Sarah’s luxury off-campus apartment.
+“Wow, this place is amazing! How many bedrooms are there?” asked Katie.
+“Two,” replied Sarah.
+“Is your roommate home?”
+“I don’t have a roommate. It’s just me.”
+“No roommate!? You must be rich.”
+“My father is. He owns a multimillion-dollar corporation. He wanted me to have an extra bedroom that I could use as an office. I prefer my office in my bedroom, or I work at the dining room table where I have spread out.”
+“I can’t even imagine what it’s like not to have to share a room. It makes it impossible to study.”
+“If you like, you can use my place if you need to study for a big test or just need some quiet time,” Sarah offered.
+“That would be wonderful! Are you sure it’s okay?”
+“Yes, just give me some advance notice. If you stay the night, I just asked that you wash the linens and return the room to its normal condition before you leave.”
+“Absolutely! Thank you so much,” Katie said and then gave Sarah another hug. 
+Sarah was not used to being hugged in such an affectionate way. She was surprised how good it felt.
+“I scheduled an appointment with my stylist. She asked me to send a picture, so she can get an idea of what she might want to do.”
+Katie snapped a picture of Sarah and sent it to her stylist. “She has you penciled in at 3 o’clock. Before I confirm, I need to know your budget,” said Katie.
+“I don’t have any budgetary constraints. My father always stresses how important it is to look your best in any situation. He provides me with a credit card, pays my expenses, and gives me a generous allowance each month. It’s way more than I need. I end up with about half of everything in the bank.”
+“Wow, you are the luckiest girl I know! It is going to be fun shopping with you,” said an ecstatic Katie. “You said it had been a while since you dated?”
+“I haven’t dated since I was 16,” admitted Sarah.
+“16? If you don’t mind me asking, are you a,” Katie paused for a moment, then continued, “virgin?” 
+“No. I was never very interested in sex. But that’s all the other girls ever seemed to talk about when I was in high school. I got curious and wanted to see what all the fuss was about. There was a boy I was attracted to, so I chose him to be my first.
+“I discussed it with my parents. While they did not approve, they usually support me when I have thoroughly considered a decision. They even bought me condoms.”
+“I wish I had parents like that,” said Katie. “So, how’d it go with the guy?”
+“At first, I liked the idea of having a boyfriend. But after we had sex a few times, that’s all he wanted to do. That ended quickly. I thought I’d give it one more try with another guy. He was in all my honor classes, and we had a lot more in common, but my schedule was too busy for a boyfriend, so we broke up. I didn’t find the sex all that great, and I have thought little about boys or sex since then.”
+“You were young. He was young. It’ll be different when you find the right guy. So, tell me about the guy you’re dating tonight. What’s his name? How did you meet?”
+Sarah’s facial expression brightened. “His name is Evan. We bumped into each other outside the Undergrad Library. He saved me from falling on the steps. I don’t know what came over me, but the way he looked at me and told me he wanted to kiss me. I just couldn’t help myself,” Sarah confessed.
+“So, did you kiss?” Katie asked in great anticipation.
+“Yes, we did! Katie, I’ve never experienced anything like that. It was like this whole other version of myself took over my body, and it felt incredible. My body was vibrating for hours afterward. Evan said the universe meant for us to meet like that.”
+“Oh my gosh, that’s so romantic! Did that happen last week before class? Was that why you were late?”
+“Yes. After we kissed, I got scared and ran off.”
+“Scared? Were you worried about being late for class?”
+“Not that. I feared the way he made me feel. I decided not to date anyone while I was in school. I’ve seen other girls lose focus because of a guy. Their grades suffered, and one girl even had to drop out of a class to avoid failing.
+“I came to this university to get a bachelor’s degree and to make academic and business contacts that might help me in my future. I did not enroll in college to fall for some guy.”
+“If you ran away, how did you end up making a date?” asked Katie.
+“I lost my glasses during the fall. He fixed them and tracked me down in the library. I did my best to resist him, but eventually, I agreed to go out with him.”
+“So, you decided to break your no dating policy?”
+“I didn’t have a choice. Every time he kisses me, I can’t think straight. Since the moment I met him, I haven’t been able to study or focus on anything. All I think about is him. Maybe this date will help clear my mind.”
+“Are you worried this might develop into something more?”
+“I have thought a lot about that. If I could find a way to have a relationship with Evan without being distracted from my work, I would like that. The thought of having someone by my side when attending an event or someone to hang out with here at the apartment has great appeal,” admitted Sarah.
+“And he is a good kisser!” added Katie.
+Sarah laughed and said, “That is a large part of the appeal.”
+“Have you thought about having sex with Evan? The right partner might change your mind about sex.”
+“It’s hard for me to think of anything else. Something about that man just does it for me in the best way. It’s both terrifying and exciting, if that makes any sense.”
+“It does!” said Katie. “I think I got a pretty good picture of what’s going on here. Can we look at your wardrobe?”
+Sarah showed Katie her bedroom closet. Sarah’s closet was divided into three distinct sections, business attire, formal attire, and casual. The casual being the smallest, containing a couple of pairs of jeans and tops.
+“Are these designer dresses?” Katie asked in amazement.
+“Yes.”
+“They are gorgeous but overkill for your date tonight. Do you ever wear them?” “All the time. My father stresses the importance of allocating some of my time to philanthropic endeavors. He says it’s good to give to those less fortunate and a great way to make business connections, and it looks good on a resume. Since I don’t need money, I volunteer as an events coordinator for various nonprofit companies in the area. Almost every week, I am attending either a fundraising event or a business social.”
+ “I didn’t know you led such an interesting life. Alright, let’s get to business. Nothing in this closet is going to help us tonight. After your makeover, we’ll hit the mall hard and find you something perfect for this evening. I can’t go shopping with you in that business suit,” said Katie as she handed Liz a pair of jeans and a top from the closet.
+Katie asked Sarah, “Do you have contacts?”
+“Yes.”
+“Change into these clothes and put your contacts in, and we’ll head to our appointment. Do you have a Facebook account?”
+“Yes, I do,” answered Sarah.
+“Do you mind if I look at it while you get ready?”
+“Go ahead, open the laptop on the table, and it should log you in.”</Text>
             <CustomMetaData>2006-09-28 14:00:00 Champaign, Illinois Sarah's Apartment 2006-09-28 13:00:00 0 7 Sarah
 Katie Andrews 11</CustomMetaData>
         </Document>
         <Document ID="A3C54D26-2DCE-4EF4-A0B2-373C85201A27">
             <Title>0140 Sarah Asks Katie For Help</Title>
             <Synopsis>After class, Sarah asked Katie to help her prepare for her date with Evan. Katie enthusiastically agrees.</Synopsis>
+            <Text>Scene Description:
+Scene Name: 0140 Sarah Asks Katie For Help
+Characters: Sarah, Katie
+POV: Third person limited, from Sarah's perspective 
+Location: Sarah’s Classroom
+Tone: Frantic
+Weather: Not relevant for this scene
+Special Instructions: 
+Please revise and enhance this scene, but prioritize preserving my original dialogue and structure as much as possible. While the narrative description is important for setting the scene and expressing the characters' internal thoughts, I prefer a heavier emphasis on dialogue to carry the scene forward. Allow the characters' words and interactions to reveal their personalities and the nuances of the situation.
+Sequence of Events:
+The students of Sarah’s Business 101 course were busy taking their exams. Sarah placed a folded note on the desk of one of her brightest students, Katie Andrews. The message read, Can you meet me after class?
+Katie Andrews is bubbly. She had pink highlights in her hair and always had a smile on her face. She was always quick to make a friend. At the end of class, Katie waited for all the other students to leave and then walked up to Sarah’s desk ex.
+“Hi, Ms. Wilkins. What’s up?” Katie asked.
+“Thank you for meeting with me. I’ve always admired your style, even though it’s different from mine. I have a first date tonight and want to look appropriate for the evening. I haven’t been on a date in a while, and I’m unsure what to wear.”
+“I’d love to help!” said an excited Katie. “Are we talking wardrobe only or full makeover?”
+Sarah pondered for a moment. “Whatever you think is best.”
+“Really! Oh my gosh, Ms. Wilkins, I would love to do a full makeover! The other girls are going to be so jealous.”
+“Why?” Sarah asked.
+“In this class, it’s every girl’s fantasy to do a makeover on you, and it’s every boy’s fantasy that by day you are a stuffy, uptight teacher, but at night you’re a sexy vixen.” Katie let out a quick laugh and then said, “Oh no, I hope that didn’t sound offensive.”
+Sarah laughed, “I’m not offended; I understand.”
+“What time is your date?”
+“It’s at 7 PM at the Thai Garden Restaurant.”
+“I heard that place has great food! Do you live off-campus?”
+“Yes, I have an apartment about 10 minutes away.”
+“I don’t have a car. Can you pick me up by the freshman dorms in about an hour?”
+“I’ll be there,” confirmed Sarah as she gave Katie a business card with her cell phone number on it.
+“Great! I can’t wait.” Katie said enthusiastically and then gave Sarah a big hug. “If we are going to be friends, I’d like to call you by your first name. Would that be okay?”
+“Of course, my name is Sarah.”
+</Text>
             <CustomMetaData>2006-09-28 11:00:00 University of Illinois Campus Classroom 2006-09-28 10:00:00 0 7 Sarah
 Katie Andrews 11</CustomMetaData>
+            <Notes>Please ensure the scene is not dominated by dialogue. Integrate some narrative description and action into the dialogue to add depth and create a more dynamic scene. Avoid having many lines of dialogue without any breaks in between. Keep the characters 'doing' things while they're talking, making the scene more lively and engaging.
+
+Please revise and enhance this scene, but prioritize preserving my original dialogue and structure as much as possible. I'm particularly interested in maintaining the authentic voice of my characters and the specific flow of the conversation.
+
+Please revise and enhance this scene, but prioritize preserving my original dialogue and structure as much as possible. While the narrative description is important for setting the scene and expressing the characters' internal thoughts, I prefer a heavier emphasis on dialogue to carry the scene forward. Allow the characters' words and interactions to reveal their personalities and the nuances of the situation.
+</Notes>
+        </Document>
+        <Document ID="A8CF9D51-0CED-490F-A80F-DDD905D05AF3">
+            <Title>AI: Custom Instructions</Title>
+            <Text>Custom Instructions:
+* I am an amateur writer using chat GPT to write scenes for my novel.
+* For scenes involving the main character Evan Vaughn, use the profile provided for Evan.
+* For scenes involving the main character Sarah, use the profile provided for Sarah.
+* For scenes involving the main character Guido, use the profile provided for Guido.
+*Please ensure that the character profiles are accurately applied in each scene to maintain consistency.
+
+When writing scenes:
+* Please write all scenes using simple past tense.
+* Please avoid meta-references to the 'scene' or the writing process within the narrative itself. Keep the reader immersed in the story.
+* Conclude each scene with an evocative image or action that naturally implies an end or transition, without explicitly stating the scene is ending.
+* Always identify the author's style used in writing the scene at the end of the scene.
+* Use italics instead of quotes for internal dialogue.
+* Whenever I provide an updated character profile, please note that this does not require an immediate scene creation unless explicitly requested.
+* Please adhere to the standard dialogue writing convention of starting a new paragraph with every change of speaker</Text>
         </Document>
         <Document ID="A9555E0F-BF5C-46CD-803C-8A8E5D53C879">
             <Title>ChatGPT4</Title>
@@ -2484,7 +2745,8 @@ Katie Andrews 11</CustomMetaData>
         <Document ID="AEE3787F-84B9-4512-9B7F-AA64C8CFDE59"/>
         <Document ID="B305D270-DD3B-453B-A85F-31D5446479FB">
             <Title>Katie Andrews</Title>
-            <Text>Name: Katie Andrews
+            <Text>Character Profile:
+Name: Katie Andrews
 Gender: Female
 Age: 18
 Vehicle Driven: She does not have a car
@@ -2528,7 +2790,7 @@ Throughout their shared experience, Katie shows her genuine character and caregi
         </Document>
         <Document ID="B892E29A-E89D-430F-9294-768C21C1122F">
             <Title>Sarahs Father - Jack Wilkins</Title>
-            <Text>Character Profile: 
+            <Text>Character Profile:
 Name: Jack Wilkins
 Gender: Male
 Age: Mid-60s
@@ -2579,6 +2841,133 @@ After earning his bachelor's degree in business, Jack was ready to break free fr
 Fatherhood came with its disappointments and joys for Jack. His initial disappointment of having a daughter was swiftly replaced by pride when his daughter, Sarah, demonstrated early signs of brilliance. Jack nurtured Sarah's intellect and ambition, preparing her to eventually take over the family business. His approach to parenting mirrored his overall disposition in life, rational, pragmatic, and perhaps a bit distant.
 Jack's deep love for his daughter might not be easily discernible through his actions, but it has always been there. He desired Sarah to be tough and prepared for the world. The occasional awkwardness during their rare affectionate moments hinted at a man who struggled with expressing his emotions but never questioned the depth of his feelings. Jack Wilkins is not a man of many words, but his actions speak volumes about his character - a hard-working, pragmatic, and loving father who prepared his daughter for a world he knew was not always kind.</Text>
         </Document>
+        <Document ID="BD80F254-8FC5-48D8-B17D-AB082EEFD79E">
+            <Title>Outline</Title>
+            <Text>Novel Outline:
+Chapter - A Budding Romance
+
+    0100 Everything is on Track for Sarah
+        Tucked away in her academic haven, sipping her favorite couple coffee, listening to a compelling audio seminar, reflecting on how smoothly her carefully orchestrated college plan is gone, college Senior Sarah Wilkins is blissfully unaware of the unforeseen encounter that will alter the course of her day, her semester, and perhaps her life.
+    0101 Sarah is Late for Class
+        In the unique setting of an underground library, Sarah Wilkins loses track of time while engrossed in an audio seminar. Realizing she's late for teaching her Business-101 class, she quickly packs her belongings and rushes toward the library's exit, her seminar still playing in her ears. The scene ends as she reaches the stairs, setting the stage for a chain of unforeseen events.
+    0105 Evan and Guido in the Quad
+        Evan and Guido are playing Frisbee in the Quad. Evan decides to head to the library for extra study time to keep his grade point average above 3.0 – a promise he made to his sister Liz.
+    0110 Evan And Sarah Kiss
+        Evan sees Sarah, a woman he has never met, headed for disaster in the form of concrete steps. He rushes to save her from a dangerous fall, and in the process, they share a kiss.
+    0115 Sarah is Frazzled
+        Sarah arrives at her class uncharacteristically five minutes late. The typically well-prepared, professional Sarah finds herself frazzled but turns it into a well-received class session.
+    0116 Evan Hopes for Sarah's Return
+        Evan stayed put, sitting on the stairs where he had just kissed the woman of his dreams. He hoped that she returned to the scene of the kiss. When she didn't show, he returned to the Quad to tell Guido all about what had just happened.
+
+Chapter - Evan Charmed Sarah
+
+    0120 Waiting Game
+    0121 Evan is a Man With a Plan
+    0122 Sarah Can't Concentrate
+    0125 Evan Finds Sarah at the library
+        For a second time, Evan returns to the scene of the kiss, looking for Sarah. He decides to look in the library, where he finds Sarah.
+    0130 Evan and Sarah Food Court Date
+        Evan convinces Sarah to break from her studies and join him at the food court for a snack. 
+
+Chapter - Sarah Prepares for First Date
+
+    0140 Sarah Asks Katie For Help
+        After class, Sarah asked Katie to help her prepare for her date with Evan. Katie enthusiastically agrees.
+    0145 Katie at Sarah’s Apartment
+        Katie arrives at Sarah’s up argument to help her pick clothes for her date. Katie and Sarah get to know each other a little bit better.
+    0150 Sarah’s Makeover
+        Katie’s hairdresser gives Sarah a makeover.
+
+Chapter - Sarah and Evan’s First Date
+
+    0160 Sarah &amp; Evan’s First Date
+        Sarah and Evan meet at an Asian restaurant for their first official date. Sarah suggests that they begin a relationship with certain conditions. Evan happily agrees.
+    0164 Evan Gives Sarah a Pendant
+        After dinner, Evan gives Sarah a customized, inexpensive pendant before leaving in her car. The pendant is more of a sentimental piece of jewelry meant to commemorate the unique way statement. Although Sarah is accustomed to wearing expensive jewelry, she loves the pendant Evan had made for her.
+    0165 Sarah Updates Katie
+        After a magical first date, Sarah returns to her apartment to share the evening events with Katie. Katie and Sarah are excited to see that Evan has requested that he and Sarah change their Facebook status to “In a Relationship.”
+
+Chapter - Evan Proposes to Sarah
+
+    0170 Graduation Party
+        Evan and Guido throw a large graduation party – inviting their large group of friends.
+    0175 Sarah's Meets with Her Parents 
+        Sarah is shocked to see her parents are attending the party. Evan had secretly invited her parents.
+    0180 Evan Meets Sarah's Parents
+        Evan briefly meets Sarah’s parents but has to leave quickly to prepare for the party's special events.
+    0185 Evan Proposes
+        Evan presents Sarah with a plaque honoring her status as top of her graduating class. While Sarah is onstage receiving her plaque, she is shocked to see Evan on one knee proposing to her. Although conflicted, she accepts his proposal – much to her father's dismay.
+    0190 Sarah's Father Gives Her an Ultimatum 
+        Sarah meets with her parents in their hotel room. Sarah’s father is disappointed that she is breaking their agreement to attend an Ivy League school for her master’s degree and instead move to Chicago with Evan. He gives her a month to change her mind. He will cut off all financial support if she does not change her mind.
+
+
+Chapter - A Budding Romance
+
+0100 Everything is on Track for Sarah
+    Tucked away in her academic haven, sipping her favorite couple coffee, listening to a compelling audio seminar, reflecting on how smoothly her carefully orchestrated college plan is gone, college Senior Sarah Wilkins is blissfully unaware of the unforeseen encounter that will alter the course of her day, her semester, and perhaps her life.
+0101 Sarah is Late for Class
+    In the unique setting of an underground library, Sarah Wilkins loses track of time while engrossed in an audio seminar. Realizing she's late for teaching her Business-101 class, she quickly packs her belongings and rushes toward the library's exit, her seminar still playing in her ears. The scene ends as she reaches the stairs, setting the stage for a chain of unforeseen events.
+0105 Evan and Guido in the Quad
+    Evan and Guido are playing Frisbee in the Quad. Evan decides to head to the library for extra study time to keep his grade point average above 3.0 – a promise he made to his sister Liz.
+0110 Evan And Sarah Kiss
+    Evan sees Sarah, a woman he has never met, headed for disaster in the form of concrete steps. He rushes to save her from a dangerous fall, and in the process, they share a kiss.
+0115 Sarah is Frazzled
+    Sarah arrives at her class uncharacteristically five minutes late. The typically well-prepared, professional Sarah finds herself frazzled but turns it into a well-received class session.
+0116 Evan Hopes for Sarah's Return 
+    Evan stayed put, sitting on the stairs where he had just kissed the woman of his dreams. He hoped that she returned to the scene of the kiss. When she didn't show, he returned to the Quad to tell Guido all about what had just happened.
+
+Chapter - Evan Charmed Sarah
+
+0120 Waiting Game
+    The day after the Kiss, Evan waited where they kissed, hoping Sarah would return.
+0121 Evan is a Man With a Plan
+    For a second time, Evan returns to the scene of the kiss, looking for Sarah. He decides to look in the library.
+0122 Sarah Can't Concentrate
+    Sarah can't focus on her academic work because her mind is thinking of Evan.
+0125 Evan Finds Sarah at the library
+    Evan finds Sarah at the library and charms into taking a break at the food court,
+0130 Evan and Sarah Food Court Date
+    Evan convinces Sarah to break from her studies and join him at the food court for a snack. 
+
+Chapter - Sarah Prepares for First Date
+
+0140 Sarah Asks Katie For Help
+    After class, Sarah asked Katie to help her prepare for her date with Evan. Katie enthusiastically agrees.
+0145 Katie at Sarah’s Apartment
+    Katie arrives at Sarah’s up argument to help her pick clothes for her date. Katie and Sarah get to know each other a little bit better.
+0150 Sarah’s Makeover
+    Katie’s hairdresser gives Sarah a makeover.
+
+Chapter - Sarah and Evan’s First Date
+
+0160 Sarah &amp; Evan’s First Date
+    Sarah and Evan meet at an Asian restaurant for their first official date. Sarah suggests that they begin a relationship with certain conditions. Evan happily agrees.
+0164 Evan Gives Sarah a Pendant
+    After dinner, Evan gives Sarah a customized, inexpensive pendant before leaving in her car. The pendant is more of a sentimental piece of jewelry meant to commemorate the unique way statement. Although Sarah is accustomed to wearing expensive jewelry, she loves the pendant Evan had made for her.
+0165 Sarah Updates Katie
+    After a magical first date, Sarah returns to her apartment to share the evening events with Katie. Katie and Sarah are excited to see that Evan has requested that he and Sarah change their Facebook status to “In a Relationship.”
+
+Chapter - Evan Proposes to Sarah
+
+0170 Graduation Party
+    Evan and Guido throw a large graduation party – inviting their large group of friends.
+0175 Sarah's Meets with Her Parents
+    Sarah is shocked to see her parents are attending the party. Evan had secretly invited her parents.
+0180 Evan Meets Sarah's Parents
+    Evan briefly meets Sarah’s parents but has to leave quickly to prepare for the party's special events.
+0185 Evan Proposes
+    Evan presents Sarah with a plaque honoring her status as top of her graduating class. While Sarah is onstage receiving her plaque, she is shocked to see Evan on one knee proposing to her. Although conflicted, she accepts his proposal – much to her father's dismay.
+0190 Sarah's Father Gives Her an Ultimatum
+    Sarah meets with her parents in their hotel room. Sarah’s father is disappointed that she is breaking their agreement to attend an Ivy League school for her master’s degree and instead move to Chicago with Evan. He gives her a month to change her mind. He will cut off all financial support if she does not change her mind.
+
+Chapter - Cliffhanger
+
+0195 Evan and Sarah Elope
+    Short on funds and wanting to get married before Evan starts his new job, Sarah and Evan elope.
+0196 Sarah has Second Thoughts
+    While all indications are the happy couple is excited and ready to start a life together, all may not be as it seems.
+    After the quick marriage ceremony is over, and Sarah and Evan are officially married, Sarah retreats to the lady's restroom. Stonefaced, she stares at herself in the mirror and asks herself, &quot;Oh my god. What have I done?&quot;</Text>
+        </Document>
         <Document ID="BE4E7FAA-F8B1-4EFE-86B7-1C1E2FE0499E">
             <Title>University of Illinois Food Court</Title>
             <Text>Name of the place: University of Illinois Food Court 
@@ -2601,7 +2990,7 @@ The atmosphere in the food court is always lively and vibrant, filled with the i
         </Document>
         <Document ID="BE948F87-BDA3-4551-8E08-AC248FE89301">
             <Title>Character Sketch: Full</Title>
-            <Text>Character Profile: 
+            <Text>Character Profile:
 Name: 
 Nickname: 
 Gender: 
@@ -2647,9 +3036,11 @@ In narrative format, provide details about this character:
 </Text>
         </Document>
         <Document ID="C0AFF093-B9A4-4BD2-8EC7-744A56131CC6">
-            <Title>0100 Sarah is Late for Class</Title>
+            <Title>0101 Sarah is Late for Class</Title>
             <Synopsis>In the unique setting of an underground library, Sarah Wilkins loses track of time while engrossed in an audio seminar. Realizing she's late for teaching her Business-101 class, she quickly packs her belongings and rushes toward the library's exit, her seminar still playing in her ears. The scene ends as she reaches the stairs, setting the stage for a chain of unforeseen events.</Synopsis>
-            <Text>Characters: Sarah
+            <Text>Scene Description:
+Scene Name: 0100 Sarah is Late for Class
+Characters: Sarah
 POV: Third person limited, from Sarah's perspective 
 Location: Undergrad Library
 Tone: Frantic
@@ -2670,6 +3061,56 @@ This scene should end before she exits the library.
         </Document>
         <Document ID="C226BBEC-87E5-4941-ADB2-E102C4E7561C">
             <Title>Coaching Notes</Title>
+        </Document>
+        <Document ID="C2DD2CCD-23A9-4B7E-8C4A-E43289291197">
+            <Title>Overview for chatGPT</Title>
+            <Text>I am an amateur writer, writing the first novella in a series. The first book covers the back story. Will you help me write the scenes for this romance novella?
+For our chat, we will be focusing on the first book of a planned three book series. The first book is the back story that sets the stage for what happens in books 2 and three. I have my plot summary, outline, character profiles, and location profiles completed. 
+ May I send you summary information about this project?
+Title: The College Days
+Genre: Romance
+Plot Summary:
+For two seniors, Sarah Wilkins and Evan Vaughn, their first semester at the University of Illinois Urbana-Champaign is underway. They've never met, as their social circles don't intersect. Evan, a charismatic, athletic young man, commands popularity not by choice but by virtue of his outgoing personality. Despite his natural allure, he remains grounded thanks to the guidance from his saintly sister, Liz, treating everyone with kindness.
+Evan isn't the most diligent student, preferring the outdoors to the confines of classrooms and libraries. However, to uphold a promise to Liz, he's striving for a minimum GPA of 3.0. As he enters his senior year, his grades are teetering on this threshold, and he is compelled to trade Frisbee games for study sessions at the undergrad library.
+Contrastingly, Sarah is a stellar student, poised to graduate at the top of her class. As a business major and teaching assistant, she considers the library her sanctuary, often losing herself in riveting audio seminars, like one on international business strategies. One day, engrossed in her seminar, she realizes she's running late for a class she's teaching. In her rush, she neglects her surroundings and dashes towards a flight of stairs without a handrail.
+Evan, heading her way, spots the impending accident. He calls out to her, but she doesn't hear him. He dashes to intercept her before she reaches the stairs, catching her just in time. This unexpected encounter leads to a spontaneous, passionate kiss. 
+Sarah, brought up with a single-minded focus on academics and preparing to take over her father's business, has little experience with romance. She had sworn off any romantic entanglements until she completed her Master’s degree and embarked on her professional journey. 
+In a whirlwind, Sarah leaves without providing Evan her name or contact. Later, Evan manages to track her down, returning a pair of glasses she had left behind and charming her into taking a break at the food court. Despite her initial hesitation, she gives in to Evan’s allure. 
+Their encounter at the food court leaves Sarah questioning herself as she witnesses Evan’s popularity, especially among the female students. Feeling out of place, she retreats, but Evan convinces her to agree to a date. Uncertain about dating norms, Sarah enlists the help of one of her top students, Katie, to modernize her look and prep her for the date. 
+During their date, Sarah proposes a business-like arrangement with Evan, setting rules and expectations and prioritizing her academics. Evan, who has been smitten since their first encounter, happily agrees. As they continue to see each other, Sarah allows herself to experience romance and affection, while Evan becomes a better student with Sarah’s help. 
+Their senior year unfolds beautifully. Sarah expands her social circle, and Evan lands a good job in Chicago. As graduation approaches, however, Sarah grapples with her future choices – Ivy League schools for her Master's or staying with Evan. Unbeknownst to her, Evan plans to propose at the graduation party, inviting her parents for the surprise.
+Sarah, who has downplayed the seriousness of their relationship to her parents, is taken aback by Evan’s proposal. She fears disappointing her father by deviating from her initial plan. Following the party, her father presents her with two choices – follow Evan to Chicago and build a life there, or stick to the original plan of pursuing her Master's and eventually joining her father’s business. If she chooses Evan, her father will cut off financial support.
+Sarah is torn between her love for Evan and her commitment to her father. Despite the complexities, her heart prevails, and she chooses to build a life with Evan in Chicago. Sarah and Evan elope. 
+While all indications are the happy couple is excited and ready to start a life together, all may not be as it seems.
+After a quick marriage ceremony, and Sarah and Evan are officially married, Sarah retreats to the lady’s restroom. Stonefaced, she stares at herself in the mirror and asks herself, &quot;Oh my god. What have I done!?&quot;
+Plot Twist:
+Because this is the first book in a series, this first book ends in a cliffhanger, not a happy end resolution that is typical of romance novels.
+Characters:
+Evan Vaughn: 
+Role In Story: Protagonist and lead male love interest.
+Evan Vaughn is a charismatic and athletic young man, effortlessly commanding popularity with his outgoing personality. Despite his natural allure, he remains grounded thanks to the guidance and influence of his beloved sister, Liz, treating everyone with kindness. While not the most diligent student, Evan strives to maintain a minimum GPA of 3.0 as a promise to Liz. His encounters with Sarah Wilkins lead to a whirlwind romance that challenges both his academic focus and his heart's desires.
+Sarah Wilkins:
+Role In Story: Protagonist and lead female love interest.
+Sarah Wilkins is a woman of elegance and sophistication, with steely blue-gray eyes that reflect her determination and ambition. Devoted to her professional success, she exudes confidence and intelligence, yet her guarded and distant demeanor masks a vulnerability that she only reveals to a select few, including her ex-husband Evan and his sister Liz. Throughout her journey, Sarah grapples with the conflict between her ambitious dreams and her longing for a meaningful romantic relationship, ultimately finding strength in prioritizing her independence and embracing her true self.
+Guido:
+Role In Story: Evan’s best friend.
+Guido, also known as Anthony Moretti, is Evan Vaughn's charismatic and flashy best friend. With his Italian heritage, bold personality, and outgoing demeanor, Guido embraces his &quot;bad boy&quot; image and lives life on his terms. He is fiercely loyal to his friends and would do anything to protect and support them. Guido's love for weight training, sports, and gambling adds excitement to his life, and his witty wisecracks often provide comic relief. Despite his carefree attitude, Guido's guarded nature and fear of being controlled make him a complex and intriguing character in the novel.
+Liz Vaughn:
+Role In Story: Evan’s sister.
+Liz Vaughn is a compassionate and nurturing individual, embodying the Sage archetype with her wisdom and motherly care. Though she doesn't appear in the novel, her presence looms large in the life of the protagonist, Evan. As his older sister, mentor, and surrogate mother, Liz plays a vital role in shaping Evan's character and supporting him through life's challenges. Her unyielding love and guidance help transform Evan from a resentful child into a respected and admired man. Despite the absence of her physical presence in the story, the bond between Liz and Evan remains unbreakable, and her influence is felt throughout his journey.
+Katie Andrews:
+Role In Story: Sarah's student responsible for Sarah's pre-date makeover.
+Katie Andrews is an eighteen-year-old business freshman at the University of Illinois, exuding a bubbly and friendly personality that endears her to others instantly. With her vibrant pink hair and casual, modern fashion sense, she perfectly embodies the carefree life of a college coed. As an ENFP, she genuinely cares for those around her and is always ready to lend a helping hand. When Sarah, her teacher assistant, seeks assistance with a makeover for her date with Evan, Katie eagerly steps in, forming a heartwarming bond and showcasing her caring and nurturing nature. Despite not having a car, Katie's adventurous spirit shines, making her a cherished and influential character in the story.
+Nicole Jenkins:
+Role In Story: Hairstylist assigned to Sarah's pre-date hair makeover.
+Nicole Jenkins, a 28-year-old hairstylist from Central Illinois, exudes a captivating blend of creativity and wisdom. Her hazel eyes and long, wavy brown hair add to her friendly and approachable demeanor. Standing at 5'7&quot; with a curvaceous body, Nicole's vibrant personality shines through her role as a renowned hairstylist, not only known for her skill but also her ability to connect with her clients on a deeper level. As a confidante and mentor, Nicole plays a pivotal role in the novel, guiding Sarah through a transformative pre-date session that goes beyond just hair, sparking a newfound desire for romantic exploration.
+Jack Wilkins:
+Role In Story: Sarah's father who gives Sarah an ultimatum – work for him or build a life with Evan.
+Jack Wilkins is a tall and slender man in his mid-60s, with piercing blue eyes and distinguished gray hair, bearing a striking resemblance to actor James Cromwell. Raised on a farm in central Illinois, he learned the value of hard work and determination from an early age. With an entrepreneurial spirit, he started his own business at a young age and watched it grow into a successful multimillion-dollar enterprise. Jack is a pragmatic and no-nonsense individual, displaying love and support for his daughter, Sarah, in his own unique way, preparing her to take the reins of the family business. Though not one to express emotions openly, his actions reveal a devoted and caring father, determined to equip Sarah for the challenges of the world.
+Mildred Wilkins:
+Role In Story: Sarah's mother and Jack's supportive wife
+Mildred Wilkins, in her mid-60s, exudes a timeless grace and elegance. Her captivating blue eyes mirror the depth of her caring nature. With a slender figure and a height of 5'6&quot;, she carries herself with serene confidence. Born in central Illinois, Mildred's life changed when she met Jack in high school, embarking on a devoted journey as his wife and mother to their daughter, Sarah. Her presence brings a gentle grounding force to their family dynamic, and her unwavering love and support enrich the lives of those around her.
+</Text>
         </Document>
         <Document ID="C64EF2FA-1DC3-4807-B428-3DF666A3CED7">
             <Title>0160 Sarah &amp; Evan’s First Date</Title>
@@ -2699,7 +3140,8 @@ Themes/Messages: The book will explore themes of love, sacrifice, and whether it
             <Title>Cover</Title>
         </Document>
         <Document ID="C8C8DC65-E3A2-44AB-B64E-EA598975887F">
-            <Title>0121 Sarah Can't Concentrate</Title>
+            <Title>0122 Sarah Can't Concentrate</Title>
+            <Synopsis>Sarah can't focus on her academic work because her mind is thinking of Evan.</Synopsis>
             <Text>Scene Description:
 Scene Name: 0121 Sarah Can't Concentrate
 Characters: Sarah
@@ -2735,7 +3177,7 @@ She felt lucky that she was always way ahead in her schoolwork. Otherwise, she w
         </Document>
         <Document ID="CA5615D3-79E4-4003-BAEB-D87223C0D90F">
             <Title>Liz Wilkins</Title>
-            <Text>Character Profile: 
+            <Text>Character Profile:
 Name: Liz Vaughn
 Gender: Female
 Age: 23
@@ -2828,6 +3270,16 @@ Are there any unique or notable aspects of the setting that influence the story?
 Description: 
 </Text>
         </Document>
+        <Document ID="D4499772-6F95-47DE-BA6B-E122AE6824F1">
+            <Title>0100 Everything is on Track for Sarah</Title>
+            <Synopsis>Tucked away in her academic haven, sipping her favorite couple coffee, listening to a compelling audio seminar, reflecting on how smoothly her carefully orchestrated college plan is gone, college Senior Sarah Wilkins is blissfully unaware of the unforeseen encounter that will alter the course of her day, her semester, and perhaps her life.</Synopsis>
+            <Text>In the quiet solace of her beloved academic sanctuary, Sarah Wilkins found herself drawn to her cherished cup of coffee, its comforting warmth like an old friend on a chilly morning. With every sip, she surrendered to the alluring symphony of an enchanting audio seminar, its words weaving through her heart like a tender embrace. Among the hallowed halls of her meticulously planned college journey, she reveled in the delicate dance of knowledge and aspirations.
+
+Little did she know, destiny had already set its course, poised to orchestrate an encounter that would leave an indelible mark on her day, her semester, and perhaps even the trajectory of her life. The universe, like a master storyteller, began to whisper subtle cues of what lay ahead, its grand design veiled in a tapestry of serendipity.
+
+*Author's Style: Written in the style of Nicholas Sparks, the paragraph evokes a sense of emotional resonance and heartfelt descriptions. The focus on sensory details and emotions brings the reader closer to Sarah's world, while the mention of destiny and serendipity adds an element of romantic intrigue.*</Text>
+            <CustomMetaData>2006-09-21 09:59:00 University of Illinois Campus Library 2006-09-21 09:58:00 0 4 Sarah 1</CustomMetaData>
+        </Document>
         <Document ID="D7FB0C26-F3E3-46B8-8E03-0BE3119D2992">
             <Title>Plot Summary</Title>
         </Document>
@@ -2851,7 +3303,8 @@ Description:
         </Document>
         <Document ID="DEB7C909-884E-4654-A12C-471F188C8329">
             <Title>Sarahs Mother - Mildred Wilkins</Title>
-            <Text>Name: Mildred Wilkins
+            <Text>Character Profile:
+Name: Mildred Wilkins
 Gender: Female
 Age: Mid-60s
 Current residence: Seattle, Washington
@@ -3027,6 +3480,7 @@ Money and sex are Guido's primary motivations.
 Catchphrases: 
 Whatever. Guido often says whatever when dismissing a comment from another.
 Bro. Guido uses the word &quot;bro&quot; often.
+Dude. 
 Guido's relationship with women:? 
 Guido considers getting women to sleep with him as a numbers game. He figures the more women he hits on, the better his chances of taking them to bed. He is not offended if he gets rejected. To him, rejection is just part of the game. Guido presents himself as &quot;the bad boy.&quot; He often refers to his bad boy image as &quot;The Guido.&quot; He hypothesizes that most women need to sleep with at least one &quot;bad boy&quot; before they marry &quot;Mr. Right.&quot; As &quot;The Guido,&quot; he is happy to fulfill the role of the &quot;bad boy&quot; guilty pleasure that he believes women need to experience at least once in their life.
 What is the character's role in the novel?
@@ -3281,6 +3735,7 @@ You can create your own templates by setting up a skeletal project with the file
         </Document>
         <Document ID="FB59F231-7777-4FAB-B1DE-A9DD1B935633">
             <Title>0120 Waiting Game</Title>
+            <Synopsis>The day after the Kiss, Evan waited where they kissed, hoping Sarah would return.</Synopsis>
             <Text>Scene Description:
 Scene Name: 0120 Waiting Game
 Characters: Evan, Guido
