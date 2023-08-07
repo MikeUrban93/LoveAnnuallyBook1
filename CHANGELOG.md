@@ -1,7 +1,7 @@
 # Changelog
 
-#### 0.0.1.7 - MAU `2023-08-06`
-1. Using default chatGPT4, wrote all scenes up to and including "0122 Sarah Can't Concentrate"
+#### 0.0.1.7 - MAU `2023-08-07`
+1. Finsihed first draft of  Chapter - Evan Charmed Sarah
 ----
 
 #### 0.0.1.6 - MAU `2023-08-06`
