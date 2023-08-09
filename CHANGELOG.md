@@ -1,5 +1,10 @@
 # Changelog
 
+#### 0.0.1.8 - MAU `2023-08-09`
+1. Prepped some new scenes while  power was out.
+2. Savepoint before integrating changes back from laptop.
+----
+
 #### 0.0.1.7 - MAU `2023-08-07`
 1. Finsihed first draft of  Chapter - Evan Charmed Sarah
 ----

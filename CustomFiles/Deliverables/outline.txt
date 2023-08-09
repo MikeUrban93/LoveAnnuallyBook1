@@ -32,8 +32,12 @@ Chapter - Sarah Prepares for First Date
 
 0140 Sarah Asks Katie For Help
     After class, Sarah asked Katie to help her prepare for her date with Evan. Katie enthusiastically agrees.
-0145 Katie at Sarah’s Apartment
-    Katie arrives at Sarah’s up argument to help her pick clothes for her date. Katie and Sarah get to know each other a little bit better.
+0142 Katie Loves Sarah’s Apartment
+    Sarah and Katie arrived at Sarah's apartment. Katie falls in love with the luxurious apartment. With Sarah now feeling Katie is a friend, she offers a delighted Katie use of guestroom anytime Katie needs a study sanctuary.
+0143 Sarah and Katie Chat
+    Sarah and Katie have a chat. Katie learns more about Sarah's background and her experience with Evan.
+0145 Wardrobe Check
+    Katie checks out Sarah's existing wardrobe to see if there is anything that she can wear on her date. Katie has Sarah swap her library and look for jeans, a T-shirt, and a ponytail – a more fun look for their girl's day out.
 0150 Sarah’s Makeover
     Katie’s hairdresser gives Sarah a makeover.
 
