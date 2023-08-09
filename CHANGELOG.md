@@ -1,11 +1,15 @@
 # Changelog
 
+#### 0.0.1.10 - MAU `2023-08-09`
+1. Updated the outline with some new scenes.
+2. Wrote the scene template and generated this scene for "0200 Evan Gives Sarah the Vintage Doll"
+----
+
 #### 0.0.1.9 - MAU `2023-08-09`
 1. Merged changes from laptop when Internet went out.
 2. Created a snapshot of each scene labeled "V1"
 3. Next up: add new scenes that include Patti and fill in gaps
 ----
-
 
 #### 0.0.1.8 - MAU `2023-08-09`
 1. Prepped some new scenes while  power was out.

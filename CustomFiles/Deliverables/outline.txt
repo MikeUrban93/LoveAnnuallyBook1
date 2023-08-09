@@ -28,6 +28,13 @@ Chapter - Evan Charmed Sarah
 0132 Sarah Relents and agrees to a date
     Sarah's resistance weakens further as she agrees to go on a date with Evan later in the week.
 
+Chapter - Evan Has a Necklace Made
+
+0135 Gudio Hears the Big News
+    On their way to work, Evan updates Guido on his successful day with Sarah. He asks Guido for ideas of what kind of special gift he could give to Sarah on their upcoming first date.
+0137 Evan Has a Special Gift Made
+    While at the mall, seeking a special gift for his date with Sarah happens upon a unique gift idea that will memorialize their first meeting.
+
 Chapter - Sarah Prepares for First Date
 
 0140 Sarah Asks Katie For Help
@@ -50,22 +57,37 @@ Chapter - Sarah and Evan’s First Date
 0165 Sarah Updates Katie
     After a magical first date, Sarah returns to her apartment to share the evening events with Katie. Katie and Sarah are excited to see that Evan has requested that he and Sarah change their Facebook status to “In a Relationship.”
 
-Chapter - Evan Proposes to Sarah
+Chapter - Sarah Attends Evan Softball Game
 
-0170 Graduation Party
-    Evan and Guido throw a large graduation party – inviting their large group of friends.
-0175 Sarah's Meets with Her Parents
-    Sarah is shocked to see her parents are attending the party. Evan had secretly invited her parents.
-0180 Evan Meets Sarah's Parents
-    Evan briefly meets Sarah’s parents but has to leave quickly to prepare for the party's special events.
-0185 Evan Proposes
-    Evan presents Sarah with a plaque honoring her status as top of her graduating class. While Sarah is on stage receiving her plaque, she is shocked to see Evan on one knee, proposing to her. Although conflicted, she accepts his proposal – much to her father's dismay.
-0190 Sarah's Father Gives Her an Ultimatum
-    Sarah meets with her parents in their hotel room. Sarah’s father is disappointed that she is breaking their agreement to attend an Ivy League school for her master’s degree and instead move to Chicago with Evan. He gives her a month to change her mind. He will cut off all financial support if she does not change her mind.
+0200 Evan Gives Sarah the Vintage Doll
+    An excited Evan meets Sarah near her car before the game. He gives her the vintage doll that she asked for.
+0202 Patti Learns Evan Has a New Girlfriend
+    From the bleachers, Patti, Evan's most recent quasi-ex-girlfriend, watches Evan and Sarah meet in the parking lot. Guido and Sarah's best friend, Roxana, tell Patti what they know and what they've heard about Sarah.
+0204 Evan Introduces Sarah to His Friends
+    Minutes before the game, Evan introduces a nervous Sarah to a small group of his curious friends – including Patti.
+0208 Patti Offers Sarah a Beer
+    Although feelings stung by Sarah's presence, Patti does her best to treat Sarah well, offering to grab her a beer from the concession stand.
+0210 Evan and Guido Team Wins
+    Evan's team is victorious. Evan jets over to Sarah for a celebratory kiss and hug. Patti begins to realize how strong Evan's feelings are for Sarah.
+
+Chapter - Graduation: A Night Full of Surprises
+
+0300 Graduation Party Setup
+    Set up begins for the graduation party thrown by Evan and Guido – inviting their large group of friends. Evan and Guido throw a large graduation party, inviting their 30 to 40 friends.
+0305 Evan Meets Parents
+    Evan briefly meets Sarah’s parents before revealing to Sarah his surprise of inviting her parents to the party.
+0310 Evan Surprises Sarah with Parents
+    Sarah is not just surprised; she is shocked when Evan brings her to her parents. Sarah is shocked to see her parents are attending the party. Evan had secretly invited her parents.
+0315 Evan Proposes
+    Evan presents Sarah with a plaque honoring her status as top of her graduating class. While Sarah is onstage receiving her plaque, she is shocked to see Evan on one knee proposing to her. Although conflicted, she accepts his proposal – much to her father's dismay.
+0320 Sarah's Father Gives Her an Ultimatum 
+    Sarah meets with her parents in their hotel room. Sarah’s father is disappointed that she is breaking their agreement to attend an Ivy League school for her master’s degree and instead move to Chicago with Evan. Sarah's father gives Sarah an ultimatum. Stick to the plan or lose his financial support – she has one month to decide.
 
 Chapter - Cliffhanger
 
-0195 Evan and Sarah Elope
-    Short on funds and wanting to get married before Evan starts his new job, Sarah and Evan elope.
-0196 Sarah has Second Thoughts
-    While all indications suggest the happy couple is excited and ready to start their life together, all may not be as it seems. After the quick marriage ceremony is over, and Sarah and Evan are officially married, Sarah retreats to the ladies' restroom. Stone-faced, she stares at herself in the mirror and asks herself, "Oh my god. What have I done?"
+0350  Sarah Asks Evan to Elope
+    Sarah doesn't want to suffer a month in limbo. She worries if she waits too long, she'll lose her resolve. She asks Evan if they can lope as soon as possible. 
+0355  Sarah and Evan Elope
+    Sarah and Evan elope at a small chapel in central Illinois.
+0360 Sarah has Second Thoughts
+    While all indications suggest the happy couple is excited and ready to start their life together, all may not be as it seems. After the quick marriage ceremony is over, Sarah retreats to the ladies' restroom. Stone-faced, she stares at herself in the mirror and asks herself, "Oh my god. What have I done?"
