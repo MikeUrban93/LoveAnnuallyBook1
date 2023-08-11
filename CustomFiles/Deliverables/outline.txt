@@ -17,9 +17,11 @@ Chapter - Evan Charmed Sarah
 
 0120 Waiting Game
     The day after the Kiss, Evan waited where they kissed, hoping Sarah would return.
-0121 Evan is a Man With a Plan
+0121 Evan Calls Liz for Advice
+    Disappointed he has been unable to find Sarah after their kiss, Evan calls his sister, Liz, for advice.
+0122 Evan is a Man With a Plan
     For a second time, Evan returns to the scene of the kiss, looking for Sarah. He decides to look in the library.
-0122 Sarah Can't Concentrate
+0123 Sarah Can't Concentrate
     Sarah can't focus on her academic work because her mind is thinking of Evan.
 0125 Evan Finds Sarah at the library
     Evan finds Sarah at the library and charms into taking a break at the food court,

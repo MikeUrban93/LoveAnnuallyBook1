@@ -182,13 +182,6 @@
 \paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs28\cf0
 \pard\plain \tx0\tx360\tx720\tx1080\tx1440\tx1800\tx2160\tx2880\tx3600\tx4320\fi360\sa120\sl264\slmult1\ltrch\loch {\f0\fs28\b0\i1\cf4 Attributes}}]]></Format>
     </Style>
-    <Style ID="1802D858-CDFA-4941-AE62-27C497548200" Name="Sketch Label" Type="Para+Char" FontChange="Face+Size">
-        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
-{\fonttbl{\f0\fnil\fcharset0\fprq2 Corbel-Bold;}}
-{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;\red170\green64\blue101;}
-\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0
-\pard\plain \tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sb120\ql\ltrch\loch {\f0\fs24\b1\i0\cf4 Attributes}}]]></Format>
-    </Style>
     <Style ID="BF47AF78-82AF-43E2-AB1C-9F901B74F1E6" Name="Sketch Info" Type="Char" FontChange="Face+Size">
         <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
 {\fonttbl{\f0\fnil\fcharset0\fprq2 Calibri;}}
@@ -196,19 +189,12 @@
 \paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0
 \pard\plain \tx0\fi360\ltrch\loch {\f0\fs24\b0\i0 Attributes}}]]></Format>
     </Style>
-    <Style ID="0F461ABF-7068-44DC-8C39-D5F8F6B375C6" Name="Template Label" Type="Char" FontChange="Face+Size">
-        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
-{\fonttbl{\f0\fnil\fcharset0\fprq2 Corbel-Bold;}}
-{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;\red170\green64\blue101;}
-\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0
-\pard\plain \tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sb120\ql\ltrch\loch {\f0\fs24\b1\i0\cf4 Attributes}}]]></Format>
-    </Style>
     <Style ID="12DD3BBC-033C-4DC8-B550-46D47CADF2B6" Name="Template Data" Type="Char" FontChange="Face+Size">
         <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
 {\fonttbl{\f0\fnil\fcharset0\fprq2 Calibri;}}
 {\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;\red76\green76\blue76;}
 \paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0
-\pard\plain \tx0\sl264\slmult1\ltrch\loch {\f0\fs24\b0\cf4 Attributes}}]]></Format>
+\pard\plain \tx0\sl264\slmult1\ltrch\loch {\f0\fs24\b0\i0\cf4 Attributes}}]]></Format>
     </Style>
     <Style ID="354B886C-CF80-463B-A9A9-A6D90A754A7F" Name="Extraneous" Type="Char" FontChange="Face+Size">
         <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
@@ -266,32 +252,46 @@
 \paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0
 \pard\plain \tx0\li360\fi360\sl264\slmult1\ltrch\loch {\f0\fs24\b0\i1\cf4 Attributes}}]]></Format>
     </Style>
-    <Style ID="19681C9B-BB4E-4C32-A04F-5B05D84353D7" Name="Template Section" Type="Para+Char" FontChange="Face+Size">
+    <Style ID="19681C9B-BB4E-4C32-A04F-5B05D84353D7" Name="Template Section" Next="981D2969-94A4-41A0-86A6-41D3B69DAB9F" Type="Para+Char" FontChange="Face+Size">
         <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
 {\fonttbl{\f0\fnil\fcharset0\fprq2 Calibri-Bold;}}
-{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;\red91\green91\blue91;}
-\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs28\cf0
-\pard\plain \tx0\sb180\sl264\slmult1\ltrch\loch {\f0\fs28\b1\i0\cf4 Attributes}}]]></Format>
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;\red170\green64\blue101;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0
+\pard\plain \tx0\sb180\sl264\slmult1\ltrch\loch {\f0\fs24\b1\i0\cf4 Attributes}}]]></Format>
     </Style>
-    <Style ID="D0FD08F4-64BC-4DD5-9514-E1235DD93B88" Name="Template Sub Section" Type="Para+Char" FontChange="Face+Size">
+    <Style ID="D0FD08F4-64BC-4DD5-9514-E1235DD93B88" Name="Template Sub Section" Next="D0FD08F4-64BC-4DD5-9514-E1235DD93B88" Type="Para+Char" FontChange="Face+Size">
         <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
 {\fonttbl{\f0\fnil\fcharset0\fprq2 Calibri-Bold;}}
-{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;\red91\green91\blue91;}
-\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs28\cf0
-\pard\plain \tx0\li346\fi14\sb60\sl264\slmult1\ltrch\loch {\f0\fs28\b1\i0\cf4 Attributes}}]]></Format>
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;\red208\green78\blue124;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0
+\pard\plain \tx0\li346\fi14\sb60\sl264\slmult1\ltrch\loch {\f0\fs24\b1\i0\cf4 Attributes}}]]></Format>
     </Style>
     <Style ID="981D2969-94A4-41A0-86A6-41D3B69DAB9F" Name="Template Paragraph" Type="Para+Char" FontChange="Face+Size">
         <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
 {\fonttbl{\f0\fnil\fcharset0\fprq2 Calibri;}}
 {\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;\red76\green76\blue76;}
 \paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0
-\pard\plain \tx0\li360\fi360\sl264\slmult1\ltrch\loch {\f0\fs24\b0\cf4 Attributes}}]]></Format>
+\pard\plain \tx0\li360\fi360\sa120\sl262\slmult1\ltrch\loch {\f0\fs24\b0\cf4 Attributes}}]]></Format>
     </Style>
-    <Style ID="7CCBF636-BE48-4955-AE47-730199F07B7D" Name="Template Bullets" Type="Para+Char" FontChange="Face+Size">
+    <Style ID="7CCBF636-BE48-4955-AE47-730199F07B7D" Name="Template Bullets" Next="7CCBF636-BE48-4955-AE47-730199F07B7D" Type="Para+Char" FontChange="Face+Size">
         <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
 {\fonttbl{\f0\fnil\fcharset0\fprq2 Calibri;}}
 {\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;\red76\green76\blue76;}
 \paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0
-\pard\plain \tx235\tx720\li504\fi-284\sl264\slmult1\ltrch\loch {\f0\fs24\b0\cf4 Attributes}}]]></Format>
+\pard\plain \tx235\tx720\li504\fi-284\sl264\slmult1\ltrch\loch {\f0\fs24\b0\i0\cf4 Attributes}}]]></Format>
+    </Style>
+    <Style ID="FBB81FE6-E169-49C5-BF38-4ECC2B764F90" Name="Template Title" Type="Para+Char" FontChange="Face+Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 Cambria-Bold;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;\red130\green49\blue77;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs32\cf0
+\pard\plain \sa120\sb120\sl262\slmult1\ql\ltrch\loch {\f0\fs32\b1\i0\cf4 <$Scr_H::2>Attributes<!$Scr_H::2>}}]]></Format>
+    </Style>
+    <Style ID="D49F1FDA-B0B3-4EAC-BE01-65CCD0F8BEC7" Name="Template SubSec Bullets" Next="D49F1FDA-B0B3-4EAC-BE01-65CCD0F8BEC7" Type="Para+Char" FontChange="Face+Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg1252\uc1\deff0
+{\fonttbl{\f0\fnil\fcharset0\fprq2 Calibri;}}
+{\colortbl;\red0\green0\blue0;\red255\green255\blue255;\red128\green128\blue128;\red76\green76\blue76;}
+\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\deftab1200\f0\fs24\cf0
+\pard\plain \tx235\tx720\li720\fi-216\sl264\slmult1\ltrch\loch {\f0\fs24\b0\i0\cf4 Attributes}}]]></Format>
     </Style>
 </Styles>
