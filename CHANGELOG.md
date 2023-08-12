@@ -1,5 +1,9 @@
 # Changelog
 
+#### 0.0.1.15 - MAU `2023-08-12`
+1. Completed Chapter - Sarah Meets Evan's Friends
+----
+
 #### 0.0.1.14 - MAU `2023-08-12`
 1. Added a new scene template for a new style of writing scenes
 2. Road scenes 202 and 204
