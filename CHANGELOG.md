@@ -1,11 +1,20 @@
 # Changelog
 
-#### 0.0.1.12 - MAU `2023-08-11`
+#### 0.0.1.14 - MAU `2023-08-12`
+1. Added a new scene template for a new style of writing scenes
+2. Road scenes 202 and 204
+----
+
+#### 0.0.1.13 - MAU `2023-08-12`
 1. SAVEPOINT
-2. More cleaning up of templates
-3. Transferring Guido and Sara to the new template.
-4. Wrote the scene where Evan calls Liz for advice about finding Sarah.
-5. This is the starting point for fast writing plan.
+2. Fixed the first date scene.
+3. This is the starting point for fast writing plan.
+----
+
+#### 0.0.1.12 - MAU `2023-08-11`
+1. More cleaning up of templates
+2. Transferring Guido and Sara to the new template.
+3. Wrote the scene where Evan calls Liz for advice about finding Sarah.
 ----
 
 #### 0.0.1.11 - MAU `2023-08-10`
