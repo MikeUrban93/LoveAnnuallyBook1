@@ -63,7 +63,7 @@
             </MMDMetaData>
         </MetaData>
     </ProjectSettings>
-    <CurrentFileType>txt</CurrentFileType>
+    <CurrentFileType>docx</CurrentFileType>
     <FormatSettings>
         <Format ID="outline-document">
             <SectionLayouts>
@@ -421,6 +421,9 @@
                 <Type ID="DA299D05-E212-41BE-A82B-88EA3A472C49">F06837C7-95F0-41AF-8050-90874CBAAFD8</Type>
                 <Type ID="DFBFB5B6-D47F-4913-9E23-FC3950C10171">NEW-PAGE-HEADER</Type>
             </SectionLayouts>
+            <FrontAndBackMatter>
+                <DefaultFrontMatter>4D01D8EC-C1C3-427E-88C0-602D9158FC95</DefaultFrontMatter>
+            </FrontAndBackMatter>
         </Format>
         <Format ID="CBCA7857-C6BF-4917-8783-E27116F090E6">
             <SectionLayouts>
@@ -525,6 +528,6 @@
         <odt>DEFAULT</odt>
         <pdf>5C102847-626A-4201-ABC6-236F8A8B78B2</pdf>
         <rtf>5C102847-626A-4201-ABC6-236F8A8B78B2</rtf>
-        <txt>622B3F25-5EF6-4AA9-85F1-FD5C52C99458</txt>
+        <txt>D1B65998-DD54-44F7-9B81-ABD8682877B8</txt>
     </LastUsedFormats>
 </CompileSettings>

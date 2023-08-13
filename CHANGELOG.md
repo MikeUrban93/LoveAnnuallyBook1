@@ -1,5 +1,10 @@
 # Changelog
 
+#### 0.0.1.17 - MAU `2023-08-14`
+1. Completed Chapter – Patti's Dilemma
+2. Added two more chapters created their scene numbers, names,  and summaries and stubbed in their scene templates.
+----
+
 #### 0.0.1.16 - MAU `2023-08-13`
 1. Completed Chapter – Date Night at Sarah's Apartment
 ----
