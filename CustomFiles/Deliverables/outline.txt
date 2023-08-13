@@ -70,7 +70,9 @@ Chapter - Sarah Attends Evan Softball Game
 0206 The Drive to the Post-Game Party
     After the Enforcers win their game, Sarah joins Evan, Guido, and a dozen friends, a mix of male and female college students, to celebrate at a sports bar and grille. Despite the boisterous group's excitement, Sarah feels like an outcast, remaining primarily silent and retreating into her thoughts. Her struggle reflects her commitment to support Evan and her personal discomfort.
 0208 The Post-Game Party
-    After the Enforcers win their game, Sarah joins Evan, Guido, and a dozen friends, a mix of male and female college students, to celebrate at a sports bar and grille. Despite the boisterous group's excitement, Sarah feels like an outcast, remaining primarily silent and retreating into her thoughts. Her struggle reflects her commitment to support Evan and her personal discomfort.
+    After the Enforcers win their game, Sarah joins Evan, Guido, and a dozen friends to celebrate at Sluggers Sports Bar and Grill. Despite the group's excitement, Sarah feels like an outcast. Her struggle reflects her commitment to support Evan and her discomfort due to her inability to connect socially with peers.
+0210 Sarah Prepares Her Apartment for Evan's Arrival
+    Sarah prepares for Evan's first visit to her apartment.
 
 Chapter - Graduation: A Night Full of Surprises
 

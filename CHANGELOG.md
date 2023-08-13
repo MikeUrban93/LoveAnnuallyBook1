@@ -1,5 +1,9 @@
 # Changelog
 
+#### 0.0.1.16 - MAU `2023-08-13`
+1. Completed Chapter – Date Night at Sarah's Apartment
+----
+
 #### 0.0.1.15 - MAU `2023-08-12`
 1. Completed Chapter - Sarah Meets Evan's Friends
 ----

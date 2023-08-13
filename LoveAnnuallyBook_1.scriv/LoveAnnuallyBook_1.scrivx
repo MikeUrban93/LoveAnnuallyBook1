@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="C1CC4C75-4A12-4579-ADB5-479DFFD60702" Creator="SCRWIN-3.1.3.0" Device="Trinity" Author="The Kindergarten Poet" Modified="2023-08-12 19:39:34 -0400" ModID="1BE8003F-1195-45F6-B954-5922F68F8FFE">
+<ScrivenerProject Template="No" Version="2.0" Identifier="C1CC4C75-4A12-4579-ADB5-479DFFD60702" Creator="SCRWIN-3.1.3.0" Device="Trinity" Author="The Kindergarten Poet" Modified="2023-08-13 01:24:08 -0400" ModID="F1CB639F-77C3-4919-A4B7-A81CFF6D72C2">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 12:57:53 -0400" Modified="2023-08-04 14:07:09 -0400">
             <Title>Novel Format</Title>
@@ -1257,6 +1257,43 @@ Katie Andrews</Value>
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem UUID="6D75C028-71D0-44E1-90F9-FC84D8C289BB" Type="Folder" Created="2023-08-12 21:28:35 -0400" Modified="2023-08-13 01:23:56 -0400">
+                    <Title>Chapter – Date Night at Sarah's Apartment</Title>
+                    <MetaData>
+                        <LabelID>7</LabelID>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="1ADD3305-57DD-4587-8565-40FCD4608A7A" Type="Text" Created="2023-08-12 21:28:35 -0400" Modified="2023-08-12 22:34:14 -0400">
+                            <Title>0210 Sarah Prepares Her Apartment for Evan's Arrival</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,281</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="668">667,1</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="CFFDD87F-DD0A-42FF-B084-9A21C11E187A" Type="Text" Created="2023-08-12 21:28:35 -0400" Modified="2023-08-12 23:27:33 -0400">
+                            <Title>0212 Study Session First</Title>
+                            <MetaData/>
+                            <TextSettings>
+                                <TextSelection>1889,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="AEF14394-4E37-4AF4-A571-9703B25141E9" Type="Text" Created="2023-08-12 21:28:35 -0400" Modified="2023-08-13 01:22:01 -0400">
+                            <Title>0215 Evan Slows his Roll</Title>
+                            <MetaData>
+                                <NotesTextSelection>809,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3065,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="DF178785-3F71-42E5-99CC-BC7514AFA5D5" Type="Folder" Created="2023-08-04 10:18:00 -0400" Modified="2023-08-04 14:07:08 -0400">
@@ -2454,8 +2491,8 @@ Katie Andrews</Value>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="F0FD0D25-CCB8-483F-A0DA-D7179B1F4570" Type="Folder" Created="2023-08-09 15:54:42 -0400" Modified="2023-08-09 15:55:26 -0400">
-                    <Title>Chapter - Sarah Attends Evan Softball Game</Title>
+                <BinderItem UUID="F0FD0D25-CCB8-483F-A0DA-D7179B1F4570" Type="Folder" Created="2023-08-09 15:54:42 -0400" Modified="2023-08-12 21:28:30 -0400">
+                    <Title>Chapter - Sarah Meets Evan's Friends</Title>
                     <MetaData>
                         <LabelID>9</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -2502,20 +2539,20 @@ Katie Andrews</Value>
                                 <TextSelection>578,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="F98529FA-833B-4B5C-BC14-D46A36588F57" Type="Text" Created="2023-08-09 15:54:43 -0400" Modified="2023-08-12 19:39:20 -0400">
+                        <BinderItem UUID="F98529FA-833B-4B5C-BC14-D46A36588F57" Type="Text" Created="2023-08-09 15:54:43 -0400" Modified="2023-08-12 20:27:01 -0400">
                             <Title>0208 The Post-Game Party</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>156,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>28,314</TextSelection>
+                                <TextSelection>83,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="D53749A8-A015-4030-AED5-59F4A0A817CA" Type="Folder" Created="2023-08-09 07:22:10 -0400" Modified="2023-08-09 11:46:10 -0400">
-                    <Title>Chapter – Study Session</Title>
+                <BinderItem UUID="D53749A8-A015-4030-AED5-59F4A0A817CA" Type="Folder" Created="2023-08-09 07:22:10 -0400" Modified="2023-08-13 01:24:06 -0400">
+                    <Title>Chapter – Date Night at Sarah's Apartment</Title>
                     <MetaData>
                         <LabelID>7</LabelID>
                     </MetaData>
@@ -2523,20 +2560,30 @@ Katie Andrews</Value>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="F60B094D-5167-47AB-9957-04D9DB858D0B" Type="Text" Created="2023-08-09 07:23:25 -0400" Modified="2023-08-09 11:46:11 -0400">
-                            <Title>Study Session First – Make Out Session Last</Title>
+                        <BinderItem UUID="0B7F4C32-298E-4CC9-A15D-5F67182F7508" Type="Text" Created="2023-08-12 20:20:24 -0400" Modified="2023-08-12 23:46:43 -0400">
+                            <Title>0210 Sarah Prepares Her Apartment for Evan's Arrival</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,281</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="400">334,66</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="F60B094D-5167-47AB-9957-04D9DB858D0B" Type="Text" Created="2023-08-09 07:23:25 -0400" Modified="2023-08-12 23:19:09 -0400">
+                            <Title>0212 Study Session First</Title>
                             <MetaData/>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="7B471B78-EB5A-4752-B5B1-82B3A6081A9A" Type="Text" Created="2023-08-09 07:28:09 -0400" Modified="2023-08-12 08:55:18 -0400">
-                            <Title>Evan Slows his Roll</Title>
+                        <BinderItem UUID="7B471B78-EB5A-4752-B5B1-82B3A6081A9A" Type="Text" Created="2023-08-09 07:28:09 -0400" Modified="2023-08-13 01:03:57 -0400">
+                            <Title>0215 Evan Slows his Roll</Title>
                             <MetaData>
                                 <NotesTextSelection>684,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection Caret="7683">0,7683</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -2750,13 +2797,13 @@ Katie Andrews</Value>
                         <TextSelection>1065,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="84DE2159-4E3C-4E72-9D74-6C5F2DA4F112" Type="Text" Created="2023-08-06 07:05:44 -0400" Modified="2023-08-12 18:30:30 -0400">
+                        <BinderItem UUID="84DE2159-4E3C-4E72-9D74-6C5F2DA4F112" Type="Text" Created="2023-08-06 07:05:44 -0400" Modified="2023-08-12 21:17:08 -0400">
                             <Title>GPT Outline</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>298,0</TextSelection>
+                                <TextSelection>6037,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -3337,7 +3384,7 @@ Nicole Jenkins</Value>
                         <NotesTextSelection>24,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection Caret="3161">0,3161</TextSelection>
+                        <TextSelection>125,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="656EA0DE-4029-4F7D-9F91-1EB0BFB279B7" Type="Text" Created="2023-08-03 18:36:45 -0400" Modified="2023-08-11 16:23:38 -0400">
@@ -3833,46 +3880,44 @@ Nicole Jenkins</Value>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>55,0</TextSelection>
+                        <TextSelection Caret="792">0,792</TextSelection>
                     </TextSettings>
-                    <Children>
-                        <BinderItem UUID="DA7DDA37-1BE5-4AF0-96D5-919B6151C55D" Type="Text" Created="2023-08-12 10:09:46 -0400" Modified="2023-08-12 10:37:52 -0400">
-                            <Title>Scene Template: AI Original</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>789,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="B076D89F-1960-40D9-8FD1-AC7A36B3FD5D" Type="Text" Created="2023-08-12 10:21:46 -0400" Modified="2023-08-12 10:31:59 -0400">
-                            <Title>Example</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>786,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="B8C5B926-D773-4574-B003-42DBF8D5012E" Type="Text" Created="2023-08-12 11:07:38 -0400" Modified="2023-08-12 11:08:20 -0400">
-                            <Title>POV Tag Example</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection Caret="210">184,26</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="957F7592-2CCB-4DAC-B2DD-BEFED15787E7" Type="Text" Created="2023-08-12 11:20:15 -0400" Modified="2023-08-12 11:21:14 -0400">
-                            <Title>More examples</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,25</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
+                </BinderItem>
+                <BinderItem UUID="DA7DDA37-1BE5-4AF0-96D5-919B6151C55D" Type="Text" Created="2023-08-12 10:09:46 -0400" Modified="2023-08-12 10:37:52 -0400">
+                    <Title>Scene Template: AI Original</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>789,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B076D89F-1960-40D9-8FD1-AC7A36B3FD5D" Type="Text" Created="2023-08-12 10:21:46 -0400" Modified="2023-08-12 10:31:59 -0400">
+                    <Title>Example</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>786,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B8C5B926-D773-4574-B003-42DBF8D5012E" Type="Text" Created="2023-08-12 11:07:38 -0400" Modified="2023-08-12 11:08:20 -0400">
+                    <Title>POV Tag Example</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection Caret="210">184,26</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="957F7592-2CCB-4DAC-B2DD-BEFED15787E7" Type="Text" Created="2023-08-12 11:20:15 -0400" Modified="2023-08-13 01:02:15 -0400">
+                    <Title>More examples</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection Caret="363">134,229</TextSelection>
+                    </TextSettings>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -3897,6 +3942,42 @@ Nicole Jenkins</Value>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A9838BA9-369C-4B9B-BF1F-6E0538000F79" Type="Text" Created="2023-08-12 20:20:24 -0400" Modified="2023-08-12 20:20:24 -0400">
+                    <Title>Scene Template: AI Original</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>789,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="89C00944-AB7D-44E1-AE82-5AF4A548F0E2" Type="Text" Created="2023-08-12 20:20:24 -0400" Modified="2023-08-12 20:20:24 -0400">
+                    <Title>Example</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>786,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="FAF471C3-8073-4671-9816-E8AA51713023" Type="Text" Created="2023-08-12 20:20:24 -0400" Modified="2023-08-12 20:20:24 -0400">
+                    <Title>POV Tag Example</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection Caret="210">184,26</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="27D2BD55-8EDB-4573-96DC-3C09D943E791" Type="Text" Created="2023-08-12 20:20:24 -0400" Modified="2023-08-12 23:16:47 -0400">
+                    <Title>More examples</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection Caret="301">85,216</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -4340,15 +4421,15 @@ Nicole Jenkins</Value>
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" ShowOverrun="Yes" Deadline="2023-08-01 16:31:59 -0400" IgnoreDeadline="Yes">385000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="718" Characters="4163" Date="2023-08-12 19:39:34 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2023-08-13 01:24:08 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2023-08-12 00:00:00 -0400">
-        <DraftWordCount>1273</DraftWordCount>
-        <DraftCharCount>7353</DraftCharCount>
-        <OtherWordCount>-13143</OtherWordCount>
-        <OtherCharCount>-74988</OtherCharCount>
+    <RecentWritingHistory Date="2023-08-13 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>1586</OtherWordCount>
+        <OtherCharCount>8872</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
     <UserProjectData>
