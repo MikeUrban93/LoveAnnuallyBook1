@@ -834,12 +834,9 @@
             <FooterFont Size="10.0">Arial-Regular</FooterFont>
             <FirstRegularPage>-1</FirstRegularPage>
             <StandardHeader>
-                <Left><![CDATA[Love, Annually Draft 0.7]]></Left>
                 <Right><![CDATA[<$p>]]></Right>
             </StandardHeader>
-            <StandardFooter>
-                <Left><![CDATA[Copyright © 2021 Michael Urban all rights reserved.]]></Left>
-            </StandardFooter>
+            <StandardFooter/>
             <FirstPagesHeader/>
             <FirstPagesFooter>
                 <Left><![CDATA[Copyright © 2021 Michael A. Urban (A.K.A. The Kindergarten Poet) all rights reserved.]]></Left>

@@ -1,5 +1,12 @@
 # Changelog
 
+#### 0.0.1.18 - MAU `2023-08-15`
+1. Removed see numbers from the scene titles.
+2. Ensured all prep scenes had updated summaries of approximately 75 words or less.
+3. Added three new outline compiles.
+4. Completed the chapters and empty text files for the remainder of book 1.
+----
+
 #### 0.0.1.17 - MAU `2023-08-14`
 1. Completed Chapter – Patti's Dilemma
 2. Added two more chapters created their scene numbers, names,  and summaries and stubbed in their scene templates.

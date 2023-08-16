@@ -92,19 +92,20 @@ Evan 11</CustomMetaData>
             <Notes>The writing style used in this scene is Third Person Limited POV, focusing on Sarah's perspective. However, due to the instructions, a little insight into Evan's thoughts and feelings was also provided to enrich the narrative.</Notes>
         </Document>
         <Document ID="08669AC1-B4DB-4962-8AF5-27ABCEC2B15B">
-            <Title>Chapter - Sarah Prepares for First Date</Title>
+            <Title>Sarah Prepares for First Date</Title>
             <CustomMetaData>2006-09-28 17:00:00 2006-09-28 10:00:00</CustomMetaData>
         </Document>
         <Document ID="0A3F7359-8A82-4DD5-BE8F-A8FC14CCCD2B">
             <Title>rrrr</Title>
-            <Text>Evan finds himself momentarily waiting in the lavish lobby of The Grandeur, a luxury hotel situated near O'Hare airport in Chicago, Illinois. Amidst the opulence, his phone vibrates with a text from Sarah, providing him directions to the grand ballroom where she is the lead event coordinator for a prestigious nonprofit organization. Following her guidance, Evan enters the room just as Sarah is immersed in her professional duties. Observing her for the first time in her element, he is struck by more than mere admiration. To describe his reaction as impressed would be a gross understatement; he's utterly captivated by her competence and grace. </Text>
+            <Text>Sarah enlists Katie's assistance in securing food and refreshments for the volunteer crew, vaguely mentioning a stop at the ATM. After withdrawing several hundred dollars, Katie learns that Sarah personally finances the meals to keep the volunteers nourished, opting to use cash to keep her generosity anonymous. Though she could easily rely on her father's credit card, Sarah's choice to use her own money deeply impresses Katie, highlighting her genuine commitment to the cause.</Text>
         </Document>
         <Document ID="0B7F4C32-298E-4CC9-A15D-5F67182F7508">
-            <Title>0210 Sarah Prepares Her Apartment for Evan's Arrival</Title>
-            <Synopsis>Sarah prepares for Evan's first visit to her apartment.</Synopsis>
-            <Text>Scene Number: 0210
+            <Title>Sarah Prepares Her Apartment for Evan's Arrival</Title>
+            <Synopsis>Sarah busily prepares for Evan's inaugural visit to her apartment, filled with anticipation. She devises an unexpected surprise to kickstart their date, adding an extra layer of excitement to their blossoming relationship. Her heart races as the time of his arrival nears, and she hopes the surprise will bring them closer.</Synopsis>
+            <Text>Scene Template:
+Title: Sarah Prepares Her Apartment for Evan's Arrival
 Summary:
-Sarah prepares for Evan's first visit to her apartment.
+Sarah busily prepares for Evan's inaugural visit to her apartment, filled with anticipation. She devises an unexpected surprise to kickstart their date, adding an extra layer of excitement to their blossoming relationship. Her heart races as the time of his arrival nears, and she hopes the surprise will bring them closer.
 Setting:
 Location: Sarah's apartment
 Time: 6:30 PM on Friday Night following the Sunday softball game.
@@ -159,6 +160,25 @@ Unknown to Sarah, Evan is planning a proposal. During their graduation party, in
 Her father, a man of rationality and fairness, offers her a choice - to pursue a future with Evan in Chicago without his financial support, or to stick to her initial plan of achieving her Masters and joining him in Seattle. Faced with this dilemma, Sarah must decide between her long-standing ambitions and her heart's yearning for Evan.
 In true Nicholas Sparks fashion, this tale of love and self-discovery explores the poignant moments of life-changing decisions. Despite the odds, it is Sarah's heart that prevails, choosing a future with Evan in Chicago over her original academic plan. This is a testament to the power of love and its ability to reshape lives, a familiar theme in Sparks' emotional narratives.</Text>
             <Notes>[This scene is written in a style reminiscent of Nicholas Sparks, with a primary focus on the character's internal emotional turmoil, vivid depictions of the surroundings, and symbolism-laden gestures.]</Notes>
+        </Document>
+        <Document ID="0E48005C-3FA4-450B-998C-C8D603F6F7FF">
+            <Title>qqq</Title>
+            <Text>
+A Budding Romance
+0100 Everything is on Track for Sarah
+0101 Sarah is Late for Class
+0105 Evan and Guido in the Quad
+0110 Evan And Sarah Kiss
+0115 Sarah is Frazzled
+0116 Evan Hopes for Sarah's Return 
+Evan Charmed Sarah
+0120 Waiting Game
+0121 Evan Calls Liz for Advice
+0122 Evan is a Man With a Plan
+0123 Sarah Can't Concentrate
+0125 Evan Finds Sarah at the library
+0130 Evan and Sarah Food Court Date
+0132 Sarah Relents and agrees to a date</Text>
         </Document>
         <Document ID="0E6F3709-D60A-458B-B613-1FFC4A30E021">
             <Title>0164 Evan Gives Sarah a Pendant</Title>
@@ -232,8 +252,9 @@ Note: If you don't wish to subscribe anymore, turn off the licensing auto-renewa
 Go to NaturalReader Online Now</Text>
         </Document>
         <Document ID="11560D8C-B0E5-4ACF-986C-899406542557">
-            <Title>TBD</Title>
-            <Synopsis>To be determined.</Synopsis>
+            <Title>Evan Gives Sarah a Promise Ring</Title>
+            <Synopsis>Evan gives Sarah a promise ring on Valentine's Day, symbolizing his deep love and commitment. While outwardly pleased, Sarah is inwardly conflicted. The touching gesture is at odds with her master plan to leave Evan for an Ivy League school after graduation. Her emotions teeter between joy at Evan's devotion and fear of the future.</Synopsis>
+            <Notes>0260 Evan Gives Sarah a Promise Ring</Notes>
         </Document>
         <Document ID="11ED9085-1E52-44E5-A4B2-16B3AF490571">
             <Title>0135 Gudio Hears the Big News</Title>
@@ -519,49 +540,8 @@ Hobbies: These activities are recreational and are likely pursued for enjoyment 
 Habits: If Evan engages in these activities regularly and they become a routine part of his life, they could also be classified as habits. Working out at the gym, in particular, could be seen as a habit if it's a consistent part of his daily or weekly routine</Notes>
         </Document>
         <Document ID="18C010AC-347B-4E85-8F81-B53C98E33762">
-            <Title>0231 Sarah and Evan Consummate Their Relationship</Title>
-            <Synopsis>Following a triumphant fundraising event, Evan and Sarah head to the separate hotel rooms Sarah booked at the venue. Yet, only one hotel room will be occupied that night. As emotions reach a crescendo, Evan and Sarah declare their love for one another, and in a profound expression of their connection, they consummate their relationship.</Synopsis>
-            <Text>Scene Number: 0231
-Summary:
-Following a triumphant fundraising event, Evan and Sarah head to the separate hotel rooms Sarah booked at the venue. Yet, only one hotel room will be occupied that night. As emotions reach a crescendo, Evan and Sarah declare their love for one another, and in a profound expression of their connection, they consummate their relationship.
-Setting:
-Location: The elevators and hallways of The Grandeur Hotel. Eventually the scene climaxes in Sarah's hotel room where Evan and Sarah sleep together for the first time.
-Time: 10:30 PM
-Characters Present:
-Main Characters: Sarah, Evan
-Secondary Characters: Information
-Character Emotional State:
-Evan: Romantic, amorous
-Sarah: Romantic, amorous
-POV: Third person limited, deep (focusing on Name)
-Dialogue Focus: Heavy
-Use of Internal Dialogue: Heavy
-Plot/Action:
-Beginning: Information
-Middle: Information
-End: Information
-Objectives/Goals:
-Information
-Information
-
-Props/Items:
-Information
-Information
-
-Dialogue:
-Key Lines:
-Name: &quot;Information&quot;
-Name: &quot;Information&quot;
-Tone: 
-Name: &quot;Information&quot;
-Name: &quot;Information&quot;
-Action Tags/Dialogue Tags:
-Information
-Information
-Special Instructions/Notes:
-Information
-Information
-</Text>
+            <Title>Evan's First Luxury Hotel Room</Title>
+            <Synopsis>After professing his love to Sarah and sharing a sensual goodnight kiss, Evan is filled with joy. Although Sarah doesn't voice her love, Evan sees it in her eyes and feels it in her kiss. Entering his luxurious hotel room for the first time, he's thrilled by the opulence, feeling that everything in his world is exactly as it should be.</Synopsis>
             <Notes>0226 Sarah and Evan Consummate Their Relationship</Notes>
         </Document>
         <Document ID="19445440-55AA-4BA8-9A8C-0B9507E3FFEA">
@@ -613,10 +593,11 @@ A knock on the door pulled her from her thoughts. It was Evan. The sound resonat
             <Notes>I made some adjustments to the scene template. Without writing the scene, please evaluate the scene template for the following scene, identifying any areas that need to be changed, added, or removed in order for you to write a compelling scene. Updated template: Scene Number 0210:</Notes>
         </Document>
         <Document ID="1BAA3E5F-E801-4E2C-95F0-38B17D1E6BB2">
-            <Title>0125 Evan Finds Sarah at the library</Title>
-            <Synopsis>Evan finds Sarah at the library and charms into taking a break at the food court,</Synopsis>
+            <Title>Evan Finds Sarah at the library</Title>
+            <Synopsis>Evan locates Sarah in the library, and despite her attempt to hide behind a book, he spots her. With his easy charm, he breaks through Sarah's initial resistance, persuading her to join him for a break at the campus food court. This encounter marks a pivotal moment in their growing connection, as she allows herself to be drawn into his world.</Synopsis>
             <Text>Scene Description:
-Scene Name: 0125 Evan Finds Sarah at the library
+Scene Name: Evan Finds Sarah at the library
+Summary: 0125 Evan Finds Sarah at the library
 Characters: Evan, Sarah
 POV: Third person limited, from Sarah's perspective 
 Time of Day: Morning
@@ -718,8 +699,9 @@ ISBN-13:</Text>
             <Notes>Feel free to delete this document if you don’t need it, or edit it for your needs.</Notes>
         </Document>
         <Document ID="23118A16-F77E-4754-A424-A580702BB8F1">
-            <Title>0315 Evan Proposes</Title>
-            <Synopsis>Evan presents Sarah with a plaque honoring her status as top of her graduating class. While Sarah is onstage receiving her plaque, she is shocked to see Evan on one knee proposing to her. Although conflicted, she accepts his proposal – much to her father's dismay.</Synopsis>
+            <Title>Evan Proposes</Title>
+            <Synopsis>Evan surprises Sarah by presenting her a plaque recognizing her as top of her graduating class. As she stands on a small stage to receive it, the crowd urges her to turn around, revealing Evan on one knee, proposing. Although conflicted, Sarah accepts the proposal, thrilling the crowd but visibly dismaying her father.</Synopsis>
+            <Notes>Evan surprises Sarah by presenting her a plaque recognizing her as top of her graduating class. As she stands on a small stage to receive it, the crowd urges her to turn around, revealing Evan on one knee, proposing. Although conflicted, Sarah accepts the proposal, thrilling the crowd but visibly dismaying her father.</Notes>
         </Document>
         <Document ID="2646479C-5BBE-41D2-9094-7CC22F787E80">
             <Title>split scene</Title>
@@ -760,7 +742,7 @@ Despite the whirlwind of feelings, Sarah agreed to go on a date with Evan. A sma
 *Author's style: This scene is written using the close third-person perspective, with an emotional, character-driven narrative focusing on internal conflict and dialogue. The tone fluctuates between sweet, funny, intriguing, exciting, and frantic, reflecting</Text>
         </Document>
         <Document ID="265BA701-FA5F-488D-B0E4-611CD58AEDD9">
-            <Title>Chapter - Evan Charmed Sarah</Title>
+            <Title>Evan Charmed Sarah</Title>
             <CustomMetaData>2006-09-25 10:41:00 2006-09-22 10:00:00</CustomMetaData>
         </Document>
         <Document ID="270F6803-CACA-419E-B793-2453B7E737A7">
@@ -973,9 +955,10 @@ While Evan did not embrace his popularity, he humbly accepted the situation, nev
         </Document>
         <Document ID="2B40DA1D-BDE3-4A46-ABD6-A55D447ABC66">
             <Title>0164 Evan Gives Sarah a Pendant</Title>
-            <Synopsis>After dinner, Evan gives Sarah a customized, inexpensive pendant before she leaves in her car. The pendant is more of a sentimental piece of jewelry meant to commemorate their unique start. Although Sarah is accustomed to wearing expensive jewelry, she loves the pendant Evan had made for her.</Synopsis>
+            <Synopsis>After dinner, Evan presents Sarah with a customized pendant, an inexpensive but sentimental piece commemorating their unique beginning. Though Sarah usually wears expensive jewelry, she's touched by the thoughtfulness of Evan's gift and falls in love with the pendant, symbolizing a deeper connection between them.</Synopsis>
             <Text>Scene Template:
-Scene Name: 0160 Sarah &amp; Evan’s First Date
+Scene Name: Sarah &amp; Evan’s First Date
+Summary: After dinner, Evan presents Sarah with a customized pendant, an inexpensive but sentimental piece commemorating their unique beginning. Though Sarah usually wears expensive jewelry, she's touched by the thoughtfulness of Evan's gift and falls in love with the pendant, symbolizing a deeper connection between them.
 Characters: Sarah, Evan
 POV: Third person limited, from Sarah's perspective 
 Location: Thai Garden Restaurant
@@ -1166,9 +1149,12 @@ Her head said to follow her initial plan, but her heart was screaming for her to
             <Comments>Great Word!</Comments>
         </Document>
         <Document ID="2FC1547C-1807-470C-9D7F-419E3A0855F9">
-            <Title>0204 The Enforcers Win!</Title>
+            <Title>The Enforcers Win!</Title>
             <Synopsis>Patti sizes up Sarah during the game while Sarah educates herself on a game she knows nothing about. Evan and Guido's team, the Enforcers, win their game!</Synopsis>
-            <Text>Scene Number: 0204
+            <Text>Scene Template:
+Title: The Enforcers Win!
+Summary: 
+Patti sizes up Sarah during the game while Sarah educates herself on a game she knows nothing about. Evan and Guido's team, the Enforcers, win their game!
 Setting:
 Location: The aluminum bleachers at a softball field in a large recreational park in central Illinois.
 Time: 11:00 AM to 1:00 PM
@@ -2009,6 +1995,59 @@ dis parturient montes, nascetur ridiculus mus.
             <Title>Chapter - Sarah Prepares for First Date</Title>
             <CustomMetaData>2006-09-28 17:00:00 2006-09-28 10:00:00</CustomMetaData>
         </Document>
+        <Document ID="31A264CB-084A-44EC-9C7B-7C90BC22914E">
+            <Title>0229 Evan Meets Morgan Freeman?</Title>
+            <Text>Amidst the grand chandeliers and elegant finery of the Grand Ballroom at the Grandeur Hotel, the wealthy and sophisticated attendees were mingling, cocktails in hand. The glittering throng was abuzz with talk of charitable donations, and the anticipation of a night filled with generosity was palpable.
+Mere seconds into their journey, Evan's sharp eyes caught Marcus Chamberlain, Sarah's distinguished boss. Unable to resist his comic ways, he nudged her, saying, &quot;Hey Sarah, Morgan Freeman showed up!&quot;
+Sarah’s eyes widened in horror. “Shh, Evan, someone might hear you. Don't look his way. We need to warm you up a bit before I introduce you.”
+The playful sparkle in Evan's eyes betrayed his nerves, and he grinned. &quot;Too late. Morgan is on his way. Should I ask for his autograph?&quot;
+Sarah's eyes narrowed, unamused by Evan's jokes. She immediately flashed a smile she'd been practicing since she attended her first fundraiser at 12 years old. Out of the corner of her mouth, she whispered, &quot;Be professional.&quot;
+Marcus Chamberlain looked over at Sarah and Evan and began walking their way, his eyes fixed on the new face accompanying his trusted employee.
+Marcus is coming over. I hope Evan does well, Sarah thought, her anxiety bubbling beneath her professional demeanor.
+Marcus approached with a beaming smile, praising Sarah, &quot;Sarah, you've done a great job here. I'm very impressed!&quot;
+&quot;Thank you, Mr. Chamberlain-&quot; Sarah began, only to be interrupted.
+&quot;Please, not so formal. Call me Marcus,&quot; he said with a warm grin.
+&quot;Thank you, Marcus, for trusting me with such a prestigious event. I am honored to be associated with your organization.&quot;
+Marcus's eyes drifted to Evan, his curiosity piqued. &quot;Ah, a new face. Who have you brought with you today?&quot;
+Sarah’s voice held a note of pride. &quot;This is my boyfriend, Evan.&quot;
+Evan and Marcus engaged in a firm, appropriate handshake, a mutual respect exchanged in the simple gesture. &quot;Nice to meet you, Evan,&quot; Marcus said, his voice sincere.
+&quot;A pleasure to meet you as well, Marcus,&quot; Evan replied, his excitement bubbling over into a charming grin.
+So far, so good, Sarah thought, feeling good about how the conversation had started.
+&quot;So, you're Sarah’s boyfriend?&quot; Marcus inquired, his eyes twinkling.
+Evan smiled and said, &quot;My proudest accomplishment to date!&quot;
+His response caused Sarah concern, but Marcus chuckled, easing the tension. &quot;Have you had a chance to look at the items up for auction?&quot;
+Evan's eyes brightened. &quot;I took a quick peek on my way into the ballroom. I’d give my right arm for those Bears tickets on the 50-yard line!&quot;
+Sarah's concern notched up to minor anxiety, and she glanced at Evan, trying to figure out how to silently remind him to stay focused on the nonprofit organization.
+Marcus's eyes sparkled with amusement. &quot;Are you a Bears fan?&quot;
+Evan's animated facial expression and exaggerated nod increased Sarah's concern and anxiety, but Marcus chuckled again. &quot;It’s a blind auction. I think bidding starts in a few minutes. Who knows, maybe you’ll have the winning bid.&quot;
+Unaware that Sarah was dying of anxiety inside, Evan continued his comic ways. &quot;You see this suit? It’s nice, isn’t it?&quot; he joked, tugging on the lapels of his suit jacket.
+Marcus looked a bit confused but played along. &quot;Quite nice, yes.&quot;
+Evan’s next words sent Sarah's heart racing. &quot;I would love to bid on those tickets, but this suit represents the last dollar in my bank account.&quot;
+Although meant to be humorous, It was also very true. 
+Sarah wanted to disappear, but then something unexpected happened. Marcus cracked up at Evan's joke. &quot;Sarah, I love this guy. He's hilarious!&quot;
+Sarah remained paralyzed in her smile, unsure how to respond, her mind whirling. Is this really happening?
+&quot;I understand,&quot; Marcus continued, his voice filled with understanding. &quot;I was young and always short on cash back in the day. But you know our organization does great work. Would you consider donating your time? We are always short on volunteers.&quot;
+Evan's sincere response notched down Sarah's anxiety. &quot;I would love to help out! Sarah told me about the great work ‘Home Is Where the Heart Is’ does.&quot;
+Sarah's was thrilled that Evan remembered the name of the organization. Marcus was equally impressed. &quot;I'm glad to hear that! Sarah can give you the details. She’s in charge of the project. Two weeks from today, we’ll be helping folks clean up what's left after a tornado hit a town not far from where Sarah lives. Do you think you can make it that Saturday?&quot;
+Evan's enthusiasm was infectious. &quot;Count me in! I'm sure I can recruit a handful of friends to help volunteer as well.&quot;
+Sarah finally found her voice, her anxiety decreased, excitement replacing it. &quot;Really? Who do you think will come?&quot;
+Evan's playful humor returned as he considered. &quot;Patti is a lock! This is right up her alley, and wherever Patti goes, Roxanne goes. I'm sure I can get Guido to commit, and I think I could convince three or four more friends to help out.&quot;
+Sarah's surprise was evident. &quot;Guido? I wouldn’t think he’d be interested in volunteering.&quot;
+Evan looked at Marcus, half serious, half joking. &quot;Will there be single adult females volunteering?&quot;
+Marcus saw where Evan was going and played along. &quot;I'm sure there will be plenty.&quot;
+&quot;That's a great incentive. We'll add a six-pack of beer for a job well done, and Guido will be in!&quot; Evan declared, his eyes twinkling.
+Sarah wanted to crawl under a rock, certain that talk of single females and 6-packs of beer were not appropriate things to say to Marcus. But as before, Marcus laughed even louder than he had before. &quot;I can't wait to meet this Guido fella.&quot;
+Evan comically rolled his eyes. &quot;Believe me, you can wait.&quot;
+Both men flowed in laughter, and Sarah's anxiety began to ease. Marcus then inquired about the auction, and with an unexpected generosity, offered the Bears tickets to Evan if he could recruit his friends to volunteer.
+Evan's shock and gratitude were evident. &quot;Are you sure?&quot; he asked, his voice filled with disbelief.
+&quot;I'm positive,&quot; Marcus assured him. &quot;A handful of young volunteers is worth much more than we'll get at auction for those tickets.&quot;
+Marcus turned to Sarah. &quot;Can you pull the Bears tickets off the auction table?&quot;
+Sarah's mind was a whirlwind, but she managed to stammer, &quot;I'll go get them right now.&quot;
+As Sarah hurried off to fulfill Marcus's request, Marcus and Evan continued to engage in lively conversation, forming an immediate bond over shared interests. Marcus's demeanor was relaxed and at ease, his laughter genuine and unrestrained. Evan's quirky, charming personality had won over Marcus, and Sarah's anxiety about introducing her boss to her boyfriend had been entirely unwarranted.</Text>
+        </Document>
+        <Document ID="34F77233-C7C5-4EC4-9588-E69F1EC8F89B">
+            <Title>Chapter – Attends Sarah's Fundraiser</Title>
+        </Document>
         <Document ID="3576ECDA-9163-49A7-9805-B115100A5C8C">
             <Title>Standard Manuscript</Title>
             <Text>Andrew Nonymous                   700 words.
@@ -2224,10 +2263,11 @@ In the style of Danielle Steel, this story unfolds with high emotion and heart-s
 [This scene is written in the style of Danielle Steele, with her signature blend of romantic turmoil and emotional upheaval, played out against the backdrop of everyday life.] </Notes>
         </Document>
         <Document ID="37D42D36-A774-4899-802F-E98617EEB2D3">
-            <Title>0122 Evan is a Man With a Plan</Title>
-            <Synopsis>For a second time, Evan returns to the scene of the kiss, looking for Sarah. He decides to look in the library.</Synopsis>
+            <Title>Evan is a Man With a Plan</Title>
+            <Synopsis>Evan, undeterred, revisits the scene of the kiss in search of Sarah. Following a hunch, he heads to the library, where he finds her trying to study. Employing his charm, he persuades Sarah to take a break, and they head to the campus food court, initiating a newfound connection between the two.</Synopsis>
             <Text>Scene Description:
-Scene Name: 0122 Evan is a Man With a Plan
+Scene Name: Evan is a Man With a Plan
+Summary: Evan, undeterred, revisits the scene of the kiss in search of Sarah. Following a hunch, he heads to the library to find Sarah.
 Characters: Evan
 POV: Third person limited, from Evan's perspective 
 Time of Day: Morning
@@ -2350,15 +2390,16 @@ Liz interrupts and sports and parties and girls…Segway to story..
 Actually that why I called</Notes>
         </Document>
         <Document ID="3AAC766C-D29C-4DF5-95CB-DF7CBE1235B4">
-            <Title>0300 Graduation Party Setup</Title>
-            <Synopsis>Set up begins for the graduation party thrown by Evan and Guido – inviting their large group of friends. Evan and Guido throw a large graduation party, inviting their 30 to 40 friends.</Synopsis>
+            <Title>Graduation Party Setup</Title>
+            <Synopsis>In a local hotel's rented event space, Evan, Guido, and a handful of friends busily prepare for a post-graduation celebration party. Their party plans include several surprises, sure to entertain their 30 to 40 guests. Unaware of what awaits her, Sarah is set to be particularly astonished by the evening's unexpected twists.</Synopsis>
             <Notes>While Guido, Patti, Roxanne, continue working on the party, Evan takes a break to show his final GPA to Sarah.</Notes>
         </Document>
         <Document ID="3ADA379C-5516-4F25-B990-53987BE42007">
-            <Title>0143 Sarah and Katie Chat</Title>
-            <Synopsis>Sarah and Katie have a chat. Katie learns more about Sarah's background and her experience with Evan.</Synopsis>
+            <Title>Sarah and Katie Chat</Title>
+            <Synopsis>Sarah and Katie engage in a heart-to-heart conversation. Katie learns more about Sarah's background, her aspirations, and her burgeoning relationship with Evan. Their chat deepens their friendship and provides Katie with insight into Sarah's world.</Synopsis>
             <Text>Scene Template:
-Scene Name: 0143 Sarah and Katie Chat
+Scene Name: Sarah and Katie Chat
+Summary: Sarah and Katie engage in a heart-to-heart conversation. Katie learns more about Sarah's background, her aspirations, and her burgeoning relationship with Evan. Their chat deepens their friendship and provides Katie with insight into Sarah's world.
 Characters: Sarah, Katie
 POV: Third person limited, from Sarah's perspective 
 Location: Sarah’s Apartment
@@ -2441,11 +2482,48 @@ Katie said, &quot;We need to get going. Let's get you changed into something mor
 
 Remember, tones can be mixed and matched to best suit the context and intended effect of the scene. For example, a scene might be written in a humorous yet suspenseful tone, or a romantic yet melancholic tone, depending on what emotions the author wishes to evoke from the reader.</Text>
         </Document>
+        <Document ID="3D9E57E7-1FEC-4204-8D87-B6078504824C">
+            <Title>0227 Sarah Preps Evan</Title>
+            <Text>Evan couldn't help but admire Sarah as she approached, her vibrant turquoise evening gown shimmering in the ballroom's light. The fitted bodice with its modest sweetheart neckline adorned with intricate lace highlighted her grace and elegance, and the gentle train added a touch of sophistication.
+&quot;You look amazing, Sarah,&quot; he said, his voice filled with genuine admiration.
+Sarah's eyes widened, taking in Evan's well-fitted charcoal gray suit, soft blue dress shirt, and stylish maroon tie. &quot;And you, Evan, look like you were born to wear that suit.&quot; The outfit, though purchased on a budget, gave Evan a refined appearance, suitable for the elegant fundraiser event. It was a visual testament to his effort to fit into her world.
+After Evan and Sarah exchanged compliments, she grabbed her glass of wine from the bar. &quot;Come on, Evan. Let's go talk somewhere privately,&quot; she said, her voice filled with a mix of excitement and concern.
+Evan's eyebrows shot up in intrigue, but he obediently followed her. They wove through the crowd, past the coat check room, and into a small storage room. The door clicked shut behind them, creating an intimate space filled with the scent of freshly laundered linens.
+&quot;Is this the make-out room?&quot; he asked, his voice brimming with the energy of a teenager in love. He leaned in for a kiss, his eyes twinkling.
+Sarah's laugh was soft and alluring, but her tone was firm. &quot;Not here. This is my work. We have to keep it professional.&quot; Her eyes were serious but playful, and Evan couldn't help but be captivated by her dedication.
+Evan leaned back, his lips curving into a teasing smile. &quot;Why are we whispering? There's no one here.&quot;
+&quot;I have no idea.&quot; Sarah laughed again, her anxiety momentarily forgotten. The sound was like a melody to Evan's ears, and they both laughed, the tension easing.
+Finally, Sarah's expression shifted to one of focus and purpose. &quot;I brought you back here because I wanted to prep you for the fundraiser. I should've done this earlier, but I got so busy.&quot;
+&quot;Prep away!&quot; Evan's enthusiasm was infectious, his eyes bright with curiosity.
+Sarah took a moment, her eyes searching his, her voice soft with concern. &quot;Well, first, tell me how you're feeling. Are you nervous?&quot;
+Evan's response was genuine and thoughtful, his nerves laid bare. &quot;I was extremely nervous when I left my apartment. I decided to call Liz on the two-hour drive to Chicago. She reminded me that no matter how wealthy or sophisticated a person is, they still put on their pants one leg at a time. They still sneeze, burp, cough, cry, and laugh. She also told me that, most importantly, rich or poor, the best people prioritize authenticity. If they don't like me for who I am, then I should simply, as Liz calls it, 'exit gracefully.'&quot;
+&quot;And that's all it took to calm your nerves?&quot; Sarah's voice was tinged with amusement, but her eyes were gentle, filled with understanding.
+Evan's face split into a grin, ever the comic. &quot;Well, that and a little help from my friend Jack Daniels that your bartender introduced me to.&quot;
+They both laughed again, the room filled with the sound of their shared joy. Then Sarah's face turned serious, her business look taking over. &quot;This fundraising event is for the nonprofit organization, 'Home Is Where the Heart Is.' It was founded by a very wealthy businessman and gentleman named Marcus Chamberlain – think Morgan Freeman's twin brother.&quot;
+&quot;Gotcha!&quot; Evan's response was immediate, his mind working quickly to absorb the information.
+&quot;This is the third event I've organized for him. I like working for him because he's not a jerk and gives me the autonomy to do the job right. He is quite distinguished, so be on your best behavior around him.&quot; Sarah's words were filled with a mix of pride and caution, her faith in Evan evident but tinged with a hint of anxiety.
+Evan, ever attentive, repeated the critical components of words to help him remember. &quot;Marcus Chamberlain, Home Is Where the Heart Is, best behavior. Got it!&quot;
+&quot;What will the funds raised tonight be used for?&quot; His question was genuine, his interest in the cause clear in his eyes.
+Sarah's answer was filled with passion, her belief in the cause shining through. &quot;Home Is Where the Heart Is provides funds and volunteers to help low-income families rehab homes in disrepair. They also help rebuild uninsured or underinsured homes lost due to fire or natural disaster.&quot;
+&quot;Wow! Those are good causes.&quot; Evan's admiration was evident, his respect for Sarah's work growing by the moment.
+&quot;Yes, it is. I hope to top last year's record for this annual fundraising event.&quot; Sarah's determination was palpable, her desire to succeed burning brightly.
+&quot;Who else do I need to know about? The bartender said I may have to defend you against some salacious wolves?&quot; Evan's words were accompanied by a humorously exaggerated boxer's pose, his dukes held high.
+Sarah's laughter rang out again, her delight in Evan's antics clear. &quot;Just having you by my side will spook them away. It will be nice not to have to deal with them for once.&quot;
+She looked at her watch, her face falling slightly. &quot;We're out of time. Look, do your best. Don't be offended or surprised if a bunch of people try to get you to donate money. Since no one knows you, they may think you're a trust fund kid and see you as fresh meat.&quot;
+Evan's face turned mock-serious, his eyes twinkling. &quot;Can I get a kiss before we head out into the den of wolves?&quot;
+Evan found it amusing when his request for a quick kiss was met with a brief, paranoid glance around the room. He didn't understand her caution, but her endearing paranoia brought a smile to his face.
+&quot;Alright, one quick kiss, that's it.&quot; Sarah's words were firm, but her eyes were soft.
+True to her word, Evan got a quick kiss, and that was it.
+Sarah opened the door, peeked her head out, and looked both ways. With the coast clear, she and Evan walked down the hall toward The Grand Ballroom.
+As they reached the edge of the grand ballroom, illuminated by the soft glow of crystal chandeliers and filled with the murmur of elegant conversations, Evan turned to Sarah with an air of traditional gallantry. His eyes met hers, and with a slight, gentlemanly bow, he extended his arm toward her. Understanding the timeless gesture, Sarah gracefully slipped her arm into his, allowing her hand to rest just above his elbow. With arms interlocked, they ventured into the mystery of the evening ahead, both excited and optimistic about what lay before them.
+</Text>
+        </Document>
         <Document ID="3DDFB85B-EEE8-4ED5-AC6B-B73631F0AA88">
-            <Title>0130 Evan and Sarah Food Court Date</Title>
-            <Synopsis>Evan convinces Sarah to break from her studies and join him at the food court for a snack. Panicked, she runs out on Evan, but he catches up to her outside.</Synopsis>
+            <Title>Evan and Sarah Food Court Date</Title>
+            <Synopsis>Evan kisses Sarah at the spot where they first kissed, but as they walk to the food court, she feels eyes on them. Feeling awkward, she recites her resume instead of sharing personal details. Her embarrassment and sense of judgment cause her to feel uncomfortable, leading her to suddenly rush out the exit, leaving both the moment and Evan behind.</Synopsis>
             <Text>Scene Description:
-Scene Name: 0130 Evan and Sarah Food Court Date
+Scene Name: Evan and Sarah Food Court Date
+Summary: Evan kisses Sarah at the spot where they first kissed, but as they walk to the food court, she feels eyes on them. Feeling awkward, she recites her resume instead of sharing personal details. Her embarrassment and sense of judgment cause her to feel uncomfortable, leading her to suddenly rush out the exit, leaving both the moment and Evan behind.
 Characters: Evan, Sarah
 POV: Third person limited, from Evan's perspective 
 Locations: Outside the entrance doors to the undergrad library. The area at and around the spot where Evan and Sarah first kissed.
@@ -2480,19 +2558,21 @@ As the minutes passed, Sarah could feel the weight of awkwardness settle over th
 </Text>
             <CustomMetaData>2006-09-25 10:41:00 University of Illinois Campus Food Court 2006-09-25 10:16:00 0 9 Sarah
 Evan</CustomMetaData>
+            <Notes>Evan kisses at the same spot they had days before. Sarah felt eyes watching her and Evan as they walked to the food court. Sarah feels awkward, and instead of telling Evan more about her personal life, she recites her resume. Embarrassed by the mistake and feeling uncomfortable and judged, Sarah rushes out of the exit.</Notes>
         </Document>
         <Document ID="3DFBB9A9-798D-4334-AFF4-A275BC4A2AFD">
-            <Title>0305 Evan Meets Parents</Title>
-            <Synopsis>Evan briefly meets Sarah’s parents before revealing to Sarah his surprise of inviting her parents to the party.</Synopsis>
+            <Title>Evan Meets Parents</Title>
+            <Synopsis>Evan has a brief encounter with Sarah's parents before the party, managing to keep his surprise invitation to them a secret. When they arrive at the event, he reveals to a stunned Sarah that he's invited her parents, adding a personal touch to the celebration.</Synopsis>
         </Document>
         <Document ID="3E5B46A7-2D74-46C0-9C84-D3D1B9EB378E">
             <Title>Manuscript Format</Title>
         </Document>
         <Document ID="413EEE6C-6489-43B5-882D-4955453B93DA">
-            <Title>0150 Sarah’s Makeover</Title>
-            <Synopsis>Katie’s hairdresser gives Sarah a makeover.</Synopsis>
+            <Title>Sarah’s Makeover</Title>
+            <Synopsis>At Katie's hairdresser's salon, Sarah receives a makeover, including low lights. While waiting, Katie Googles Evan, getting positive information from her roommate's sister. The encouraging news starts to shift Sarah's thoughts, making her consider that a relationship with Evan might indeed be possible.</Synopsis>
             <Text>Scene Template:
-Scene Name: 0150 Sarah’s Makeover
+Scene Name: Sarah’s Makeover
+Summary: At Katie's hairdresser's salon, Sarah receives a makeover, including low lights. While waiting, Katie Googles Evan, getting positive information from her roommate's sister. The encouraging news starts to shift Sarah's thoughts, making her consider that a relationship with Evan might indeed be possible.
 Characters: Sarah, Katie, Nicole
 POV: Third person limited, from Sarah's perspective 
 Location: Shear Elegance Hair Salon
@@ -2589,6 +2669,11 @@ Nicole Jenkins 11</CustomMetaData>
         </Document>
         <Document ID="418398EA-F176-415C-BC6C-38E9BB53EEF3">
             <Title>Test</Title>
+        </Document>
+        <Document ID="42A9DFD7-B535-4724-968F-E10F65D82AF0">
+            <Title>Sarah Relaxes in the Tub</Title>
+            <Synopsis>After Evan's profession of love and a sensual goodnight kiss, Sarah is on cloud nine. While enjoying the luxury hotel's oversized tub, she's engulfed in euphoria, her heart swelling with emotion. Reflecting on her feelings, she explores her growing affection for Evan, basking in the warmth and joy of the realization.</Synopsis>
+            <Notes>oversized</Notes>
         </Document>
         <Document ID="46878D91-06E4-485E-BC6F-78901860A0A5">
             <Title>Guido</Title>
@@ -2896,9 +2981,10 @@ Guido's shrug, his silence, said it all.</Text>
         </Document>
         <Document ID="4D511480-45F7-4E67-A071-69AA30447B78">
             <Title>0165 Sarah Updates Katie</Title>
-            <Synopsis>After a magical first date, Sarah returns to her apartment to share the evening events with Katie. Katie and Sarah are excited to see that Evan has requested that he and Sarah change their Facebook status to “In a Relationship.”</Synopsis>
+            <Synopsis>After a memorable first date, Sarah returns home to share details with Katie, showing her the unique pendant Evan had made for her. Both are thrilled to discover Evan has requested Sarah change her Facebook status to “In a Relationship,” marking a new chapter in their connection.</Synopsis>
             <Text>Scene Template:
-Scene Name: 0165 Sarah Updates Katie
+Scene Name: Sarah Updates Katie
+Summary: After a memorable first date, Sarah returns home to share details with Katie, showing her the unique pendant Evan had made for her. Both are thrilled to discover Evan has requested Sarah change her Facebook status to “In a Relationship,” marking a new chapter in their connection.
 Characters: Sarah, Katie
 POV: Deep Third person limited, from Sarah's perspective  
 Location: Sarah’s Apartment
@@ -2941,15 +3027,16 @@ We want to leave the reader feeling how Sarah feels at this moment. ]]
 </Text>
             <CustomMetaData>2006-09-28 20:41:00 Champaign, Illinois Sarah's Apartment 2006-09-28 20:31:00 0 9 Sarah
 Katie Andrews 7</CustomMetaData>
+            <Notes>After a memorable first date, Sarah returns home to share details with Katie, showing her the unique pendant Evan had made for her. Both are thrilled to discover Evan has requested Sarah change her Facebook status to “In a Relationship,” marking a new chapter in their connection.</Notes>
         </Document>
         <Document ID="4EDA1F03-5DFB-494C-B4AB-994E053F39B4">
-            <Title>0121 Evan Calls Liz for Advice</Title>
-            <Synopsis>Disappointed he has been unable to find Sarah after their kiss, Evan calls his sister, Liz, for advice.</Synopsis>
+            <Title>Evan Calls Liz for Advice</Title>
+            <Synopsis>Feeling dejected after failing to find Sarah following their kiss, Evan seeks guidance by calling his sister, Liz. Her comforting words and insightful advice lift his spirits, leaving him rejuvenated and more determined. The conversation with his sister not only provides solace but inspires him to continue his pursuit of a connection with Sarah.</Synopsis>
             <Text>Please create the scene using the following information.
 Scene Information:
-Scene Title: 0121 Evan Calls Liz for Advice
-Scene Description: 
-Disappointed he has been unable to find Sarah after their kiss, Evan calls his sister, Liz, for advice. 
+Scene Title: Evan Calls Liz for Advice
+Summary: 
+Feeling dejected after failing to find Sarah following their kiss, Evan seeks guidance by calling his sister, Liz. Her comforting words and insightful advice lift his spirits, leaving him rejuvenated and more determined. The conversation with his sister not only provides solace but inspires him to continue his pursuit of a connection with Sarah. 
 Characters:
 Evan: He calls Liz for advice about finding Sarah. 
 Liz: She lists Evan’s spirits with her words about Sarah. She has concerns about his health. 
@@ -3162,8 +3249,11 @@ Please rewrite and expand that first paragraph if that's enough to work with. If
         </Document>
         <Document ID="50C8A3F8-BBB4-40ED-9EC1-445215F7ED45">
             <Title>Scene Template: AI Create V2</Title>
-            <Text>Scene Number: 9999
+            <Text>Scene Template:
+Title: Title
 Summary:
+Information
+Leading Context:
 Information
 Setting:
 Location: Information
@@ -3259,10 +3349,11 @@ Information
             <Notes>0224 Evan's First Fundraising Event</Notes>
         </Document>
         <Document ID="5153DA8B-E548-4E27-A947-09017EA1E3C8">
-            <Title>0115 Sarah is Frazzled</Title>
-            <Synopsis>Sarah arrives at her class uncharacteristically five minutes late. The typically well-prepared, professional Sarah finds herself frazzled but turns it into a well-received class session.</Synopsis>
+            <Title>Sarah is Frazzled</Title>
+            <Synopsis>Arriving uncharacteristically late to her class, Sarah is frazzled and out of sorts. Normally well-prepared and professional, she's thrown off by her tardiness. Despite her inner turmoil, she manages to regain her composure, delivering a class session that's engaging and well-received by her students.</Synopsis>
             <Text>Scene Description:
-Scene Name: 0115 Sarah is Frazzled
+Scene Name: Sarah is Frazzled
+Summary: Arriving uncharacteristically late to her class, Sarah is frazzled and out of sorts. Normally well-prepared and professional, she's thrown off by her tardiness. Despite her inner turmoil, she manages to regain her composure, delivering a class session that's engaging and well-received by her students.
 Characters: Sarah, Katie
 POV: Third person limited, from Sarah's perspective 
 Location: Sarah's Classroom
@@ -3404,16 +3495,16 @@ As the game started, all she could think about was Evan's laughter, his joy with
             <Title>Writer Tips</Title>
         </Document>
         <Document ID="55B09589-D0FD-41D7-B4D3-F01F165E2544">
-            <Title>Chapter - A Budding Romance</Title>
+            <Title>A Budding Romance</Title>
             <CustomMetaData>2006-09-21 10:04:00 2006-09-21 09:58:00</CustomMetaData>
         </Document>
         <Document ID="5704D219-A241-4816-9D7D-84FD67E9144F">
-            <Title>0137 Evan Has a Special Gift Made</Title>
-            <Synopsis>While at the mall, seeking a special gift for his date with Sarah happens upon a unique gift idea that will memorialize their first meeting.</Synopsis>
+            <Title>Evan Has a Special Gift Made</Title>
+            <Synopsis>At the mall, looking for a special gift for his date with Sarah, Evan stumbles upon a unique idea that symbolizes their first meeting. He commissions a jeweler to craft a necklace featuring a pendant of silver-coated toy glasses, encapsulating the memory and adding a personal touch to their budding relationship.</Synopsis>
             <Text>
-
 Scene Description:
-Scene Name: 0137 Evan Has a Special Gift Made
+Scene Name: Evan Has a Special Gift Made
+Summary: At the mall, looking for a special gift for his date with Sarah, Evan stumbles upon a unique idea that symbolizes their first meeting. He commissions a jeweler to craft a necklace featuring a pendant of silver-coated toy glasses, encapsulating the memory and adding a personal touch to their budding relationship.
 Characters: Guido, Jewelry Store Owner
 POV: Third person limited, from Evan's perspective 
 Location: A Local Mall
@@ -3469,6 +3560,14 @@ This saves us from having to manually assign the “Front Matter” section type
 
 During compile, documents assigned the “Front Matter” section type will be laid out differently from documents in the main body of the manuscript.</Notes>
         </Document>
+        <Document ID="58EA726D-468D-402B-ACD2-C218C31A2ACF">
+            <Title>Sarah and Evan Consummate Their Relationship</Title>
+        </Document>
+        <Document ID="595C0189-4CEA-4BBE-9A37-A6A302DB125E">
+            <Title>Joe and Liz Eloped</Title>
+            <Synopsis>Just before Sarah and Evan return to college, Liz and Joe reveal a surprising twist: they had secretly eloped earlier in the day. The unexpected announcement catches Sarah and Evan off guard, adding a thrilling end to their visit.</Synopsis>
+            <Notes>0254 Joe and Liz Eloped</Notes>
+        </Document>
         <Document ID="5A1AC7AB-8E65-49A8-933B-0C9A3DA3E76A">
             <Title>Plot Summaries</Title>
             <Notes>For two seniors, Sarah Wilkins and Evan Vaughn, it's early in the first semester at the University of Illinois Urbana-Champaign. Sarah and Evan do not run in the same circles and have never met. 
@@ -3517,12 +3616,12 @@ Her brain said to stick to the plan. Her heart said to build a life with Evan. A
             <Title>Template Sheets</Title>
         </Document>
         <Document ID="5CC607E3-DCCF-478D-B3E5-5F7B5027A741">
-            <Title>0200 Evan Gives Sarah the Vintage Doll</Title>
-            <Synopsis>An excited Evan meets Sarah near her car before the game. He gives her the vintage doll that she asked for.</Synopsis>
-            <Text>Scene Information:
-Scene Title: 0200 Evan Gives Sarah the Vintage Doll
-Scene Description: 
-An excited Evan meets Sarah near her car before the game. He gives her the vintage doll that she asked for.
+            <Title>Evan Gives Sarah the Vintage Doll</Title>
+            <Synopsis>An eager Evan meets Sarah near her car before a game, handing her the vintage doll she wanted. Seeing she brought a book with her, he assures her it's fine to study during the game. To his amusement, she pulls out &quot;Softball for Dummies,&quot; lightening the mood and showing her commitment to enjoying their time together.</Synopsis>
+            <Text>Scene Template:
+Scene Title: Evan Gives Sarah the Vintage Doll
+Summary: 
+An eager Evan meets Sarah near her car before a game, handing her the vintage doll she wanted. Seeing she brought a book with her, he assures her it's fine to study during the game. To his amusement, she pulls out &quot;Softball for Dummies,&quot; lightening the mood and showing her commitment to enjoying their time together.
 Characters:
 Evan: Evan waits for Sarah in the softball field parking lot. He gifts her the vintage doll. 
 Sarah: Per their agreement, Sarah arrives at Evan's softball game. She brings the book titled &quot;Softball for Dummies.&quot; 
@@ -3581,17 +3680,18 @@ I will leave it to your discretion if she's asking for the kiss as a dose of enc
 </Text>
         </Document>
         <Document ID="622C4EBA-5752-4C11-A829-3D36E767912B">
-            <Title>0225 Sarah Impresses</Title>
+            <Title>Sarah Impresses</Title>
             <Synopsis>Evan waited briefly in The Grandeur's lavish lobby near Chicago's O'Hare airport. A text from Sarah guided him to the grand ballroom, where he found her coordinating a nonprofit event. Witnessing her in her element for the first time, he was more than impressed; he was utterly captivated by her skill.</Synopsis>
-            <Text>Scene Number: 0225
+            <Text>Scene Template:
+Title: Sarah Impresses
 Summary:
-Evan waited briefly in The Grandeur's lavish lobby near Chicago's O'Hare airport. A text from Sarah guided him to the grand ballroom, where he found her coordinating a nonprofit event. Witnessing her in her element for the first time, he was more than impressed; he was utterly captivated by her skill.
+Evan waited briefly in The Grandeur's lavish lobby near Chicago's O'Hare airport. A text from Sarah guided him to the grand ballroom, where he found her coordinating a nonprofit event. Witnessing her in her element for the first time, he was impressed and utterly captivated by her skill.
 Setting:
 Location: The Grandeur Hotel. The scene starts in the lobby and finishes in the grand ballroom.
 Time: Early evening
 Characters Present:
 Main Characters: Evan and Sarah
-Secondary Characters: Various philanthropists at the event
+Secondary Characters: Jenni, Female Bartender in her 30s
 Character Emotional State:
 Evan: Nervous, Excited, Optimistic
 Sarah: Busy, Excited
@@ -3600,35 +3700,75 @@ Dialogue Focus: Minimal
 Use of Internal Dialogue: Heavy
 Plot/Action:
 Beginning: 
-Information
-Information
+Evan sat in the lobby of The Grandeur Hotel, waiting for Sarah to text him, letting him know where he was to meet her.
+Evan receives Sarah's tax instructing him to go to The Grand Ballroom on the third floor and wait for her at the open bar. 
+She tells him to order whatever he wants to drink because she has a hotel room booked for him, so he doesn't have to worry about driving while intoxicated.
+Evan makes his way to the opulent hallways and lavish gold-colored elevators.
+Eventually, he makes it to The Grand Ballroom, big enough to accommodate hundreds of dining guests.
+He scanned the room, looking for Sarah.
+Sarah was easy to spot. A tall blonde in a designer dress bouncing around the room like a ping-pong ball.
+Evan was captivated by watching her inner natural habitat. Besides him, she was by far the youngest person in the room, yet she was clearly in charge.
+He watched her for a few minutes as she must've spoken to every staff member in the room.
+She directed them and precisely instructed what and when she needed it done.
 Middle:
-Information
-Information
+As Evan headed to the bar, he pondered what he should order at an event like this. He doesn't like wine much, and a beer seemed out of place.
+Jenni was a woman in her 30’s. Evan felt like she was someone he could talk to. 
+Evan approached the bar.
+Jenni: &quot;First time event like this?&quot;
+Evan: &quot;Is it that obvious?&quot;
+Jenni: &quot;A little bit. But Sarah told me you'd be coming. I'm going to guess that your Evan.&quot; 
+Evan (laughed): &quot;That I am.&quot;
+Jenni: &quot;Sarah vouched for your age, so I won't bug you for an ID. What's your poison?&quot;
+Evan: &quot;I have no idea what to order at a place like this. I don't want wine or beer. Any suggestions?&quot;
+Jenni smiles and whips up a drink for Evan.
+Jenni: &quot;This'll help loosen up your nerves, but I would take it slow.&quot;
+Evan: &quot;What's in it?&quot;
+Jenni: &quot;Sarah tells me year in college. Although the drinks are free here, I figured I'd make you something you can afford when you return home. It's a Jack and Coke.&quot;
+Evan takes a small sip.
+Evan: &quot;I like it!&quot;
+Jenni: &quot;I thought you might. Just take it easy there, college boy. You don't want to embarrass Sarah on her big night.&quot;
+Evan: &quot;Have you known Sarah long?&quot;
+Jenni: &quot;For about a year. I'm her first choice to tend bar for her fundraisers. She's a great boss.&quot;
+Evan: &quot;She is?&quot;
+Jenni: &quot;Don't get me wrong, she is tough. She makes it clear what she expects if you don't deliver your out. She doesn't take crap from anyone. But if you're good at your job, do what she asks of you without any attitude, she treats you well and makes sure that you get paid well.&quot;
+Evan: &quot;I had no idea. I've been amazed watching her bounce around the room.&quot;
+Jenni: &quot;That girl is versatile. Once the party starts, she works the room like a pro.&quot;
+Evan laughs.
+Evan: &quot;I'm not sure what that means.&quot;
+Jenni laughs.
+Jenni: &quot;It means she knows how to squeeze the dollars out of even the stingiest misers. I'm glad she'll have someone beside her tonight to stave off the wolves.&quot;
+Evan: &quot;Wolves?&quot;
+Jenni: &quot;Don't get me wrong, Sarah can hold her own with anyone in the room. She finds a way to shoo them away while still getting them to empty their pocketbooks through donations or overpaying on auction items.&quot;
+Evan: &quot;Who does shoo away?&quot;
+Jenni laughs loudly.
+Jenni: &quot;About half the you guys are going to see tonight. Mostly older men, half of the married.&quot;
+Jenni could see Evan's face worry.
+Jenni: &quot;Don't worry, their money doesn't impress Sarah. She may let them think they have a shot with her, but she always keeps it professional. She's a pro.&quot;
+Evan: &quot;So you telling me I don't have anything to worry about?&quot;
+Jenni: &quot;You have nothing to worry about! Sarah's not one to share details of her personal life, but when she mentioned you were coming to the event, her face lit up in a way I've never seen before.&quot;
 End: 
-Information
-Information
+The two continued to chat for a while.
+Sarah eventually looks over the bar and sees Evan.
+She put up her index finger, signaling she'll be there in one minute.
+Sarah arrives at the bar.
+Jenni says to Sarah: &quot;The usual?&quot;
+Sarah nods.
+Jenni serves up some wine.
+Gives Evan a welcoming, gentle hug.
 Objectives/Goals:
-Information
-Information
-
+We want the readers to see that while Sarah may seem an introvert to peers her age, she is anything but a shy introvert when she is in her world.
+She's a strong, business-minded woman, using her skills to benefit nonprofit organizations.
+While even in her world, she doesn't make a lot of friends, she is well respected by everyone that she works for.
+Her reputation for rejecting all salacious propositions from even the wealthiest men has earned her the respect of the staff, Volunteers, and genuinely benevolent wealthy people.
+We also want to show how Evan sees Sarah in a whole different light, and as the night progresses, everything he sees will confirm what he already knows, he is in love with her.
 Props/Items:
-Information
-Information
-
-Dialogue:
-Key Lines:
-Name: &quot;Information&quot;
-Name: &quot;Information&quot;
-Tone: 
-Name: &quot;Information&quot;
-Name: &quot;Information&quot;
-Action Tags/Dialogue Tags:
-Information
-Information
+Bar
+Jack and Coke
 Special Instructions/Notes:
-Information
-Information
+Provide a vivid description of the fictional Grandeur Hotel. Please describe in vivid detail a five-star hotel dripping in extravagance, opulence, and luxury.
+As Evan walks through the hallways to the elevator, use deep POV and internal dialogue to help the reader experience what Evan's experiencing. He's never been to a place like this and is in awe.
+Find area in the scene as well to describe the grand ballroom. However, the next scene will be in the grand ballroom, so you don't have to be as detailed. Fit it in as naturally as possible.
+
 </Text>
             <Notes>0224 Evan's First Fundraising Event</Notes>
         </Document>
@@ -3659,56 +3799,60 @@ With a personality that can be defined as a blend of the Creator and ENFJ Myers-
 Nicole plays a pivotal role in the novel as the hairstylist in charge of Sarah's pre-date transformation. When Katie approached her with the task of giving Sarah a hair makeover, she was more than willing to lend her expertise. What unfolds is not only a hair session but also a deep dive into Sarah's limited romantic past and prospects. In addition to beautifying Sarah's hair, Nicole becomes part of a female camaraderie that helps Sarah rediscover her desire for romantic exploration. During their appointment, Nicole's wisdom shines as she offers sage advice, becoming a guiding force in Sarah's decision to consider a relationship that she had previously shunned during her college years.</Text>
         </Document>
         <Document ID="658C836A-1AE9-43EC-AA4A-792DEA31848F">
-            <Title>0250 Evan and Crew Are Ready to Volunteer</Title>
-            <Synopsis>Evan rallies Guido, Patti, and several friends to participate in a nonprofit rebuilding project championed by Sarah. They join forces to help families in central Illinois reconstruct their homes after a devastating tornado swept through the farmlands.</Synopsis>
-            <Text>Scene Number: 9999
-Summary:
-Information
-Setting:
-Location: Information
-Time: Information
-Weather/Environment: Information
-Characters Present:
-Main Characters: Information
-Secondary Characters: Information
-Character Emotional State:
-Evan: Information
-Sarah: Information
-POV: Third person limited, deep (focusing on Name)
-Dialogue Focus: Heavy
-Use of Internal Dialogue: Moderate
-Plot/Action:
-Beginning: 
-Information
-Information
-Middle:
-Information
-Information
-End: 
-Information
-Information
-Objectives/Goals:
-Information
-Information
-
-Props/Items:
-Information
-Information
-
-Dialogue:
-Key Lines:
-Name: &quot;Information&quot;
-Name: &quot;Information&quot;
-Tone: 
-Name: &quot;Information&quot;
-Name: &quot;Information&quot;
-Action Tags/Dialogue Tags:
-Information
-Information
-Special Instructions/Notes:
-Information
-Information
-</Text>
+            <Title>Liz Meets Sarah for the First Time</Title>
+            <Synopsis>Evan and Sarah visit Liz's house for a three-day holiday, marking Liz's first introduction to Sarah. Joined by Liz's boyfriend, Joe, the four enjoy a home-cooked dinner together. The atmosphere is warm and cheerful, filled with lively conversation and laughter as they become better acquainted, turning strangers into friends over the course of the meal.</Synopsis>
+            <Notes>Liz Needs Sarah for the First Time</Notes>
+        </Document>
+        <Document ID="67AFA70A-BAC0-431C-A63F-7787B2B5A934">
+            <Title>0225 Sarah Impresses</Title>
+            <Synopsis>Evan waited briefly in The Grandeur's lavish lobby near Chicago's O'Hare airport. A text from Sarah guided him to the grand ballroom, where he found her coordinating a nonprofit event. Witnessing her in her element for the first time, he was more than impressed; he was utterly captivated by her skill.</Synopsis>
+            <Text>Evan sat in the lavish lobby of The Grandeur Hotel, his heart racing with both excitement and nerves. The surroundings dripped with opulence, from the sparkling chandeliers to the plush velvet furniture. He glanced at his phone, anticipating Sarah's instructions.
+A text buzzed in, guiding him to the open bar of he Grand Ballroom on the third floor. His eyes widened at her consideration - his own hotel room, free drinks, no concerns about driving.
+He made his way through the opulent hallways, eyes widening at the sheer luxury of it all. Gold-colored elevators carried him to the grand ballroom, large enough to host hundreds of dining guests. His eyes scanned the room, finally landing on Sarah.
+There she was, tall and blonde, bouncing around the room, directing staff with authority and grace. He was captivated, seeing her in her element.
+I've never seen her like this. She's incredible.
+He approached the bar, uncertainty tugging at him. The bartender, Jenni, a woman in her 30s, seemed approachable, her smile warm and friendly.
+&quot;First time at an event like this?&quot; she asked.
+&quot;Is it that obvious?&quot; Evan replied.
+&quot;A little bit. But Sarah told me you'd be coming. I’m Jenni. I'm going to guess that you're Evan.&quot; 
+&quot;That I am,&quot; he laughed.
+&quot;Sarah vouched for your age, so I won't bug you for an ID. What's your poison?&quot;
+&quot;I have no idea what to order at a place like this. I don't want wine or beer. Any suggestions?&quot; Evan admitted.
+Jenni's smile widened as she whipped up a drink. &quot;This'll help loosen up your nerves, but I would take it slow.&quot;
+&quot;What's in it?&quot; he asked curiously.
+&quot;Sarah tells me you're in college. Although the drinks are free here, I figured I'd make you something you can afford when you return home. It's a Jack and Coke.&quot;
+Evan took a small sip, his eyes lighting up. &quot;I like it!&quot;
+&quot;I thought you might. Just take it easy there, college boy. You don't want to embarrass Sarah on her big night.&quot;
+&quot;Have you known Sarah long?&quot; he asked, intrigued.
+&quot;For about a year. I'm her first choice to tend bar for her fundraisers. She's a great boss.&quot;
+&quot;She is?&quot;
+&quot;Don't get me wrong, she is tough. She makes it clear what she expects; if you don't deliver, you're out. She doesn't take crap from anyone. But if you're good at your job, do what she asks of you without any attitude, she treats you well and makes sure that you get paid well.&quot;
+&quot;I had no idea. I've been amazed watching her bounce around the room,&quot; Evan said, admiration in his voice.
+&quot;That girl is versatile. Once the party starts, she works the room like a pro.&quot;
+Evan laughed, intrigued. &quot;I'm not sure what that means.&quot;
+Jenni laughed in return. &quot;It means she knows how to squeeze the dollars out of even the stingiest misers. I'm glad she'll have someone beside her tonight to stave off the wolves.&quot;
+&quot;Wolves?&quot; Evan asked, concern creeping in.
+&quot;Don't get me wrong, Sarah can hold her own with anyone in the room. She finds a way to shoo them away while still getting them to empty their pocketbooks through donations or overpaying on auction items.&quot;
+&quot;Who does she shoo away?&quot; Evan asked, fascination growing.
+Jenni laughed loudly. &quot;About half the guys you're going to see tonight. Mostly older men, some of them married.&quot;
+Her laughter died down as she saw Evan's worried expression. &quot;Don't worry, their money doesn't impress Sarah. She may let them think they have a shot with her, but she always keeps it professional. She's a pro.&quot;
+&quot;So you're telling me I don't have anything to worry about?&quot; he asked, hope in his eyes.
+&quot;You have nothing to worry about! Sarah's not one to share details of her personal life, but when she mentioned you were coming to the event, her face lit up in a way I've never seen before.&quot;
+The words sank into Evan's heart, solidifying what he already felt deep down.
+She cares about me. And I'm in love with her.
+They continued to chat until Sarah spotted Evan and approached the bar. Her eyes twinkled with excitement, and her smile warmed his soul.
+&quot;The usual?&quot; Jenni asked Sarah, who nodded.
+As Jenni served up Sarah's wine, she gave Evan a welcoming, gentle hug, a silent promise of a beautiful night ahead. They exchanged smiles, and Evan knew, without a doubt, that he was where he was meant to be.</Text>
+            <Notes>Sarah pulled those Bears tickets
+Evan puts up his dukes to protect Sarah, funny
+Marcus Chamberlain – home is where the heart is
+joke about suit being his last dollar camp bed – Marcus laughs
+volunteer two weeks from today, Patti's and Roxanne will follow, probably Guido – Sarah says you can get Guido to go – Willoughby girls Marcus says yes. Will broaden with a case of beer for a job well done 
+other men come around talk about there's
+after Sarah pulls the Bears tickets, she goes over to the bar talk to the bartender
+she decides just to let Evan on his own
+he comes get certain shows her card he starts to tell her that he met a business software developer that is always looking for good software developers and call him after I graduate
+Sarah pulls him into the courtroom and makes out</Notes>
         </Document>
         <Document ID="67BFC1D0-D101-4C24-BD26-4C6FB173E834">
             <Title>Sarah</Title>
@@ -3739,10 +3883,11 @@ Please prioritize 'showing' over 'telling' in this scene. I'd like the narrative
             <Title>Places</Title>
         </Document>
         <Document ID="683BDFBD-403B-4229-B8A1-D9D77EC62BE0">
-            <Title>0105 Evan and Guido in the Quad</Title>
-            <Synopsis>Evan and Guido are playing Frisbee in the Quad. Evan decides to head to the library for extra study time to keep his grade point average above 3.0 – a promise he made to his sister Liz.</Synopsis>
+            <Title>Evan and Guido in the Quad</Title>
+            <Synopsis>Evan and Guido enjoy a game of Frisbee in the Quad, their laughter filling the air. Amidst the fun, Evan's mind turns to his academics. Reminded of the promise he made to his sister Liz to maintain a GPA above 3.0, he makes a decision to cut their game short and head to the library for some extra study time.</Synopsis>
             <Text>Scene Description:
-Scene Name: 0105 Evan and Guido in the Quad
+Scene Name: Evan and Guido in the Quad
+Summary: Evan and Guido enjoy a game of Frisbee in the Quad, their laughter filling the air. Amidst the fun, Evan's mind turns to his academics. Reminded of the promise he made to his sister Liz to maintain a GPA above 3.0, he makes a decision to cut their game short and head to the library for some extra study time.
 Characters: Evan, Guido
 POV: Third person limited, from Evan's perspective 
 Location: The “Quad” At the University of Illinois Urbana-Champaign
@@ -3763,8 +3908,8 @@ Include dialogue in this scene.
 Evan 1</CustomMetaData>
         </Document>
         <Document ID="6845A551-5A4B-4B2B-A18C-FB53BAF288EF">
-            <Title>0320 Sarah's Father Gives Her an Ultimatum </Title>
-            <Synopsis>Sarah meets with her parents in their hotel room. Sarah’s father is disappointed that she is breaking their agreement to attend an Ivy League school for her master’s degree and instead move to Chicago with Evan. Sarah's father gives Sarah an ultimatum. Stick to the plan or lose his financial support – she has one month to decide.</Synopsis>
+            <Title>Sarah's Father Gives Her an Ultimatum </Title>
+            <Synopsis>In their hotel room, Sarah's parents confront her about her future plans. Her father is deeply disappointed that she is considering moving to Chicago with Evan instead of pursuing her master's degree at an Ivy League school. He gives her an ultimatum: adhere to their agreement or lose his financial support. Sarah is left with one month to make her choice.</Synopsis>
         </Document>
         <Document ID="684ADA52-4D45-48D2-B03D-5ECB784963EE">
             <Title>Title Page</Title>
@@ -3804,56 +3949,8 @@ The &lt;$wc100&gt; words tag will be replaced with the word count rounded to the
 Feel free to edit the text of the title page as required.</Notes>
         </Document>
         <Document ID="696C8CDE-B58B-4060-BCD1-F4071D5636A1">
-            <Title>0252 Katie Discovers Sarah's Secret</Title>
-            <Synopsis>Sarah enlists Katie's assistance in securing food and refreshments for the volunteer crew, vaguely mentioning a stop at the ATM. After withdrawing several hundred dollars, Katie learns that Sarah personally finances the meals to keep the volunteers nourished, opting to use cash to keep her generosity anonymous. Though she could easily rely on her father's credit card, Sarah's choice to use her own money deeply impresses Katie, highlighting her genuine commitment to the cause.</Synopsis>
-            <Text>Scene Number: 9999
-Summary:
-Information
-Setting:
-Location: Information
-Time: Information
-Weather/Environment: Information
-Characters Present:
-Main Characters: Information
-Secondary Characters: Information
-Character Emotional State:
-Evan: Information
-Sarah: Information
-POV: Third person limited, deep (focusing on Name)
-Dialogue Focus: Heavy
-Use of Internal Dialogue: Moderate
-Plot/Action:
-Beginning: 
-Information
-Information
-Middle:
-Information
-Information
-End: 
-Information
-Information
-Objectives/Goals:
-Information
-Information
-
-Props/Items:
-Information
-Information
-
-Dialogue:
-Key Lines:
-Name: &quot;Information&quot;
-Name: &quot;Information&quot;
-Tone: 
-Name: &quot;Information&quot;
-Name: &quot;Information&quot;
-Action Tags/Dialogue Tags:
-Information
-Information
-Special Instructions/Notes:
-Information
-Information
-</Text>
+            <Title>Katie Discovers Sarah's Secret</Title>
+            <Synopsis>Sarah vaguely mentions an ATM stop before withdrawing several hundred dollars with Katie, who later discovers that Sarah personally finances meals for the volunteer crew. Rather than using her father's credit card, Sarah opts to use cash to keep her generosity anonymous. Katie is deeply impressed by Sarah's genuine commitment to the cause, reflecting a character of true integrity.</Synopsis>
             <Notes>0254 Katie Discovers Sarah's Secret</Notes>
         </Document>
         <Document ID="69822417-D015-4BDD-90BD-18AAA6198D15">
@@ -3887,6 +3984,11 @@ Narrative: Roxanne is a character that brings liveliness and complexity to the s
         <Document ID="6D75C028-71D0-44E1-90F9-FC84D8C289BB">
             <Title>Chapter – Date Night at Sarah's Apartment</Title>
         </Document>
+        <Document ID="6F563399-9F8A-4588-AA84-78E277224DD8">
+            <Title>Evan and A Few Friends Volunteer</Title>
+            <Synopsis>Evan gathered Guido, Patti, Roxanne, and friends to volunteer for cleaning debris in central Illinois following a tornado. Sarah took the helm as the lead event coordinator, working for the nonprofit organization &quot;Home Is Where the Heart Is.&quot; Together, they turned a time of devastation into a period of community and healing, all working towards restoring the farmlands.</Synopsis>
+            <Notes>0250 Evan and A Few Friends Volunteer</Notes>
+        </Document>
         <Document ID="7147E055-DE73-44D4-BE5B-F3FFA3D07E64">
             <Title>0123 Sarah Can't Concentrate</Title>
             <Text>The Undergraduate Library was abuzz with the clatter of keystrokes, the murmur of hushed conversations, and the low hum of fluorescent lights overhead. It was a cocoon of industry, a hive of collegiate life, and its energy was as palpable as it was contagious. Groups of students huddled around tables, their brows furrowed in concentration, their voices a soft chatter. In the corners, amidst the maze of books, the library also nurtured tentative friendships and budding flirtations.
@@ -3903,7 +4005,7 @@ She was no longer just Sarah, the focused student, the valedictorian. She was Sa
             <CustomMetaData>2006-09-22 11:00:00 University of Illinois Campus Outside the U Of I library 2006-09-22 10:00:00 0 10 Evan 11</CustomMetaData>
         </Document>
         <Document ID="729B3F09-32A7-48A5-B7C5-1F382D091995">
-            <Title>Chapter - Cliffhanger</Title>
+            <Title>Cliffhanger</Title>
         </Document>
         <Document ID="72D34460-876D-4BC1-8586-C16AA7935437">
             <Title>Scene Template: AI Create</Title>
@@ -3951,11 +4053,15 @@ Information
 </Text>
         </Document>
         <Document ID="73EE6030-F9B0-4982-9F08-AA8A95F11D42">
-            <Title>0227 Evan Impresses</Title>
-            <Synopsis>Sarah readies Evan for her fundraising event, noticing his nervousness but amazed at how effortlessly he fits into her high-class, charitable sphere. Though clearly an outsider, he wins the crowd's favor. Witnessing Evan flourish in her world eradicates her last shred of hesitation, letting her fully commit her heart to him.</Synopsis>
-            <Text>Scene Number: 0227
+            <Title>Sarah Preps Evan</Title>
+            <Synopsis>In a private storage room, Sarah briefs Evan for an upcoming fundraiser, exuding a mix of enthusiasm and worry. She urges him to be mindful, especially around her boss, Marcus Chamberlain, who looks like Morgan Freeman. Her instructions, imbued with belief in Evan and anxiety about the night, set the scene for what seems to be a memorable event..</Synopsis>
+            <Text>Scene Template:
+Title: Sarah Preps Evan
 Summary:
-Sarah readies Evan for her fundraising event, noticing his nervousness but amazed at how effortlessly he fits into her high-class, charitable sphere. Though clearly an outsider, he wins the crowd's favor. Witnessing Evan flourish in her world eradicates her last shred of hesitation, letting her fully commit her heart to him.
+In a private storage room, Sarah briefs Evan for an upcoming fundraiser, exuding a mix of enthusiasm and worry. She urges him to be mindful, especially around her boss, Marcus Chamberlain, who looks like Morgan Freeman. Her instructions, imbued with belief in Evan and anxiety about the night, set the scene for what seems to be a memorable event.
+Leading Context:
+This scene follows the last scene, where Evan is waiting at the open bar in the grand ballroom, talking to the bartender, Jenni,  while Sarah finishes checking that everything is going as planned.
+The previous scene ended with Jenni serving Sarah a glass of wine and giving Evan a gentle hug.
 Setting:
 Location: The Grand Ballroom at the Grandeur Hotel
 Time: 7 PM to 10 PM
@@ -3965,45 +4071,83 @@ Secondary Characters: Various philanthropists at the event
 Character Emotional State:
 Evan: Nervous, Excited, Optimistic
 Sarah: Busy, Excited
+Clothing:
+Evan: Evan wore a well-fitted charcoal gray suit, a smart choice that looked more expensive than its cost. The jacket's subtle lines and single-breasted design complemented his build. Underneath, he wore a soft blue dress shirt that added a touch of sophistication. His maroon tie, adorned with a modern and appealing pattern, provided a stylish contrast, adding flair and sophistication to his ensemble. The outfit was finished with polished black leather shoes, laced perfectly. Though purchased on a budget, the suit gave Evan a refined appearance, suitable for the elegant fundraiser event. It was a visual testament to his effort to fit into Sarah's world.
+Sarah: Sarah's dress was a vibrant turquoise evening gown, tailored to accentuate her grace. The luxurious silk blend shimmered in the ballroom's light, while a fitted bodice with a modest sweetheart neckline adorned with intricate lace added a touch of elegance. A thin diamond belt highlighted her slender figure, leading to a flowing chiffon skirt. The back featured a tasteful keyhole opening, fastened with a delicate button, and a gentle train. Simple diamond studs and a silver bracelet completed her ensemble, reflecting her strong yet graceful personality, perfect for navigating the upscale event.
 POV: Third person limited, deep (focusing on Sarah)
-Dialogue Focus: Moderate
-Use of Internal Dialogue: Heavy
+Dialogue Focus: Heavy 
+Use of Internal Dialogue: Moderate
 Plot/Action:
 Beginning: 
-Information
-Information
-Middle:
-Information
-Information
+[ Begin the scene with Evan and Sarah complimenting each other on their appearance. I have provided a clothing description that should be used in this scene at the beginning. ]
+[ After Evan and Sarah exchanged compliments, she grabbed her glass of wine from the bar. ]
+Middle: 
+Sarah: &quot;Come on, Evan. Let's go talk somewhere privately.&quot;
+[ Evan followed Sarah to a small storage room located behind the coat check room.  ]
+[ She closed the door behind them. ]
+Evan: &quot;Is this the make-out room?&quot;
+[ He said with the energy of a teenager in love as he leaned in for a kiss. ]
+[ Sarah spoke In a low voice close to a whisper. ]
+Sarah: &quot;Not here. This is my work. We have to keep a professional.&quot; 
+[ Evan was not bothered at all by Sarah's comment. ]
+Evan: &quot;Why are we whispering? There's no one here.&quot;
+[ Sarah laughed before speaking at a normal volume level.]
+Sarah: &quot;I have no idea.&quot;
+[ They both laughed. ]
+Sarah: &quot;I brought you back here because I wanted to prep you for the fundraiser. I should've done this earlier, but I just got so busy.&quot;
+Evan: &quot;Prep away!&quot;
+Sarah: &quot;Well, first, tell me how you're feeling. Are you nervous?&quot;
+Evan: &quot;I was extremely nervous when I left my apartment. I decided to call Liz on the two-hour drive to Chicago. She reminded me that no matter how wealthy or sophisticated a person is, they still put on the pants one leg at a time. They still sneeze, burp, cough, cry, and laugh. She also told me that, most importantly, rich or poor, the best people prioritize authenticity. If they don't like me for who I am, then I should simply, as Liz calls it, 'exit gracefully.'&quot;  
+Sarah: &quot;And that's all it took to calm your nerves?&quot;
+[ Evan, ever the comic. ]
+Evan: &quot;Well, that and a little help from my friend Jack Daniels that your bartender introduced me to.&quot; 
+[ Sarah and Evan both laughed. Then Sarah got her serious business look on her face. ]
+Sarah: &quot;This fundraising event is for the nonprofit 'Home Is Where the Heart Is.' It was founded by a very wealthy businessman and gentleman named Marcus Chamberlain – think Morgan Freeman's twin brother.&quot;
+Evan: &quot;Gotcha!&quot;
+Sarah: &quot;This is the third event I've organized for him. I like working for him because he's not a jerk and gives me the autonomy to do the job right. He is quite distinguished, so be on your best behavior around him.&quot;
+[ Evan repeats the critical components of words to help him remember. ]
+Evan: &quot;Marcus Chamberlain, Home Is Where the Heart Is, best behavior.&quot;
+Evan: &quot;What will the funds raised tonight be used for?&quot;
+Sarah: &quot;Home Is Where the Heart Is provides funds and volunteers to help low-income families rehab homes in disrepair. They also help rebuild uninsured or underinsured homes lost due to fire or natural disaster.&quot;
+Evan: &quot;Wow! Those are good causes.&quot;
+Sarah: &quot;Yes, it is. I hope to top last year's record for this annual fundraising event.&quot;
+Evan: &quot;Who else do I need to know about? The bartender said I may have to defend you against some salacious wolves?&quot;
+[Evan humorously jumped into a boxer’s pose with his dukes held high, causing Sarah to laugh. ]
+Sarah: &quot;Just having you by my side will spook them away. It will be nice not to have to deal with them for once.&quot;
+[ Sarah looked at her watch. ]
+Sarah: &quot;We're out of time. Look, do your best. Don't be offended or surprised if a bunch of people try to get you to donate money. Since no one knows you, they may think you're a trust fund kid and see you as fresh meat.&quot;
+Evan: &quot;Can I get a kiss before we head out into the den of wolves?&quot;
+[ For reasons unknown to Evan but he finds amusing, he sees Sarah look left then right in a small room with a closed door. He thinks she's being a bit paranoid. ]
+Sarah: &quot;Alight, one quick kiss, that's it.&quot;
+[ Sarah leaned in, and true to her word Evan got a quick kiss, and that was it. ]
 End: 
-Information
-Information
+[ Sarah opened the door, peeked her head out, and looked both ways. With the coast clear, she and Evan walked down the hall toward The Grand Ballroom. ]
+[ As they reached the edge of the grand ballroom, illuminated by the soft glow of crystal chandeliers and filled with the murmur of elegant conversations, Evan turned to Sarah with an air of traditional gallantry. His eyes met hers, and with a slight, gentlemanly bow, he extended his arm toward her. Understanding the timeless gesture, Sarah gracefully slipped her arm into his, allowing her hand to rest just above his elbow. With arms interlocked, they ventured into the mystery of the evening ahead. ]
 Objectives/Goals:
-Information
-Information
-
-Props/Items:
-Information
-Information
-
-Dialogue:
-Key Lines:
-Name: &quot;Information&quot;
-Name: &quot;Information&quot;
-Tone: 
-Name: &quot;Information&quot;
-Name: &quot;Information&quot;
-Action Tags/Dialogue Tags:
-Information
-Information
+Earlier chapter, we see that Sarah is a bit uptight. She's too nervous to make out with Evan in the storage room and worries about his interaction with her boss, Marcus Chamberlain.
+Note that by the end of the chapter, Sarah is no longer uptight and realizes she never had to worry about Evan's interaction with Marcus Chamberlain as it went better than she could ever imagine. But in this scene, the reader won't know this yet. So don't mention it.
 Special Instructions/Notes:
-Information
-Information
-</Text>
+I have provided all the dialogue needed for this scene. Please use my dialogue verbatim, adding no dialogue or removing any dialogue.
+At your full discretion, add narrative, action tags, dialogue tags, and internal dialogue as needed to write a compelling scene.</Text>
+            <Notes>Sarah pulled those Bears tickets
+Evan puts up his dukes to protect Sarah, funny
+Marcus Chamberlain – home is where the heart is
+joke about suit being his last dollar camp bed – Marcus laughs
+volunteer two weeks from today, Patti's and Roxanne will follow, probably Guido – Sarah says you can get Guido to go – Willoughby girls Marcus says yes. Will broaden with a case of beer for a job well done 
+other men come around talk about there's
+after Sarah pulls the Bears tickets, she goes over to the bar talk to the bartender
+she decides just to let Evan on his own
+he comes get certain shows her card he starts to tell her that he met a business software developer that is always looking for good software developers and call him after I graduate
+Sarah pulls him into the courtroom and makes out
+Liz pants one leg at a time
+
+Sarah readies Evan for her fundraising event, noticing his nervousness but amazed at how effortlessly he fits into her high-class, charitable sphere. Though clearly an outsider, he wins the crowd's favor. Witnessing Evan flourish in her world eradicates her last shred of hesitation, letting her fully commit her heart to him.
+</Notes>
         </Document>
         <Document ID="75A8CEA3-7884-4EB9-8FDB-17ED626C3FC5">
-            <Title>0310 Evan Surprises Sarah with Parents</Title>
-            <Synopsis>Sarah is not just surprised; she is shocked when Evan brings her to her parents. Sarah is shocked to see her parents are attending the party. Evan had secretly invited her parents.</Synopsis>
+            <Title>Evan Surprises Sarah with Parents</Title>
+            <Synopsis>Sarah is taken aback when she discovers that Evan has invited her visiting parents to their graduation party. When Guido calls Evan away to help with preparations, she's left alone with her parents, who express their concern. They question whether her relationship with Evan is the reason she hasn't committed to pursuing her master's degree at an Ivy League school.</Synopsis>
+            <Notes>Evan had briefly met her parents on graduation day. Mention that here, it was at that time when Sarah stepped away for a moment that Evan invited her parents to the party. </Notes>
         </Document>
         <Document ID="75D49806-2C57-4FC4-B331-EF8097A4B333">
             <Title>0200 Evan Gives Sarah the Vintage Doll</Title>
@@ -4088,13 +4232,15 @@ Patti was left alone in the room, her emotions still in turmoil. She took one la
             <Notes>More reaction, especially from guido.</Notes>
         </Document>
         <Document ID="78386838-6511-43D3-B03C-6033A3C641E3">
-            <Title>Chapter - Sarah and Evan’s First Date</Title>
+            <Title>Sarah and Evan’s First Date</Title>
             <CustomMetaData>2006-09-28 20:41:00 2006-09-28 19:00:00 0</CustomMetaData>
         </Document>
         <Document ID="7925A2FA-44CF-4A73-81DB-DF5AC099AB92">
-            <Title>0202 Patti Learns Evan Has a New Girlfriend</Title>
-            <Synopsis>From the bleachers, Patti, Evan's most recent quasi-ex-girlfriend, watches Evan and Sarah meet in the parking lot. Guido and Sarah's best friend, Roxane, tell Patti what they know and what they've heard about Sarah.</Synopsis>
-            <Text>Scene Number: 0202
+            <Title>Patti Learns Evan Has a New Girlfriend</Title>
+            <Synopsis>From the bleachers, Patti, Evan's recent quasi-ex-girlfriend, observes Evan and Sarah meeting in the parking lot. Guido and Roxane, Sarah's best friend, share with Patti what they know and have heard about Sarah, adding context to the budding relationship.</Synopsis>
+            <Text>Scene Template:
+Title: Patti Learns Evan Has a New Girlfriend
+Summary: From the bleachers, Patti, Evan's recent quasi-ex-girlfriend, observes Evan and Sarah meeting in the parking lot. Guido and Roxane, Sarah's best friend, share with Patti what they know and have heard about Sarah, adding context to the budding relationship.
 Setting:
 Location: The aluminum bleachers at a softball field in a large recreational park in central Illinois.
 Time: 11:00 AM
@@ -4164,9 +4310,10 @@ From the bleachers, Patti, Evan's most recent quasi-ex-girlfriend, watches Evan 
             <CustomMetaData>2006-09-25 10:41:00 2006-09-22 10:00:00</CustomMetaData>
         </Document>
         <Document ID="7B471B78-EB5A-4752-B5B1-82B3A6081A9A">
-            <Title>0215 Evan Slows his Roll</Title>
+            <Title>Evan Slows his Roll</Title>
             <Synopsis>A steamy make-out session commences after an effective tutoring session and a delicious dinner. Amid the rising heat intensifying kisses and wandering hands, Evan stops himself midstream. He wants to wait until the moment feels right and Sarah is ready before they take their intimacy to the next level. </Synopsis>
-            <Text>Scene Number: 0214
+            <Text>Scene Template:
+Title: Evan Slows his Roll
 Summary:
 A steamy make-out session commences after an effective tutoring session and a delicious dinner. Amid the rising heat intensifying kisses and wandering hands, Evan stops himself midstream. He wants to wait until the moment feels right and Sarah is ready before they take their intimacy to the next level. 
 Setting:
@@ -4247,8 +4394,8 @@ Let's make every effort to engage the reader in all these emotions.
 </Notes>
         </Document>
         <Document ID="7C650A18-9741-4399-AF5A-44180A409C03">
-            <Title>0350  Sarah Asks Evan to Elope</Title>
-            <Synopsis>Sarah doesn't want to suffer a month in limbo. She worries if she waits too long, she'll lose her resolve. She asks Evan if they can lope as soon as possible. </Synopsis>
+            <Title>Sarah Asks Evan to Elope</Title>
+            <Synopsis>Fearing a month in limbo might weaken her resolve, Sarah proposes to Evan that they elope as soon as possible. Evan, filled with happiness, eagerly agrees to the plan, cementing their commitment to each other and the path they're choosing together.</Synopsis>
         </Document>
         <Document ID="7DC0A86F-0B58-4C98-93E5-EDF373D4BC1E">
             <Title>Sarah Wilkins Legacy</Title>
@@ -4628,134 +4775,97 @@ Despite its formal setting, the Grand Ballroom exudes a youthful charm, making i
             <Title>GPT Outline</Title>
             <Text>Here is the updated outline.
 Outline: 
-Chapter - A Budding Romance
+Chapter 1: A Budding Romance
+Scene #1: Everything is on Track for Sarah
+Scene #2: Sarah is Late for Class
+Scene #3: Evan and Guido in the Quad
+Scene #4: Evan And Sarah Kiss
+Scene #5: Sarah is Frazzled
+Scene #6: Evan Hopes for Sarah's Return 
 
-0100 Everything is on Track for Sarah
-    Tucked away in her academic haven, sipping her favorite couple coffee, listening to a compelling audio seminar, reflecting on how smoothly her carefully orchestrated college plan is gone, college Senior Sarah Wilkins is blissfully unaware of the unforeseen encounter that will alter the course of her day, her semester, and perhaps her life.
-0101 Sarah is Late for Class
-    In the unique setting of an underground library, Sarah Wilkins loses track of time while engrossed in an audio seminar. Realizing she's late for teaching her Business-101 class, she quickly packs her belongings and rushes toward the library's exit, her seminar still playing in her ears. The scene ends as she reaches the stairs, setting the stage for a chain of unforeseen events.
-0105 Evan and Guido in the Quad
-    Evan and Guido are playing Frisbee in the Quad. Evan decides to head to the library for extra study time to keep his grade point average above 3.0 – a promise he made to his sister Liz.
-0110 Evan And Sarah Kiss
-    Evan sees Sarah, a woman he has never met, headed for disaster in the form of concrete steps. He rushes to save her from a dangerous fall, and in the process, they share a kiss.
-0115 Sarah is Frazzled
-    Sarah arrives at her class uncharacteristically five minutes late. The typically well-prepared, professional Sarah finds herself frazzled but turns it into a well-received class session.
-0116 Evan Hopes for Sarah's Return 
-    Evan stayed put, sitting on the stairs where he had just kissed the woman of his dreams. He hoped that she returned to the scene of the kiss. When she didn't show, he returned to the Quad to tell Guido all about what had just happened.
+Chapter 2: Evan Charmed Sarah
+Scene #7: Waiting Game
+Scene #8: Evan Calls Liz for Advice
+Scene #9: Evan is a Man With a Plan
+Scene #10: Sarah Can't Concentrate
+Scene #11: Evan Finds Sarah at the library
+Scene #12: Evan and Sarah Food Court Date
+Scene #13: Sarah Relents and agrees to a date
 
-Chapter - Evan Charmed Sarah
+Chapter 3: Evan Has a Necklace Made
+Scene #14: Gudio Hears the Big News
+Scene #15: Evan Has a Special Gift Made
 
-0120 Waiting Game
-    The day after the Kiss, Evan waited where they kissed, hoping Sarah would return.
-0121 Evan Calls Liz for Advice
-    Disappointed he has been unable to find Sarah after their kiss, Evan calls his sister, Liz, for advice.
-0122 Evan is a Man With a Plan
-    For a second time, Evan returns to the scene of the kiss, looking for Sarah. He decides to look in the library.
-0123 Sarah Can't Concentrate
-    Sarah can't focus on her academic work because her mind is thinking of Evan.
-0125 Evan Finds Sarah at the library
-    Evan finds Sarah at the library and charms into taking a break at the food court,
-0130 Evan and Sarah Food Court Date
-    Evan convinces Sarah to break from her studies and join him at the food court for a snack. Panicked, she runs out on Evan, but he catches up to her outside.
-0132 Sarah Relents and agrees to a date
-    Sarah's resistance weakens further as she agrees to go on a date with Evan later in the week.
+Chapter 4: Sarah Prepares for First Date
+Scene #16: Sarah Asks Katie For Help
+Scene #17: Katie Loves Sarah’s Apartment
+Scene #18: Sarah and Katie Chat
+Scene #19: Wardrobe Check
+Scene #20: Sarah’s Makeover
 
-Chapter - Evan Has a Necklace Made
+Chapter 5: Sarah and Evan’s First Date
+Scene #21: Sarah &amp; Evan’s First Date
+Scene #22: 0164 Evan Gives Sarah a Pendant
+Scene #23: 0165 Sarah Updates Katie
 
-0135 Gudio Hears the Big News
-    On their way to work, Evan updates Guido on his successful day with Sarah. He asks Guido for ideas of what kind of special gift he could give to Sarah on their upcoming first date.
-0137 Evan Has a Special Gift Made
-    While at the mall, seeking a special gift for his date with Sarah happens upon a unique gift idea that will memorialize their first meeting.
+Chapter 6: Sarah Meets Evan's Friends
+Scene #24: Evan Gives Sarah the Vintage Doll
+Scene #25: Patti Learns Evan Has a New Girlfriend
 
-Chapter - Sarah Prepares for First Date
+Chapter 7: The Enforcers Win!
+Scene #26: The Drive to the Post-Game Party
+Scene #27: The Post-Game Party
 
-0140 Sarah Asks Katie For Help
-    After class, Sarah asked Katie to help her prepare for her date with Evan. Katie enthusiastically agrees.
-0142 Katie Loves Sarah’s Apartment
-    Sarah and Katie arrived at Sarah's apartment. Katie falls in love with the luxurious apartment. With Sarah now feeling Katie is a friend, she offers a delighted Katie use of guestroom anytime Katie needs a study sanctuary.
-0143 Sarah and Katie Chat
-    Sarah and Katie have a chat. Katie learns more about Sarah's background and her experience with Evan.
-0145 Wardrobe Check
-    Katie checks out Sarah's existing wardrobe to see if there is anything that she can wear on her date. Katie has Sarah swap her library and look for jeans, a T-shirt, and a ponytail – a more fun look for their girl's day out.
-0150 Sarah’s Makeover
-    Katie’s hairdresser gives Sarah a makeover.
+Chapter 8: Date Night at Sarah's Apartment
+Scene #28: Sarah Prepares Her Apartment for Evan's Arrival
+Scene #29: Study Session First
+Scene #30: Evan Slows his Roll
 
-Chapter - Sarah and Evan’s First Date
+Chapter 9: Patti's Dilemma
+Scene #31: Patti Helps Evan Get Ready
+Scene #32: Patti Seeks Advice from Guido
 
-0160 Sarah &amp; Evan’s First Date
-    Sarah and Evan meet at an Asian restaurant for their first official date. Sarah suggests that they begin a relationship with certain conditions. Evan happily agrees.
-0164 Evan Gives Sarah a Pendant
-    After dinner, Evan gives Sarah a customized, inexpensive pendant before she leaves in her car. The pendant is more of a sentimental piece of jewelry meant to commemorate their unique start. Although Sarah is accustomed to wearing expensive jewelry, she loves the pendant Evan had made for her.
-0165 Sarah Updates Katie
-    After a magical first date, Sarah returns to her apartment to share the evening events with Katie. Katie and Sarah are excited to see that Evan has requested that he and Sarah change their Facebook status to “In a Relationship.”
+Chapter 10: Attends Sarah's Fundraiser
+Scene #33: Sarah Impresses
+Scene #34: Sarah Preps Evan
+Scene #35: Evan Meets Morgan Freeman?
+Scene #36: Evan Impresses
+Scene #37: Evan Professes His Love
 
-Chapter - Sarah Meets Evan's Friends
+Chapter 11: Sarah and Evan Consummate Their Relationship
+Scene #38: Evan's First Luxury Hotel Room
+Scene #39: Sarah Relaxes in the Tub
+Scene #40: Sarah Invites Evan to Her Room
+Scene #41: Sarah and Evan Make Love
 
-0200 Evan Gives Sarah the Vintage Doll
-    An excited Evan meets Sarah near her car before the game. He gives her the vintage doll that she asked for.
-0202 Patti Learns Evan Has a New Girlfriend
-    From the bleachers, Patti, Evan's most recent quasi-ex-girlfriend, watches Evan and Sarah meet in the parking lot. Guido and Sarah's best friend, Roxane, tell Patti what they know and what they've heard about Sarah.
-0204 The Enforcers Win!
-    Patti sizes up Sarah during the game while Sarah educates herself on a game she knows nothing about. Evan and Guido's team, the Enforcers, win their game!
-0206 The Drive to the Post-Game Party
-    After the Enforcers win their game, Sarah joins Evan, Guido, and a dozen friends, a mix of male and female college students, to celebrate at a sports bar and grille. Despite the boisterous group's excitement, Sarah feels like an outcast, remaining primarily silent and retreating into her thoughts. Her struggle reflects her commitment to support Evan and her personal discomfort.
-0208 The Post-Game Party
-    After the Enforcers win their game, Sarah joins Evan, Guido, and a dozen friends to celebrate at Sluggers Sports Bar and Grill. Despite the group's excitement, Sarah feels like an outcast. Her struggle reflects her commitment to support Evan and her discomfort due to her inability to connect socially with peers.
+Chapter 12: Chapter - Evan Volunteers for the Weekend
+Scene #42: Evan and A Few Friends Volunteer
+Scene #43: Katie Discovers Sarah's Secret
+Scene #44: Evan Embraces Volunteer Work
+Scene #45: Patti Confronts Evan about Sarah
 
-Chapter – Date Night at Sarah's Apartment
+Chapter 13: Christmas at Liz's
+Scene #46: Liz Meets Sarah for the First Time
+Scene #47: Liz Receives Two special Christmas Gifts
+Scene #48: Joe and Liz Eloped
 
-0210 Sarah Prepares Her Apartment for Evan's Arrival
-    Sarah prepares for Evan's first visit to her apartment.
-0212 Study Session First
-    Expecting a date night at Sarah's apartment, Evan learns that academics come first for Sarah. As part of their agreement, Sarah tutors Evan on methods to improve his grades. Only after the tutor session can their date begin.
-0215 Evan Slows his Roll
-    A steamy make-out session commences after an effective tutoring session and a delicious dinner. Amid the rising heat intensifying kisses and wandering hands, Evan stops himself midstream. He wants to wait until the moment feels right and Sarah is ready before they take their intimacy to the next level. 
+Chapter 14: Sarah Promise Ring Concerns
+Scene #49: Evan Gives Sarah a Promise Ring
+Scene #50: Sarah Misleads Her Parents
+Scene #51: Sarah Shares Her Concerns about the Future
 
-Chapter – Patti's Dilemma
+Chapter 15: Graduation: A Night Full of Surprises
+Scene #52: Graduation Party Setup
+Scene #53: Evan Surprises Sarah with Parents
+Scene #54: Evan Proposes
+Scene #55: Sarah's Father Gives Her an Ultimatum 
+Scene #56: Evan Meets Parents
 
-0220 Patti Helps Evan Get Ready
-    While grappling with her lingering feelings for Evan, Patti resolves to put her emotions aside to support him as a friend. With a determined effort to suppress her inner turmoil, she assists Evan in preparing for his first formalwear fundraising event with Sarah, demonstrating her commitment to their friendship. Her unspoken pining adds a layer of complexity to the scene, even as she focuses on helping Evan make the evening with Sarah special.
-0222 Patti Seeks Advice from Guido
-    Patti reluctantly reveals to Guido that their circle of friends has &quot;chosen&quot; her to persuade Evan that his relationship with Sarah is misguided. Though Patti harbors no great affection for Guido, she finds herself valuing his unfiltered honesty regarding Evan and Sarah's relationship, even if some of his opinions rankle her. Their conversation showcases a complex interplay of conflicting emotions, alliances, and a shared concern for Eva.
-
-Chapter – Attends Sarah's Fundraiser
-
-0225 Sarah Impresses
-    Evan waited briefly in The Grandeur's lavish lobby near Chicago's O'Hare airport. A text from Sarah guided him to the grand ballroom, where he found her coordinating a nonprofit event. Witnessing her in her element for the first time, he was more than impressed; he was utterly captivated by her skill.
-0227 Evan Impresses
-    Sarah readies Evan for her fundraising event, noticing his nervousness but amazed at how effortlessly he fits into her high-class, charitable sphere. Though clearly an outsider, he wins the crowd's favor. Witnessing Evan flourish in her world eradicates her last shred of hesitation, letting her fully commit her heart to him.
-0231 Sarah and Evan Consummate Their Relationship
-    Following a triumphant fundraising event, Evan and Sarah head to the separate hotel rooms Sarah booked at the venue. Yet, only one hotel room will be occupied that night. As emotions reach a crescendo, Evan and Sarah declare their love for one another, and in a profound expression of their connection, they consummate their relationship.
-0250 Evan and Crew Are Ready to Volunteer
-    Evan rallies Guido, Patti, and several friends to participate in a nonprofit rebuilding project championed by Sarah. They join forces to help families in central Illinois reconstruct their homes after a devastating tornado swept through the farmlands.
-0252 Katie Discovers Sarah's Secret
-    Sarah enlists Katie's assistance in securing food and refreshments for the volunteer crew, vaguely mentioning a stop at the ATM. After withdrawing several hundred dollars, Katie learns that Sarah personally finances the meals to keep the volunteers nourished, opting to use cash to keep her generosity anonymous. Though she could easily rely on her father's credit card, Sarah's choice to use her own money deeply impresses Katie, highlighting her genuine commitment to the cause.
-0254 Evan Embraces Volunteer Work
-    After a strenuous Saturday working with a nonprofit organization, Evan's friends head home, but Evan is profoundly transformed by the experience. Inspired by the selfless teens who choose volunteering over typical leisure activities, he becomes deeply committed to the cause. His newfound passion leads him to give up his entire Sunday, even foregoing his regular softball game, to continue volunteering and making a difference.
-0256 Patti Confronts Evan about Sarah
-    Oblivious to Sarah's behind-the-scenes efforts and personal financial contributions to feeding the volunteers, Evan's friends criticize her for not actively participating in the home rebuilding. Their frustration grows when Evan chooses to skip the next day's softball game, furthering their discontent with Sarah's influence on him. A few of Evan's friends, reaching a breaking point, give Patti an ultimatum: either she warns Evan about Sarah or Roxanne will do so. Feeling cornered, Patti feels she has no option but to comply.
-
-Chapter - Graduation: A Night Full of Surprises
-
-0300 Graduation Party Setup
-    Set up begins for the graduation party thrown by Evan and Guido – inviting their large group of friends. Evan and Guido throw a large graduation party, inviting their 30 to 40 friends.
-0305 Evan Meets Parents
-    Evan briefly meets Sarah’s parents before revealing to Sarah his surprise of inviting her parents to the party.
-0310 Evan Surprises Sarah with Parents
-    Sarah is not just surprised; she is shocked when Evan brings her to her parents. Sarah is shocked to see her parents are attending the party. Evan had secretly invited her parents.
-0315 Evan Proposes
-    Evan presents Sarah with a plaque honoring her status as top of her graduating class. While Sarah is onstage receiving her plaque, she is shocked to see Evan on one knee proposing to her. Although conflicted, she accepts his proposal – much to her father's dismay.
-0320 Sarah's Father Gives Her an Ultimatum 
-    Sarah meets with her parents in their hotel room. Sarah’s father is disappointed that she is breaking their agreement to attend an Ivy League school for her master’s degree and instead move to Chicago with Evan. Sarah's father gives Sarah an ultimatum. Stick to the plan or lose his financial support – she has one month to decide.
-
-Chapter - Cliffhanger
-
-0350  Sarah Asks Evan to Elope
-    Sarah doesn't want to suffer a month in limbo. She worries if she waits too long, she'll lose her resolve. She asks Evan if they can lope as soon as possible. 
-0355  Sarah and Evan Elope
-    Sarah and Evan elope at a small chapel in central Illinois.
-0360 Sarah has Second Thoughts
-    While all indications suggest the happy couple is excited and ready to start their life together, all may not be as it seems. After the quick marriage ceremony is over, Sarah retreats to the ladies' restroom. Stone-faced, she stares at herself in the mirror and asks herself, &quot;Oh my god. What have I done?&quot;</Text>
+Chapter 16: Cliffhanger
+Scene #57: Sarah Asks Evan to Elope
+Scene #58: Sarah and Evan Elope
+Scene #59: Sarah has Second Thoughts
+</Text>
         </Document>
         <Document ID="84FC3F31-E7B4-470D-861F-A4D2B8602D39">
             <Title>0120 Waiting Game</Title>
@@ -4809,7 +4919,7 @@ Evan paused, glancing at Guido, a slight edge to his voice. &quot;Guido, that's 
 </Notes>
         </Document>
         <Document ID="850FB6C5-4F6C-4A4D-80D5-56D9E3345856">
-            <Title>Chapter – Patti's Dilemma</Title>
+            <Title>Patti's Dilemma</Title>
         </Document>
         <Document ID="85C5A3DF-C3C1-45BA-AD2C-6C42B69EF072">
             <Title>Character Narratives</Title>
@@ -4835,56 +4945,9 @@ Insert dedication here.</Text>
             <Notes>Feel free to delete this document if you don’t need it.</Notes>
         </Document>
         <Document ID="887C7421-D3A0-4C6E-8EA0-9EA0DC03743A">
-            <Title>0256 Patti Confronts Evan about Sarah</Title>
-            <Synopsis>Oblivious to Sarah's behind-the-scenes efforts and personal financial contributions to feeding the volunteers, Evan's friends criticize her for not actively participating in the home rebuilding. Their frustration grows when Evan chooses to skip the next day's softball game, furthering their discontent with Sarah's influence on him. A few of Evan's friends, reaching a breaking point, give Patti an ultimatum: either she warns Evan about Sarah or Roxanne will do so. Feeling cornered, Patti feels she has no option but to comply.</Synopsis>
-            <Text>Scene Number: 9999
-Summary:
-Information
-Setting:
-Location: Information
-Time: Information
-Weather/Environment: Information
-Characters Present:
-Main Characters: Information
-Secondary Characters: Information
-Character Emotional State:
-Evan: Information
-Sarah: Information
-POV: Third person limited, deep (focusing on Name)
-Dialogue Focus: Heavy
-Use of Internal Dialogue: Moderate
-Plot/Action:
-Beginning: 
-Information
-Information
-Middle:
-Information
-Information
-End: 
-Information
-Information
-Objectives/Goals:
-Information
-Information
-
-Props/Items:
-Information
-Information
-
-Dialogue:
-Key Lines:
-Name: &quot;Information&quot;
-Name: &quot;Information&quot;
-Tone: 
-Name: &quot;Information&quot;
-Name: &quot;Information&quot;
-Action Tags/Dialogue Tags:
-Information
-Information
-Special Instructions/Notes:
-Information
-Information
-</Text>
+            <Title>Patti Confronts Evan about Sarah</Title>
+            <Synopsis>Oblivious to Sarah's behind-the-scenes efforts and personal financial contributions to feeding the volunteers, Evan's friends criticize her for not actively participating in the debris cleanup. Their frustration grows when Evan chooses to skip the next day's softball game, furthering their discontent with Sarah's influence on him. A few of Evan's friends, reaching a breaking point, give Patti an ultimatum: either she warns Evan about Sarah, or Roxanne will do so. Feeling cornered, Patti feels she must comply.</Synopsis>
+            <Text>Oblivious to Sarah's behind-the-scenes efforts and personal financial contributions to feeding the volunteers, Evan's friends criticize her for not actively participating in the debris cleanup. Their frustration grows when Evan chooses to skip the next day's softball game, furthering their discontent with Sarah's influence on him. A few of Evan's friends, reaching a breaking point, give Patti an ultimatum: either she warns Evan about Sarah, or Roxanne will do so. Feeling cornered, Patti feels she has no option but to comply.</Text>
         </Document>
         <Document ID="888D9553-16FA-460F-9543-B7BA68E36B32">
             <Title>0220 Patti Helps Evan Get Ready</Title>
@@ -4930,8 +4993,8 @@ As she ties a tie for him, use inner dialogue and deep POV to show the reader he
 The scene should reflect Patti's struggle, but the reader should see that for Evan this is just a night he is nervous but excited about.</Notes>
         </Document>
         <Document ID="88DC9324-D253-43C0-B938-EC282FBE9494">
-            <Title>0360 Sarah has Second Thoughts</Title>
-            <Synopsis>While all indications suggest the happy couple is excited and ready to start their life together, all may not be as it seems. After the quick marriage ceremony is over, Sarah retreats to the ladies' restroom. Stone-faced, she stares at herself in the mirror and asks herself, &quot;Oh my god. What have I done?&quot;</Synopsis>
+            <Title>Sarah has Second Thoughts</Title>
+            <Synopsis>On the surface, Sarah and Evan appear to be a joyful couple, ready to embark on their new life together. Yet, something seems amiss. After the brief marriage ceremony, Sarah escapes to the wedding chapel's restroom. Staring stone-faced at her reflection, she's overwhelmed by uncertainty and asks herself, &quot;Oh my god. What have I done?&quot; Her internal turmoil hints at deeper conflicts within their seemingly perfect union.</Synopsis>
         </Document>
         <Document ID="89C00944-AB7D-44E1-AE82-5AF4A548F0E2">
             <Title>Example</Title>
@@ -4983,7 +5046,7 @@ Katie's Apartment
 Outside of the Undergrad Library </Text>
         </Document>
         <Document ID="8FF8C222-C0E2-4F52-A036-44F5C70A051D">
-            <Title>Chapter – Sarah's First College Party</Title>
+            <Title>Christmas at Liz's</Title>
         </Document>
         <Document ID="90217392-AFE1-4180-96BB-C8A85C9BCAD4">
             <Title>0226 Sarah and Evan Consummate Their Relationship</Title>
@@ -5129,14 +5192,15 @@ While all indications are the happy couple is excited and ready to start a life 
 After a quick marriage ceremony, and Sarah and Evan are officially married, Sarah retreats to the lady’s restroom. Stonefaced, she stares at herself in the mirror and asks herself, &quot;Oh my god. What have I done!?&quot;</Text>
         </Document>
         <Document ID="92EE9D4B-3B6D-4DEC-B90A-59BDD2E3B72B">
-            <Title>Chapter - Evan Has a Necklace Made</Title>
+            <Title>Evan Has a Necklace Made</Title>
         </Document>
         <Document ID="942C1CBE-4C42-4C86-8328-A80A8E59E4BC">
-            <Title>0160 Sarah &amp; Evan’s First Date</Title>
-            <Synopsis>Sarah and Evan meet at an Asian restaurant for their first official date. Sarah suggests that they begin a relationship with certain conditions. Evan happily agrees.</Synopsis>
+            <Title>Sarah &amp; Evan’s First Date</Title>
+            <Synopsis>Sarah and Evan meet for their first official date at an Asian restaurant. Seeking to set the groundwork for their relationship, Sarah lays out certain conditions. To her delight, Evan happily agrees, marking a new phase in their connection.</Synopsis>
             <Text>Please create the scene using the following information.
 Scene Template:
-Scene Name: 0160 Sarah &amp; Evan’s First Date
+Scene Name: Sarah &amp; Evan’s First Date
+Summary: Sarah and Evan meet for their first official date at an Asian restaurant. Seeking to set the groundwork for their relationship, Sarah lays out certain conditions. To her delight, Evan happily agrees, marking a new phase in their connection.
 Characters: Sarah, Evan
 POV: Third person limited, from Sarah's perspective 
 Location: Thai Garden Restaurant
@@ -5247,6 +5311,136 @@ Evan: “No way are we sealing this deal with a handshake.&quot;
             <CustomMetaData>2006-09-28 20:00:00 Champaign, Illinois Thai Garden Restaurant 2006-09-28 19:00:00 0 9 Sarah
 Evan 11</CustomMetaData>
         </Document>
+        <Document ID="94352142-C9DD-4164-A896-07800F9B2268">
+            <Title>Evan Meets Morgan Freeman?</Title>
+            <Synopsis>At a lavish fundraiser, Evan's comedic talent emerges as he converses with Sarah's distinguished boss, Marcus, causing her anxiety to spike with each jest. Though Sarah's tension builds with Evan's seemingly undignified comments, she's later surprised and relieved to find that Marcus and Evan are connecting splendidly, in a way she never expected, turning her apprehension into delight.</Synopsis>
+            <Text>Scene Template:
+Title: Evan Meets Morgan Freeman?
+Summary:
+At a lavish fundraiser, Evan's comedic talent emerges as he converses with Sarah's distinguished boss, Marcus, causing her anxiety to spike with each jest. Though Sarah's tension builds with Evan's seemingly undignified comments, she's later surprised and relieved to find that Marcus and Evan are connecting splendidly, in a way she never expected, turning her apprehension into delight..
+Leading Context:
+Summary of the previous scene:
+In the seclusion of a small private storage room, Sarah takes a moment to prepare Evan for the impending fundraiser. With a mix of excitement and concern, she instructs him to mind his P’s and Q’s, particularly around her boss, Marcus Chamberlain, who bears a striking resemblance to Morgan Freeman. Her guidance is filled with both faith in Evan’s abilities and anxiety about how the evening will unfold, setting the stage for what promises to be an unforgettable event.
+Setting:
+Location: The Grand Ballroom at the Grandeur Hotel
+Time: 7 PM to 10 PM
+Characters Present:
+Main Characters: Sarah, Evan
+Secondary Characters: Marcus Chamberlin
+Character Emotional State:
+Evan: Nervous, Excited, Optimistic
+Sarah: Nervous, Paranoid 
+POV: Third person limited, deep (focusing on Sarah)
+Dialogue Focus: Moderate
+Use of Internal Dialogue: Heavy
+Plot/Action:
+Beginning: 
+[ Mere seconds into their journey, Evan spots Marcus Chamberlain. Unable to resist his comic ways. ]
+Evan: “Hey Sarah, Morgan Freeman showed up!”
+Sarah: “Shh, Evan, someone might hear you. Don’t look at him. We need to warm you up a bit before I introduce you.”
+[ Marcus Chamberlain looked over at Sarah and Evan and began walking their way. ]
+Evan: “Too late. Morgan is on his way. Should I ask for his autograph?”
+[ Sarah was not amused by Evan’s jokes. She immediately flashed a smile she’s been practicing since she attended her first fundraiser at 12 years old. Out of the corner of her mouth. ]
+Sarah [ whispered ]: “Be on your best behavior.”
+Middle:
+[ Marcus walks up and praises Sarah. ]
+Marcus: “Sarah, you’ve done a great job here. I’m very impressed!”
+Sarah: “Thank you, Mr. Chamberlain-”
+[ Marcus interrupted and corrected her ]
+Marcus: “Please, not so formal. Call me Marcus.”
+Sarah: “Thank you, Marcus, for trusting me with such a prestigious event. I am honored to be associated with your organization.”
+[ Curiously, Marcus looks at Evan. ]
+Marcus: “Ah, a new face. Who have you brought with you today?”
+Sarah: “This is my boyfriend, Evan?”
+[ Marcus extends his hand. ]
+Marcus: “Nice to meet you, Evan.”
+[ Marcus and Evan engage in a firm, appropriate handshake. ]
+Evan: “A pleasure to meet you as well, Marcus.”
+[ Sarah feels good about how the conversation with Marcus and Evan started. ]
+Marcus: “So, your Sarah’s boyfriend?”
+Evan smiled: “My proudest accomplishment to date!”
+[ Evan’s response caused Sarah concern, but Marcus chuckled. ]
+Marcus: “Have you had a chance to look at the items up for auction?”
+Evan: “I took a quick peek on my way into the ballroom. I’d give my right arm for those Bears tickets on the 50-yard line!”
+[Sarah’s concern notched up to minor anxiety. She was trying to figure out how to silently remind Evan to speak more professionally. ]
+Marcus: “Are you a Bears fan?”
+[ Evan didn’t say anything. But with wide-open eyes made an exaggerated nod yes. ]
+[ Evan’s animated facial expression and exaggerated nod increased Sarah’s concern and anxiety. ]
+[ Marcus chuckled again. ]
+Marcus: “It’s a blind auction. I think bidding starts in a few minutes. Who knows, maybe you’ll have the winning bid.”
+[ Unaware that Sarah was dying of anxiety inside, hoping he didn’t say anything that would offend Marcus, Evan continued his comic ways. ]
+Evan: “You see this suit? It’s nice, isn’t it?”
+[ Evan talked on the lapels of his suit jacket as part of his humorist ways. ]
+[ Marcus looked a bit confused. ]
+Marcus: “Quite nice, yes.”
+Evan [ joked ]: “I would love to bid on those tickets, but this suit represents the last dollar in my bank account.”
+[ Although Evan’s statement was meant to be humorous, it was also very true. He drained his bank account for his fundraiser ensemble. ]
+[ Sarah’s anxiety was nearing a crescendo. She just wanted to disappear. She couldn’t believe that Evan was joking in a situation like this, but then something unexpected happened. Marcus cracked up at Evan’s joke. ]
+Marcus: “Sarah, I love this guy. He’s hilarious!”
+[ Sarah remained paralyzed in her smile, unsure how to respond. ]
+Marcus: “I understand. I was young and always short on cash back in the day. But you know our organization does great work. Would you consider donating your time? We are always short on volunteers.”
+Evan: “I would love to help out! Sarah told me about the great work ‘Home Is Where the Heart Is’ does.”
+[ Evan’s statement slightly notched down Sarah’s anxiety. She thought now he was getting back on track. ]
+[ Evan was proud of himself (in a cute way) that he remembered the name. ]
+Marcus: “I’m glad to hear that! Sarah can give you the details. She’s in charge of the project. Two weeks from today, we’ll be helping folks clean up what’s left after a tornado hit a town not far from where Sarah lives. Do you think you can make it that Saturday?”
+Evan: “Count me in! I’m sure I can recruit a handful of friends to help volunteer as well.”
+[ Sarah finally found her voice. Her anxiety was decreased – at least for the moment. She was excited that Evan would volunteer and recruit his friends. ]
+Sarah: “Really? Who do you think will come?”
+[ Evan rubbed his chin and thought. ]
+Evan: “Patti is a lock! This is right up her alley, and wherever Patti goes, Roxanne goes. I’m sure I can get Guido to commit, and I think I could convince three or four more friends to help out.”
+Sarah: “Guido? I wouldn’t think he’d be interested in volunteering.”
+[ Sarah was surprised that Evan thought Guido would have any interest in volunteering on a project like this. ]
+[ Evan looked at Marcus, half serious,  half joking. ]
+Evan: “Will there be single adult females volunteering?”
+[ Marcus sees where Evan is going with this. He chuckled and played along. ]
+Marcus: “I’m sure there will be plenty.”
+Evan: “That’s a great incentive. We’ll add a six-pack of beer for a job well done, and Guido will be in!”
+[ Sarah wanted to crawl under a rock. She was certain this was not an appropriate thing to say to Marcus. But as before, the unexpected happened. ]
+[ Marcus laughed even louder than he had before. ]
+Marcus: “I can’t wait to meet this Guido fella.”
+[ Evan comically rolled his eyes ]
+Evan: “Believe me, you can wait.”
+[ Marcus laughed even harder. His eyes began to water. Evan laughed along with him. ]
+[ Finally, Sarah let go of her fear. The conversation was not only going well but well beyond her expectations. ]
+Marcus: “Sarah, has the bidding started yet on the auction items?”
+Sarah: “In 10 minutes?”
+Marcus: “I’ll tell you what, young Evan. If you can recruit a few friends and at least one Guido, the Bears tickets are yours.”
+[ Evan was shocked, thrilled, excited, grateful. He profusely thanked Marcus. ]
+Evan: “Are you sure?”
+Marcus: “I’m positive. A handful of young volunteers is worth much more than we’ll get at auction for those tickets.”
+[ Marcus turned to Sarah. ]
+Marcus: “Can you pull the Bears tickets off the auction table?”
+[ Sarah didn’t know what to think or say. But they were his Bears tickets. He could do as he pleased. ]
+Sarah: “I’ll go pull them right now.”
+End: 
+[ Sarah didn’t want to leave Evan alone with Marcus Chamberlain, but she didn’t know what else to do. ]
+[ She left slowly and kept an ear out for the conversation. ]
+Evan: “So tell me, Marcus. When are the Bears going to finally get a decent quarterback?”
+Marcus: “Probably in the year 2000, never?”
+[ Both men laughed, and other men started joining the conversation, talking about the Bear’s quarterback woes and other sports-related topics. ]
+[ Eventually, their voices faded into the background. ]
+Objectives/Goals:
+This scene shows Sarah realizing that Evan can still be himself and fit into her world. This goes a long way in whittling Sarah’s remaining resistance to going all in on the relationship.
+Props/Items:
+Bears tickets
+Special Instructions/Notes:
+When writing the scene, do not add, change, or delete any of the dialogue provided in the “Plot/Action” section. At your full discretion, add narrative, action tags, dialogue tags, and internal dialogue as needed to write a compelling scene.
+When writing the scene, please generously use Sarah’s internal dialogue as her anxiety levels increase and decrease and eventually dissipate by the scene’s end. 
+</Text>
+            <Notes>Sarah pulled those Bears tickets
+Evan puts up his dukes to protect Sarah, funny
+Marcus Chamberlain – home is where the heart is
+joke about suit being his last dollar camp bed – Marcus laughs
+volunteer two weeks from today, Patti's and Roxanne will follow, probably Guido – Sarah says you can get Guido to go – Willoughby girls Marcus says yes. Will broaden with a case of beer for a job well done 
+other men come around talk about there's
+after Sarah pulls the Bears tickets, she goes over to the bar talk to the bartender
+she decides just to let Evan on his own
+he comes get certain shows her card he starts to tell her that he met a business software developer that is always looking for good software developers and call him after I graduate
+Sarah pulls him into the courtroom and makes out
+Liz pants one leg at a time
+
+</Notes>
+        </Document>
         <Document ID="94BFB1DC-249C-46F0-BAF0-1837778A7E02">
             <Title>Liz</Title>
         </Document>
@@ -5261,10 +5455,11 @@ I made some adjustments to the scene template.
 Without writing the scene, please evaluate the scene template for the following scene, identifying any areas that need to be changed, added, or removed in order for you to write a compelling scene. Updated template: Scene Number: </Text>
         </Document>
         <Document ID="981A427C-2761-45C5-9B4A-932211AA7E0D">
-            <Title>0132 Sarah Relents and agrees to a date</Title>
-            <Synopsis>Sarah's resistance weakens further as she agrees to go on a date with Evan later in the week.</Synopsis>
+            <Title>Sarah Relents and agrees to a date</Title>
+            <Synopsis>After catching up with Sarah outside the food court, Evan continues to engage her. Despite her initial reluctance, Sarah's resistance weakens, and she agrees to go on a date with Evan later in the week, a notable development in their budding relationship.</Synopsis>
             <Text>Scene Description:
-Scene Name: 0132 Sarah Relents and agrees to a date
+Scene Name: Sarah Relents and agrees to a date
+Summary: After catching up with Sarah outside the food court, Evan continues to engage her. Despite her initial reluctance, Sarah's resistance weakens, and she agrees to go on a date with Evan later in the week, a notable development in their budding relationship.
 Characters: Evan, Sarah
 POV: Third person limited, from Sarah's perspective 
 Locations: Outside on the campus of the University of Illinois, somewhere between the food court and the parking lot.
@@ -5377,7 +5572,7 @@ Laughter filled the air, a comforting and intimate sound. When it finally faded,
 “Don’t worry, I’ll be there. I never break an appointment unless it’s an emergency.” Sarah's voice was steady, and Evan could see the resolve in her eyes, a promise of the adventure to come.</Text>
         </Document>
         <Document ID="9A318D7B-8C58-41CE-8978-2479B3EDC67A">
-            <Title>Chapter - Graduation: A Night Full of Surprises</Title>
+            <Title>Graduation: A Night Full of Surprises</Title>
         </Document>
         <Document ID="9A470BDE-CF2B-4872-97C6-74F19BC90197">
             <Title>Sample Output</Title>
@@ -5405,10 +5600,11 @@ Guido's gaze fell on Evan like he'd lost his mind. &quot;Sure, I got one in my b
 And with that, they parted ways, Evan headed towards his car with a newfound mission and a heart brimming with anticipation. Despite the uncertainty of whether he would find Sarah the next day, he felt an unusual sense of excitement, like he was on the brink of something truly wonderful.</Text>
         </Document>
         <Document ID="9B354129-0BF9-4263-B369-610246E276E3">
-            <Title>0135 Gudio Hears the Big News</Title>
-            <Synopsis>On their way to work, Evan updates Guido on his successful day with Sarah. He asks Guido for ideas of what kind of special gift he could give to Sarah on their upcoming first date.</Synopsis>
+            <Title>Gudio Hears the Big News</Title>
+            <Synopsis>While heading to work, Evan enthusiastically updates Guido on his successful day with Sarah and asks for suggestions for a special gift for their upcoming first date. Though initially annoyed by the question, Guido's insight ultimately inspires a vision for the perfect gift, marking another step in Evan's pursuit of Sarah.</Synopsis>
             <Text>Scene Description:
-Scene Name: 0135 Guido Hears the Big News
+Scene Name: Guido Hears the Big News
+Summary: While heading to work, Evan enthusiastically updates Guido on his successful day with Sarah and asks for suggestions for a special gift for their upcoming first date. Though initially annoyed by the question, Guido's insight ultimately inspires a vision for the perfect gift, marking another step in Evan's pursuit of Sarah.
 Characters: Evan, Guido
 POV: Third person limited, from Evan's perspective 
 Location: Guido's Car - Honda Civic
@@ -5642,11 +5838,65 @@ Quick to Evan’s defense. Guido, calm but firm, shook his head as he met Roxann
 Silently observing the exchange, Patti finally spoke up, her voice softer but resolute. “It’s not bullshit. Technically, he and I were never a couple– just friends having fun. If I brought a boyfriend to the game, Evan would support me, no matter what he may or may not feel inside. ” Her eyes met Guido's, a question in her gaze. “He’s in love with her, isn’t he?”
 Guido held out his hands, palms facing upward, and his shoulders lifted in a careful, deliberate shrug. His expression was thoughtful, his eyes momentarily distant, as if he himself were searching for the answer to Patti's question. He didn't answer her question. He didn't need to. His shrug said it all.</Text>
         </Document>
+        <Document ID="A1D040B6-C3B9-4913-AB3E-2018C8643D31">
+            <Title>Scene Template: AI Create V2</Title>
+            <Text>Scene Number: 9999
+Summary:
+Information
+Leading Context:
+Information
+Setting:
+Location: Information
+Time: Information
+Weather/Environment: Information
+Characters Present:
+Main Characters: Information
+Secondary Characters: Information
+Character Emotional State:
+Evan: Information
+Sarah: Information
+POV: Third person limited, deep (focusing on Name)
+Dialogue Focus: Heavy
+Use of Internal Dialogue: Moderate
+Plot/Action:
+Beginning: 
+Information
+Information
+Middle:
+Information
+Information
+End: 
+Information
+Information
+Objectives/Goals:
+Information
+Information
+
+Props/Items:
+Information
+Information
+
+Dialogue:
+Key Lines:
+Name: &quot;Information&quot;
+Name: &quot;Information&quot;
+Tone: 
+Name: &quot;Information&quot;
+Name: &quot;Information&quot;
+Action Tags/Dialogue Tags:
+Information
+Information
+Special Instructions/Notes:
+Information
+Information
+</Text>
+        </Document>
         <Document ID="A2ABAC4E-F1EE-43FD-82F2-5F574F6B2306">
-            <Title>0142 Katie Loves Sarah’s Apartment</Title>
-            <Synopsis>Sarah and Katie arrived at Sarah's apartment. Katie falls in love with the luxurious apartment. With Sarah now feeling Katie is a friend, she offers a delighted Katie use of guestroom anytime Katie needs a study sanctuary.</Synopsis>
+            <Title>Katie Loves Sarah’s Apartment</Title>
+            <Synopsis>Sarah and Katie arrive at Sarah's luxurious apartment, and Katie is enamored with the place. Feeling a newfound friendship, Sarah offers Katie the use of the guestroom as a study sanctuary whenever she needs it, delighting Katie and strengthening their bond.</Synopsis>
             <Text>Scene Template:
-Scene Name: 0142 Katie Loves Sarah’s Apartment
+Scene Name: Katie Loves Sarah’s Apartment
+Summary: Sarah and Katie arrive at Sarah's luxurious apartment, and Katie is enamored with the place. Feeling a newfound friendship, Sarah offers Katie the use of the guestroom as a study sanctuary whenever she needs it, delighting Katie and strengthening their bond.
 Characters: Sarah, Katie
 POV: Third person limited, from Sarah's perspective 
 Location: Sarah’s Apartment
@@ -5688,10 +5938,11 @@ Check for inconsistencies, repetition, rewording
 review</Text>
         </Document>
         <Document ID="A3C54D26-2DCE-4EF4-A0B2-373C85201A27">
-            <Title>0140 Sarah Asks Katie For Help</Title>
-            <Synopsis>After class, Sarah asked Katie to help her prepare for her date with Evan. Katie enthusiastically agrees.</Synopsis>
+            <Title>Sarah Asks Katie For Help</Title>
+            <Synopsis>During an exam, Sarah leaves a note for a friendly student, Katie, asking her to stop by her desk after class. After the class, Katie approaches Sarah, who requests her assistance in preparing for her date with Evan. Katie's enthusiasm shines through as she eagerly agrees to help, initiating a new friendship.</Synopsis>
             <Text>Scene Description:
-Scene Name: 0140 Sarah Asks Katie For Help
+Scene Name: Sarah Asks Katie For Help
+Summary: During an exam, Sarah leaves a note for a friendly student, Katie, asking her to stop by her desk after class. After the class, Katie approaches Sarah, who requests her assistance in preparing for her date with Evan. Katie's enthusiasm shines through as she eagerly agrees to help, initiating a new friendship.
 Characters: Sarah, Katie
 POV: Third person limited, from Sarah's perspective 
 Location: Sarah’s Classroom
@@ -5726,6 +5977,26 @@ Katie Andrews 11</CustomMetaData>
 Please revise and enhance this scene, but prioritize preserving my original dialogue and structure as much as possible. I'm particularly interested in maintaining the authentic voice of my characters and the specific flow of the conversation.
 
 Please revise and enhance this scene, but prioritize preserving my original dialogue and structure as much as possible. While the narrative description is important for setting the scene and expressing the characters' internal thoughts, I prefer a heavier emphasis on dialogue to carry the scene forward. Allow the characters' words and interactions to reveal their personalities and the nuances of the situation.
+</Notes>
+        </Document>
+        <Document ID="A692DDF3-A8C3-4428-AEC5-ED787CF12830">
+            <Title>Evan Impresses</Title>
+            <Synopsis>Sarah readies Evan for her fundraising event, noticing his nervousness but amazed at how effortlessly he fits into her high-class, charitable sphere. Though clearly an outsider, he wins the crowd's favor. Witnessing Evan flourish in her world eradicates her last shred of hesitation, letting her fully commit her heart to him.</Synopsis>
+            <Notes>Sarah pulled those Bears tickets
+Evan puts up his dukes to protect Sarah, funny
+Marcus Chamberlain – home is where the heart is
+joke about suit being his last dollar camp bed – Marcus laughs
+volunteer two weeks from today, Patti's and Roxanne will follow, probably Guido – Sarah says you can get Guido to go – Willoughby girls Marcus says yes. Will broaden with a case of beer for a job well done 
+other men come around talk about there's
+after Sarah pulls the Bears tickets, she goes over to the bar talk to the bartender
+she decides just to let Evan on his own
+he comes get certain shows her card he starts to tell her that he met a business software developer that is always looking for good software developers and call him after I graduate
+Sarah pulls him into the courtroom and makes out
+Liz pants one leg at a time
+Sara kisses him in closet
+Bartender says I know you dont mix business and personal relationships, but I am a bartender
+We should probably mention that it's a month later, and Sarah has been to several of Evan's events, but this is been the first he'd attended to, but because she's working so hard on this one. She realizes she can't fit into his world but maybe he can fit into hers.
+
 </Notes>
         </Document>
         <Document ID="A8CF9D51-0CED-490F-A80F-DDD905D05AF3">
@@ -5796,6 +6067,10 @@ Rumor has it, Guido needs to know buzz since seeing Evan with the girl.
 Time of date at Thai g
 Make sure readers understand that Sarah is tolerance under</Text>
         </Document>
+        <Document ID="AB548008-BCB0-4297-882E-63368D873DE5">
+            <Title>Evan Professes His Love</Title>
+            <Synopsis>After a fundraiser, Evan escorts Sarah to her room and professes his love. Though in love with Evan, Sarah isn't ready to tell him. Evan respects her feelings, earning admiration by not pressuring her for more, and leaves for his hotel room after a sensual kiss. Both are left contemplating their emotions, secure in their growing connection.</Synopsis>
+        </Document>
         <Document ID="AE9CD277-781B-4330-B4B8-06D5F7ED759B">
             <Title>0137 Evan Has a Special Gift Made</Title>
             <Synopsis>While at the mall, seeking a special gift for his date with Sarah happens upon a unique gift idea that will memorialize their first meeting.</Synopsis>
@@ -5849,10 +6124,11 @@ Let's have the power go out whether watching a movie. That's when the makeup ses
 Needs a good rework on draft 2</Notes>
         </Document>
         <Document ID="B021B3A8-2256-4308-B9F7-240B3CB999D6">
-            <Title>0145 Wardrobe Check</Title>
-            <Synopsis>Katie checks out Sarah's existing wardrobe to see if there is anything that she can wear on her date. Katie has Sarah swap her library and look for jeans, a T-shirt, and a ponytail – a more fun look for their girl's day out.</Synopsis>
+            <Title>Wardrobe Check</Title>
+            <Synopsis>Katie explores Sarah's wardrobe for a suitable date outfit, urging her to abandon her typical librarian look. They settle on jeans, a T-shirt, and a ponytail, creating a more relaxed and fun appearance for their girls' day out, a departure from Sarah's usual style.</Synopsis>
             <Text>Scene Template:
-Scene Name: 0145 Wardrobe Check
+Scene Name: Wardrobe Check
+Summary: Katie explores Sarah's wardrobe for a suitable date outfit, urging her to abandon her typical librarian look. They settle on jeans, a T-shirt, and a ponytail, creating a more relaxed and fun appearance for their girls' day out, a departure from Sarah's usual style.
 Characters: Sarah, Katie
 POV: Third person limited, from Sarah's perspective 
 Location: Sarah’s Apartment
@@ -6060,8 +6336,8 @@ Flattered, Sarah blushed, thanking Katie softly. Her confidence bloomed under th
 The anticipation of their shopping spree makeover hung in the air, wrapping around them like an electric current, stirring broad, excited smiles onto their faces.</Text>
         </Document>
         <Document ID="BBBCF07E-DB03-4F5E-9C4E-1E095D9D5179">
-            <Title>0355  Sarah and Evan Elope</Title>
-            <Synopsis>Sarah and Evan elope at a small chapel in central Illinois.</Synopsis>
+            <Title>Sarah and Evan Elope</Title>
+            <Synopsis>Sarah and Evan elope in a small chapel in central Illinois. While Sarah outwardly appears joyful during the ceremony, doubts linger within her. She loves Evan deeply but can't suppress the yearning to return to the life and plans she had before meeting him. Her conflicting emotions create a bittersweet undertone to the celebration.</Synopsis>
         </Document>
         <Document ID="BC65B638-A3AE-433B-81E3-0806088794BA">
             <Title>Preserve</Title>
@@ -6079,49 +6355,29 @@ The response was immediate, Sarah's smile reaching her eyes as she raised her ey
 Their giggles echoed around the room, the atmosphere brimming with anticipation and the sheer joy of newfound possibilities. The girls were truly ready for a night that promised to be a roller coaster of emotions and revelations.</Text>
         </Document>
         <Document ID="BD70B1ED-52B4-4C68-9042-B50A3E9D2CE9">
-            <Title>0220 Patti Helps Evan Get Ready</Title>
+            <Title>Patti Helps Evan Get Ready</Title>
             <Synopsis>While grappling with her lingering feelings for Evan, Patti resolves to put her emotions aside to support him as a friend. With a determined effort to suppress her inner turmoil, she assists Evan in preparing for his first formalwear fundraising event with Sarah, demonstrating her commitment to their friendship. Her unspoken pining adds a layer of complexity to the scene, even as she focuses on helping Evan make the evening with Sarah special.</Synopsis>
-            <Text>Scene Number: 9999
+            <Text>Scene Template:
+Title: Patti Helps Evan Get Ready
 Summary:
-Information
+While grappling with her lingering feelings for Evan, Patti resolves to put her emotions aside to support him as a friend. With a determined effort to suppress her inner turmoil, she assists Evan in preparing for his first formalwear fundraising event with Sarah, demonstrating her commitment to their friendship. Her unspoken pining adds a layer of complexity to the scene, even as she focuses on helping Evan make the evening with Sarah special.
 Setting:
-Location: Information
-Time: Information
-Weather/Environment: Information
+Location: Evan and Guido's apartment
+Time: Early evening
 Characters Present:
-Main Characters: Information
-Secondary Characters: Information
+Main Characters: Patti, Evan
+Secondary Characters: Guido
 Character Emotional State:
-Evan: Information
-Sarah: Information
-POV: Third person limited, deep (focusing on Name)
+Evan: Nervous and excited
+Sarah: Conflicted
+POV: Third person limited, deep (focusing on Patti)
 Dialogue Focus: Heavy
-Use of Internal Dialogue: Moderate
-Plot/Action:
-Beginning: Information
-Middle: Information
-End: Information
-Objectives/Goals:
-Information
-Information
-
-Props/Items:
-Information
-Information
-
-Dialogue:
-Key Lines:
-Name: &quot;Information&quot;
-Name: &quot;Information&quot;
-Tone: 
-Name: &quot;Information&quot;
-Name: &quot;Information&quot;
-Action Tags/Dialogue Tags:
-Information
-Information
+Use of Internal Dialogue: Heavy
 Special Instructions/Notes:
-Information
-Information
+Evan is oblivious to the fact that Patti is conflicted. In Evan's mind, his intimate relationship with Patti has no impact on their solid friendship.
+In the scene, have Evan struggle with his tie and become frustrated. Have Patti save the day by tying the tie for him.
+As she ties a tie for him, use inner dialogue and deep POV to show the reader her inner struggle with this moment.
+The scene should reflect Patti's struggle, but the reader should see that for Evan this is just a night he is nervous but excited about.
 </Text>
             <Notes>POV:  Third person limited, deep (focusing on Name)
 Setting:  Evan and Guido's apartment
@@ -6271,10 +6527,11 @@ In narrative format, provide details about this character:
 </Text>
         </Document>
         <Document ID="C0AFF093-B9A4-4BD2-8EC7-744A56131CC6">
-            <Title>0101 Sarah is Late for Class</Title>
+            <Title>Sarah is Late for Class</Title>
             <Synopsis>In the unique setting of an underground library, Sarah Wilkins loses track of time while engrossed in an audio seminar. Realizing she's late for teaching her Business-101 class, she quickly packs her belongings and rushes toward the library's exit, her seminar still playing in her ears. The scene ends as she reaches the stairs, setting the stage for a chain of unforeseen events.</Synopsis>
             <Text>Scene Description:
-Scene Name: 0101 Sarah is Late for Class
+Scene Name: Sarah is Late for Class
+Summary: In the unique setting of an underground library, Sarah Wilkins loses track of time while engrossed in an audio seminar. Realizing she's late for teaching her Business-101 class, she quickly packs her belongings and rushes toward the library's exit, her seminar still playing in her ears. The scene ends as she reaches the stairs, setting the stage for a chain of unforeseen events.
 Characters: Sarah
 POV: Third person limited, from Sarah's perspective 
 Location: Undergrad Library
@@ -6463,14 +6720,19 @@ Evan 11</CustomMetaData>
 Deeper POV when she looks at the glasses
 Tidy up as necessary Evan's retelling of the story the readers already know</Notes>
         </Document>
+        <Document ID="C70DEC70-0577-4757-A57F-280BC66EB06F">
+            <Title>Sarah and Evan Make Love</Title>
+            <Synopsis>Evan, finding the card key Sarah placed under his door, enters her room to discover her awaiting him under the covers. He joins her, and in this intimate moment, she finally declares her love for him. Their connection deepens as they make love, cementing their emotional bond.</Synopsis>
+        </Document>
         <Document ID="C88ACCC3-4FDB-4952-80E1-177623CDE141">
             <Title>Cover</Title>
         </Document>
         <Document ID="C8C8DC65-E3A2-44AB-B64E-EA598975887F">
-            <Title>0123 Sarah Can't Concentrate</Title>
-            <Synopsis>Sarah can't focus on her academic work because her mind is thinking of Evan.</Synopsis>
+            <Title>Sarah Can't Concentrate</Title>
+            <Synopsis>Though in her academic haven, the undergrad library, Sarah finds herself unable to concentrate. Distracted by thoughts of Evan, her usual scholarly focus is replaced by a restless mind. Her studies take a back seat as she grapples with her unexpected emotions.</Synopsis>
             <Text>Scene Description:
-Scene Name: 0123 Sarah Can't Concentrate
+Scene Name: Sarah Can't Concentrate
+Summary: Though in her academic haven, the undergrad library, Sarah finds herself unable to concentrate. Distracted by thoughts of Evan, her usual scholarly focus is replaced by a restless mind. Her studies take a back seat as she grapples with her unexpected emotions..
 Characters: Sarah
 POV: Third person limited, from Sarah's perspective 
 Location: Undergrad Library - Remember that this library is underground with no windows.
@@ -6545,9 +6807,10 @@ She wishes she could find a way to help Evan let go of his resentment and forgiv
 The love and respect between Liz and Evan is as deep as any bond between siblings. Each would do anything for the other.</Text>
         </Document>
         <Document ID="CD07C205-EA87-47D4-9E3A-07AA7B0D5204">
-            <Title>0206 The Drive to the Post-Game Party</Title>
-            <Synopsis>After the Enforcers win their game, Sarah joins Evan, Guido, and a dozen friends, a mix of male and female college students, to celebrate at a sports bar and grille. Despite the boisterous group's excitement, Sarah feels like an outcast, remaining primarily silent and retreating into her thoughts. Her struggle reflects her commitment to support Evan and her personal discomfort.</Synopsis>
-            <Text>Scene Number: 0206
+            <Title>The Drive to the Post-Game Party</Title>
+            <Synopsis>On the drive to the restaurant for a celebratory post-game party, Evan and Sarah discuss her inaugural experience attending a softball game and how things went with Evan's friends. Sarah shares her insecurities about attending the party.</Synopsis>
+            <Text>Scene Template:
+Title: The Drive to the Post-Game Party
 Summary:
 On the drive to the restaurant for a celebratory post-game party, Evan and Sarah discuss her inaugural experience attending a softball game and how things went with Evan's friends. Sarah shares her insecurities about attending the party.
 Setting:
@@ -6662,56 +6925,97 @@ Description:
 </Text>
         </Document>
         <Document ID="D255F9E4-8E8B-4A79-A03C-13D1E0F7DC57">
-            <Title>0222 Patti Seeks Advice from Guido</Title>
-            <Synopsis>Patti reluctantly reveals to Guido that their circle of friends has &quot;chosen&quot; her to persuade Evan that his relationship with Sarah is misguided. Though Patti harbors no great affection for Guido, she finds herself valuing his unfiltered honesty regarding Evan and Sarah's relationship, even if some of his opinions rankle her. Their conversation showcases a complex interplay of conflicting emotions, alliances, and a shared concern for Eva.</Synopsis>
-            <Text>Scene Number: 9999
+            <Title>Patti Seeks Advice from Guido</Title>
+            <Synopsis>Patti hesitantly tells Guido that their friends have tasked her with convincing Evan that his relationship with Sarah is wrong. Despite not being fond of Guido, Patti appreciates his candid views on Evan and Sarah's relationship, even if they sometimes irk her. Their conversation is marked by a tangled mix of emotions, differing allegiances, and a mutual worry for Evan.</Synopsis>
+            <Text>Scene Template:
+Title: Patti Seeks Advice from Guido
 Summary:
-Information
+Patti hesitantly tells Guido that their friends have tasked her with convincing Evan that his relationship with Sarah is wrong. Despite not being fond of Guido, Patti appreciates his candid views on Evan and Sarah's relationship, even if they sometimes irk her. Their conversation is marked by a tangled mix of emotions, differing allegiances, and a mutual worry for Evan..
+Leading Context:
+This scene picks up after Evan leaves for his first Fundraising event. Here is the last paragraph before this scene:
+“As Evan left the room, Patti lingered, her hand tracing the spot where she’d tied his tie. The moment was over, but the feelings lingered. She sighed, knowing she’d made the right choice, but it didn’t make it any easier.”
 Setting:
-Location: Information
-Time: Information
-Weather/Environment: Information
+Location: Evan and Guido’s apartment
+Time: Early evening
 Characters Present:
-Main Characters: Information
-Secondary Characters: Information
+Main Characters: Patti, Guido
 Character Emotional State:
-Evan: Information
-Sarah: Information
-POV: Third person limited, deep (focusing on Name)
+Patti: Upset and conflicted
+Guido: Surprisingly compassionate
+POV: Third person limited, deep (focusing on Patti)
 Dialogue Focus: Heavy
 Use of Internal Dialogue: Moderate
 Plot/Action:
-Beginning: Information
-Middle: Information
-End: Information
-Objectives/Goals:
-Information
-Information
-
-Props/Items:
-Information
-Information
-
-Dialogue:
-Key Lines:
-Name: &quot;Information&quot;
-Name: &quot;Information&quot;
-Tone: 
-Name: &quot;Information&quot;
-Name: &quot;Information&quot;
-Action Tags/Dialogue Tags:
-Information
-Information
-Special Instructions/Notes:
-Information
-Information
-</Text>
+Beginning: 
+Patti plops down on the sofa after Evan leaves for Sarah’s fundraising event
+Guido can see that Patti is upset and assumes that she didn’t leave the apartment after Evan left, indicating that she needs someone to talk to. Guido interrupts his unfruitful journey through his little black book, calling women for a night of fun.
+He says, “I know you’re not my biggest fan, but if you need someone to talk to, I’m here.”
+Patti confides to Guido that, on the notes to him, their inner circle of friends has asked her to persuade Evan that his relationship with Sarah is misguided.
+Guido realizes this will be a more extended conversation than he had hoped. He goes to the fridge, grabs two beers, opens them, hands one to Sarah, and takes a guzzle from his beer bottle. He then sits down on the loveseat at a 90° angle from the sofa, sharing the same end table.
+Middle: 
+She tells Guido that she doesn’t know if she can do it.
+She admits that she still has feelings for Evan but still values Evan’s friendship.
+Evan may be unaware of Patti’s conflict, but Guido has always known.
+She asks him what he thinks of Evan and Sarah’s relationship.
+He explains how he doesn’t get Evan. In his opinion, Evan should enjoy his college years as Guido does. He comments how Evan has it easy. Girls flock to Evan while he(Guido) has to work for his girls. He says if he were Evan, he’d be playing the field – A different girl every other night of the week.
+Then he switches gears and says, but Evan is Evan. 
+Patti didn’t get the answer she sought, so she asked again about his feelings but Evans’s relationship with Sarah. “Do you think she’s right for him?”
+Not accustomed to these situations, Guido’s unsure if she’s seeking consolation or candor. He asks her, “You want me to sugarcoat it, or do you want Guido to give it to you raw?”
+Patti: “Neither, really. But I guess there’s no point in you holding back, so give it to me raw.”
+Guido: “Not that I could ever think like Evan when it comes to women, but I thought you and him were doing it right. You’re both in college, having fun, but no strings attached. You are smoking hot. I would’ve kept hooking up through senior year if I were Evan. “
+Patti: “What do you think about Sarah?”
+Guido: “What I say here never leaves this room. Do we have an understanding?”
+Patti: “Yes, of course. I won’t tell anyone, even Roxanne.”
+Guido: “I don’t get it. I don’t get it at all. They have very little in common. But maybe that’s the point?”
+Patti: “What do you mean?”
+Guido: “I marvel at how Evan attracts women when he knows so little about them. It might even say I’m green with envy. I can only imagine what it’s like to have girls lined up at my front door.”
+Patti: “I don’t understand your point.”
+Guido (annoyed by her impatience): “That’s because you didn’t let me finish. If it’s that easy for him to get a girl, then maybe what attracts him to Sarah is that although he reeled her in pretty quickly, for the first time, he experienced a girl who made him work for it. See what I mean.”
+Patti thought for a while and began to understand what Guido was saying.
+Patti: “You may be right. I never really thought about it that way.”
+Guido: “Of course I’m right. The Guido is always right.”
+Patti: “Now that she’s been ‘caught,’” Patti said air quoting the word caught. “Do you think he’ll lose interest and back away?”
+Guido: “I know you may not wanna hear this, but the only way that relationship ends is if Sarah ends it. Evan is convinced she’s the one regardless of what you and I think.  His words, not mine. When Evan commits to something, it’s impossible to derail him.”
+Patti: “Why can’t he see what we all see? Sooner or later, that relationship is going to stop working. He needs to get out now before things get too serious.”
+Guido: “Oh Patti, Patti, Patti, you’re not getting it. Evan is in love with Sarah, or at least he thinks he is. He won’t admit it, and nobody seems to understand this, but Evan is the epitome of a hopeless romantic. He is blinded by love. I doubt anything we say will open his eyes to reality.”
+Patti: “I’m not sure what to do. As a friend, I think I should share what we all feel and warn him off, Sarah. But I’m not sure if I trust my motivation. I don’t want to come off as a jealous ex.”
+Guido: “I decided to let Evan make his own mistakes. And be there for him when he inevitably crashes and burns.”
+Patti: “Is that what you think I should do? Just back away and let him crash and burn? Hoping that when he sees Sarah’s not right for him, maybe he’ll see that there are better options for him, even if it’s not me.”
+Guido: “Yes and no. I know there’s nothing I can say to stop you from warning Evan off of Sarah. I could see it in your eyes.”
+Patti: “I don’t want to, Guido. But Roxanne made it clear that if I don’t do it, she will. That would be a disaster on all levels.”
+Guido: “I get it. And who knows, maybe something you say will click down the road. But for now, understand that your words will fall on deaf ears. And then you’re left with a tough choice.”
+Patti: “Choice?”
+Guido: “Either tell Evan how you feel and press the issue with Sarah or be his friend and be happy for him if it works out, and be there to catch him if he falls.”
+Patti: “That’s pretty sound advice coming from you.”
+Guido: “Everyone always underestimates the Guido.”
+Patti: “I don’t know if I can stand around waiting and watching him with Sarah.”
+Guido: “Then don’t. Get back out there yourself. Find yourself a dude to keep your bed warm at night. You still got almost two full years of college. Live it up!”
+Patti laughed: “Now that’s the kind of advice I expected from you, Guido.”
+End: 
+Guido: “I’m not gonna lie. I’d be happy to fill that need for your right now. But no can do.”
+Patti laughs loudly. “I can’t wait to hear this. Why ‘no can do’?”
+Guido: “I’ve practically made a living off Evan’s rejects. But once a girl does Evan, she’s off-limits to the Guido. I don’t do my friends like that.”
+Patti laughed, not sure what to say.
+Guido: “I gotta tell you, though, Patti. It ain’t easy. You’re the hottest piece of ass Evan’s ever brought to bed.”
+Guido could see Patti waiting for a finish to his thought. So he gave her what she needed, earnest in his words.
+Guido continued: “And yes, even hotter than Sarah.”
+Provide deeper POV and internal dialogue here indicating that while Patti would usually be offended by Guido calling her a hot piece of ass, she was flattered.
+Have her respond however you see fit.
+This scene ends with Guido being interrupted by one of his prized black book coeds returning his call. He tells Patti he’s got to go. Telling her he’s got a live one on the hook.
+The last paragraph should be about Patti leaving the apartment, trying to figure out what to do. Her conflict is still unresolved.
+Special instructions:
+I've presented comprehensive dialogue that needs to be included in the scene.
+Please add narrative, action tags, and dialogue tags to beef up the scene.
+This is a deep POV scene reflecting's Patti's thoughts. Describing her thoughts and implementing inner dialogue when needed make sure that the reader understands how Patti feels as she talks to Guido about everything.
+The scene is meant to show that there is more to Guido than meets the eye, but at the end of the day, he is still Guido.
+The combination of drama and humor is meant to to entertain the reader.</Text>
         </Document>
         <Document ID="D4499772-6F95-47DE-BA6B-E122AE6824F1">
-            <Title>0100 Everything is on Track for Sarah</Title>
+            <Title>Everything is on Track for Sarah</Title>
             <Synopsis>Tucked away in her academic haven, sipping her favorite couple coffee, listening to a compelling audio seminar, reflecting on how smoothly her carefully orchestrated college plan is gone, college Senior Sarah Wilkins is blissfully unaware of the unforeseen encounter that will alter the course of her day, her semester, and perhaps her life.</Synopsis>
             <Text>Scene Description:
-Scene Name: 0100 Everything is on Track for Sarah
+Scene Name: Everything is on Track for Sarah
+Summary: Tucked away in her academic haven, sipping her favorite couple coffee, listening to a compelling audio seminar, reflecting on how smoothly her carefully orchestrated college plan is gone, college Senior Sarah Wilkins is blissfully unaware of the unforeseen encounter that will alter the course of her day, her semester, and perhaps her life.
 Characters: Sarah
 POV: Third person limited, from Sarah's perspective 
 Time of Day: Morning
@@ -6732,7 +7036,7 @@ Life Is Good, she thought. Tucked away in her academic haven, the undergrad libr
             <Notes>Life was good, Sarah thought, as she found solace in her academic haven, the undergrad library. Sipping her favorite cup of coffee, she immersed herself in a compelling audio seminar, reflecting on the flawless execution of her well-laid college plan. The serenity of the moment wrapped around her like a warm embrace, and she reveled in the sense of accomplishment. Little did she know that within minutes, a twist of destiny was poised to enter her life, altering the course of her day, her semester, and quite possibly, her very destiny. A subtle thrill of anticipation tingled in the air, hinting at exciting events yet to unfold. </Notes>
         </Document>
         <Document ID="D53749A8-A015-4030-AED5-59F4A0A817CA">
-            <Title>Chapter – Date Night at Sarah's Apartment</Title>
+            <Title>Date Night at Sarah's Apartment</Title>
         </Document>
         <Document ID="D5F5CB03-49D0-4ED8-8783-3EBA08C89BAF">
             <Title>Guido</Title>
@@ -6865,6 +7169,61 @@ Sarah responded with an unusual attempt at humor. “2+2 equals 10.”
 Laughter filled the air, a comforting and intimate sound. When it finally faded, Evan's eyes held a hint of concern. “I’m afraid to let you go. I’m worried you won’t show up on Thursday.”
 “Don’t worry, I’ll be there. I never break an appointment unless it’s an emergency.” Sarah's voice was steady, and Evan could see the resolve in her eyes, a promise of the adventure to come.</Text>
         </Document>
+        <Document ID="DCA7A7EC-450E-407F-89AE-2D651D883F92">
+            <Title>Sarah Shares Her Concerns about the Future</Title>
+            <Synopsis>Sarah reveals the promise ring Evan gave Katie, sharing her conflicted feelings about her future with him. Katie provides a compassionate ear, helping Sarah navigate her emotions. Sarah confesses that she misled her parents about her relationship during a phone call minutes earlier, adding another layer to her internal struggle.</Synopsis>
+            <Text>Scene Number: 9999
+Summary:
+Information
+Leading Context:
+Information
+Setting:
+Location: Information
+Time: Information
+Weather/Environment: Information
+Characters Present:
+Main Characters: Information
+Secondary Characters: Information
+Character Emotional State:
+Evan: Information
+Sarah: Information
+POV: Third person limited, deep (focusing on Name)
+Dialogue Focus: Heavy
+Use of Internal Dialogue: Moderate
+Plot/Action:
+Beginning: 
+Information
+Information
+Middle:
+Information
+Information
+End: 
+Information
+Information
+Objectives/Goals:
+Information
+Information
+
+Props/Items:
+Information
+Information
+
+Dialogue:
+Key Lines:
+Name: &quot;Information&quot;
+Name: &quot;Information&quot;
+Tone: 
+Name: &quot;Information&quot;
+Name: &quot;Information&quot;
+Action Tags/Dialogue Tags:
+Information
+Information
+Special Instructions/Notes:
+Information
+Information
+</Text>
+            <Notes>0264 Sarah Shares Her Concerns about the Future</Notes>
+        </Document>
         <Document ID="DD1C4A70-12AE-4080-89F6-7EEE2A48F718">
             <Title>Chapter - Evan Has a Necklace Made</Title>
         </Document>
@@ -6969,7 +7328,7 @@ Sarah knew of Evan’s close bond with Liz, and he wanted to live close to his s
 Her brain said to stick to the plan. Her heart said to build a life with Evan. Against all odds, her heart won.</Notes>
         </Document>
         <Document ID="E1EEB221-B2D4-4A29-80F8-47804996B3FE">
-            <Title>WIP Sarah Struggles</Title>
+            <Title>Sarah Promise Ring Concerns</Title>
             <Notes>We need a couple scenes here where we see that while Evan is still in, Sarah is getting very nervous.
 Maybe this is where we find out that Evan gets his job and Sarah says she is so happy for him.
 He corrects her and says happy for us.
@@ -7079,10 +7438,11 @@ At times he offers comic relief, and at other times he supports various characte
 </Text>
         </Document>
         <Document ID="E25BA7AE-4720-46CB-ABA0-E0A86E653B09">
-            <Title>0116 Evan Hopes for Sarah's Return </Title>
-            <Synopsis>Evan stayed put, sitting on the stairs where he had just kissed the woman of his dreams. He hoped that she returned to the scene of the kiss. When she didn't show, he returned to the Quad to tell Guido all about what had just happened.</Synopsis>
+            <Title>Evan Hopes for Sarah's Return </Title>
+            <Synopsis>After kissing a stranger, Evan remained near the stairs, hopeful that she would return to the scene. His heart ached for another encounter with the woman of his dreams. When she didn't appear, he reluctantly made his way back to the Quad, where he eagerly recounted the magical incident to his friend Guido.</Synopsis>
             <Text>Scene Description:
-Scene Name: 0116 Evan Hopes for Sarah's Return 
+Scene Name:  Evan Hopes for Sarah's Return 
+Summary: After kissing a stranger, Evan remained near the stairs, hopeful that she would return to the scene. His heart ached for another encounter with the woman of his dreams. When she didn't appear, he reluctantly made his way back to the Quad, where he eagerly recounted the magical incident to his friend Guido. 
 Characters: Evan, Guido
 POV: Third person limited, from Evan's perspective 
 Locations: The Morrow Plots, the open area outside the entrance to the undergrad library, The Quad. All these locations are on campus at the University of Illinois Urbana-Champaign.
@@ -7136,6 +7496,10 @@ Katie asked, &quot;So altogether, including new clothes and hairstylist, what ki
 Katie's eyes lit up at this and she squealed, clapping her hands in excitement. &quot;Really? Oh, this is going to be so much fun!&quot;
 The energy in the room was effervescent, reflecting off Sarah as her own excitement began to bubble up. It was new, this anticipation of a date, of being made over, of possibly breaking her own rules, but it was an invigorating feeling that Sarah welcomed.</Text>
         </Document>
+        <Document ID="E41E88A0-1B7D-4733-B8DC-B128EB14788E">
+            <Title>Sarah Invites Evan to Her Room</Title>
+            <Synopsis>After a reflective bath, Sarah realizes she loves Evan and is ready to give herself to him. She calls a trusted hotel staff member to her room and asks the staff member to slip an envelope under Evan's door. Inside the envelope is a card key to her room and a note that says, &quot;I'm ready.&quot;</Synopsis>
+        </Document>
         <Document ID="E6059A22-7C54-4089-9702-B8F14C61C423">
             <Title>Tamora Pierce</Title>
             <Text>In the University of Illinois Urbana-Champaign, the lives of two seniors, Sarah Wilkins and Evan Vaughn, unfolded with divergent rhythms. 
@@ -7150,56 +7514,12 @@ Her father presented her with a choice: follow Evan to Chicago while pursuing he
 Now, Sarah was caught in a dilemma. She was aware of Evan's loyalty towards his sister and his potential job in Chicago, and she was unwilling to put her needs before his. Thus, she was left with a difficult decision: follow the path she had meticulously planned or give in to the unpredictable call of love. And when the time came, Sarah chose Evan, her heart finally outweighing her calculated judgments.</Text>
         </Document>
         <Document ID="E7706055-4FBD-45E6-9704-41F53544F375">
-            <Title>0254 Evan Embraces Volunteer Work</Title>
+            <Title>Evan Embraces Volunteer Work</Title>
             <Synopsis>After a strenuous Saturday working with a nonprofit organization, Evan's friends head home, but Evan is profoundly transformed by the experience. Inspired by the selfless teens who choose volunteering over typical leisure activities, he becomes deeply committed to the cause. His newfound passion leads him to give up his entire Sunday, even foregoing his regular softball game, to continue volunteering and making a difference.</Synopsis>
-            <Text>Scene Number: 9999
-Summary:
-Information
-Setting:
-Location: Information
-Time: Information
-Weather/Environment: Information
-Characters Present:
-Main Characters: Information
-Secondary Characters: Information
-Character Emotional State:
-Evan: Information
-Sarah: Information
-POV: Third person limited, deep (focusing on Name)
-Dialogue Focus: Heavy
-Use of Internal Dialogue: Moderate
-Plot/Action:
-Beginning: 
-Information
-Information
-Middle:
-Information
-Information
-End: 
-Information
-Information
-Objectives/Goals:
-Information
-Information
-
-Props/Items:
-Information
-Information
-
-Dialogue:
-Key Lines:
-Name: &quot;Information&quot;
-Name: &quot;Information&quot;
-Tone: 
-Name: &quot;Information&quot;
-Name: &quot;Information&quot;
-Action Tags/Dialogue Tags:
-Information
-Information
-Special Instructions/Notes:
-Information
-Information
-</Text>
+        </Document>
+        <Document ID="E9D2F710-E2F2-4510-B17B-2C771FA72D3C">
+            <Title>Liz Receives Two special Christmas Gifts</Title>
+            <Synopsis>Christmas morning at Liz's apartment was filled with excitement as gifts were unwrapped. Evan's present to Liz, a first-semester report card with three A's and one B, highlighting a GPA increase to 3.2, symbolized his academic growth due to Sarah's help. The most poignant moment came when Joe gave Liz the final gift – an engagement ring accompanying a heartfelt proposal, adding a touch of romance to the festive celebration.</Synopsis>
         </Document>
         <Document ID="EAAB86E9-0DB1-46C5-9CCC-B04D55B60D21">
             <Title>Versions</Title>
@@ -7418,16 +7738,17 @@ A co-protagonist and the male love interest in the story, Evan's life takes a me
 Evan's journey is marked by personal growth, embracing love, and committing to a path that aligns with his values and dreams. He's a character who symbolizes the power of transformation through love, forgiveness, and personal understanding.</Text>
         </Document>
         <Document ID="F0FD0D25-CCB8-483F-A0DA-D7179B1F4570">
-            <Title>Chapter - Sarah Meets Evan's Friends</Title>
+            <Title>Sarah Meets Evan's Friends</Title>
         </Document>
         <Document ID="F4DA38FC-A4D1-43D4-8F14-678413C36242">
             <Title>Chapter – Patti's Dilemma</Title>
         </Document>
         <Document ID="F4E9025C-D853-4B66-A452-A1612D03A9DD">
-            <Title>0110 Evan And Sarah Kiss</Title>
-            <Synopsis>Evan sees Sarah, a woman he has never met, headed for disaster in the form of concrete steps. He rushes to save her from a dangerous fall, and in the process, they share a kiss.</Synopsis>
+            <Title>Evan And Sarah Kiss</Title>
+            <Synopsis>Evan spots Sarah, a stranger to him, oblivious and headed toward concrete steps. Realizing the impending danger, he sprints to her rescue, preventing a perilous fall. In the chaos of the moment, their lips meet, and they share an unexpected, electrifying kiss.</Synopsis>
             <Text>Scene Description:
-Scene Name: 0110 Evan And Sarah Kiss
+Scene Name: Evan And Sarah Kiss
+Summary: Evan spots Sarah, a stranger to him, oblivious and headed toward concrete steps. Realizing the impending danger, he sprints to her rescue, preventing a perilous fall. In the chaos of the moment, their lips meet, and they share an unexpected, electrifying kiss.
 Characters: Sarah, Evan
 POV: Third person limited, from Sarah’s perspective 
 Location: Outside of the Undergrad Library
@@ -7495,10 +7816,11 @@ Overall, Sarah's apartment reflects her personality – ambitious, detail-orient
 * The guest bedroom looks as though it's never been used.</Notes>
         </Document>
         <Document ID="F60B094D-5167-47AB-9957-04D9DB858D0B">
-            <Title>0212 Study Session First</Title>
-            <Synopsis>Expecting a date night at Sarah's apartment, Evan learns that academics come first for Sarah. As part of their agreement, Sarah tutors Evan on methods to improve his grades. Only after the tutor session can their date begin.</Synopsis>
-            <Text>Scene Number: 0212
-Summary: Expecting a date night at Sarah's apartment, Evan learns that academics come first for Sarah. As part of their agreement, Sarah tutors Evan on methods to improve his grades. Only after the tutor session can their date begin.
+            <Title>Study Session First</Title>
+            <Synopsis>Expecting a romantic date night at Sarah's apartment, Evan is instead reminded that academics are her priority. In line with their agreement, Sarah takes on the role of a tutor, helping Evan with techniques to boost his grades. They work diligently, and only after the tutoring session concludes do they transition into their planned date, strengthening their connection through shared goals and responsibilities.</Synopsis>
+            <Text>Scene Template:
+Title: Study Session First
+Summary: Expecting a romantic date night at Sarah's apartment, Evan is instead reminded that academics are her priority. In line with their agreement, Sarah takes on the role of a tutor, helping Evan with techniques to boost his grades. They work diligently, and only after the tutoring session concludes do they transition into their planned date, strengthening their connection through shared goals and responsibilities.
 Setting:
 Location: Sarah's apartment
 Time: 7 PM on Friday
@@ -7679,11 +8001,12 @@ Like all templates in Scrivener, this project was originally created from the �
 You can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template…</Text>
         </Document>
         <Document ID="F98529FA-833B-4B5C-BC14-D46A36588F57">
-            <Title>0208 The Post-Game Party</Title>
+            <Title>The Post-Game Party</Title>
             <Synopsis>After the Enforcers win their game, Sarah joins Evan, Guido, and a dozen friends to celebrate at Sluggers Sports Bar and Grill. Despite the group's excitement, Sarah feels like an outcast. Her struggle reflects her commitment to support Evan and her discomfort due to her inability to connect socially with peers.</Synopsis>
-            <Text>Scene Number: 0208
+            <Text>Scene Template:
+Title: The Post-Game Party
 Summary:
-Sarah prepares for Evan's first visit to her apartment.
+After the Enforcers win their game, Sarah joins Evan, Guido, and a dozen friends to celebrate at Sluggers Sports Bar and Grill. Despite the group's excitement, Sarah feels like an outcast. Her struggle reflects her commitment to support Evan and her discomfort due to her inability to connect socially with peers.
 Setting:
 Location: Sluggers Sports Bar and Grill
 Location Description:
@@ -7757,10 +8080,11 @@ Note: Emphasize the coziness of the setting and the deepening connection between
 </Text>
         </Document>
         <Document ID="FB59F231-7777-4FAB-B1DE-A9DD1B935633">
-            <Title>0120 Waiting Game</Title>
-            <Synopsis>The day after the Kiss, Evan waited where they kissed, hoping Sarah would return.</Synopsis>
+            <Title>Waiting Game</Title>
+            <Synopsis>The day following their unexpected kiss, Evan lingered at the very spot, filled with anticipation for Sarah's return. Two hours of hopeful waiting passed with no sight of her. Finally, Guido arrived, pulling Evan away and persuading him to head home, his dreams of another encounter with Sarah left unfulfilled.</Synopsis>
             <Text>Scene Description:
-Scene Name: 0120 Waiting Game
+Scene Name: Waiting Game
+Summary: The day following their unexpected kiss, Evan lingered at the very spot, filled with anticipation for Sarah's return. Two hours of hopeful waiting passed with no sight of her. Finally, Guido arrived, pulling Evan away and persuading him to head home, his dreams of another encounter with Sarah left unfulfilled.
 Characters: Evan, Guido
 POV: Third person limited, from Evan's perspective 
 Time of Day: Morning
@@ -7836,7 +8160,14 @@ With its soft background music and contemporary aesthetic, this small-town salon
             <CustomMetaData>2006-09-28 20:41:00 2006-09-28 19:00:00 0</CustomMetaData>
         </Document>
         <Document ID="FD54F88D-7F3A-4DD1-A071-D22CEDDD0750">
-            <Title>Chapter – Attends Sarah's Fundraiser</Title>
+            <Title>Attends Sarah's Fundraiser</Title>
+        </Document>
+        <Document ID="FD5F7219-27D8-4985-B3C4-471AADF6D1EA">
+            <Title>Sarah Misleads Her Parents</Title>
+            <Synopsis>Katie and Sarah's conversation is interrupted by Sarah's parents, who call after seeing a picture of the promise ring on her Facebook page. In her bedroom, Sarah downplays the significance of the gift and her feelings for Evan, assuring them that her schoolwork and philanthropy are her main priorities. Her casual reassurance conceals her conflicting emotions about Evan and the future of their relationship.</Synopsis>
+            <Notes>0262 Sarah Misleads Her Parents
+
+While discussing her conflict over Evan's promise ring with Katie, Sarah receives a call from her parents. She moves to her bedroom for privacy and downplays the gift's meaning and her deep feelings for Evan. She dismisses their concern, emphasizing that her schoolwork and philanthropic endeavors remain her priorities. Her casual reassurance masks the complexity of her emotions towards Evan.</Notes>
         </Document>
     </Documents>
 </SearchIndexes>
