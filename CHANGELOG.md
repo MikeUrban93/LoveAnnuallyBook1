@@ -1,5 +1,10 @@
 # Changelog
 
+#### 0.0.1.19 - MAU `2023-08-15`
+1. Added a new scene template
+2. Finished up draft one for the remaining scenes of the chapter
+----
+
 #### 0.0.1.18 - MAU `2023-08-15`
 1. Removed see numbers from the scene titles.
 2. Ensured all prep scenes had updated summaries of approximately 75 words or less.
