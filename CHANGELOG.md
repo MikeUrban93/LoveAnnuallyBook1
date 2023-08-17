@@ -1,8 +1,14 @@
 # Changelog
 
+#### 0.0.20 - MAU `2023-08-17`
+1. Stubbing in templates for scenes, and fully completing templates others.
+	- Completed Templates for Sarah and Evan Consummate Their Relationship
+	- Stubbed "Evan Volunteers for the Weekend" and "Christmas at Liz's"
+----
+
 #### 0.0.1.19 - MAU `2023-08-15`
 1. Added a new scene template
-2. Finished up draft one for the remaining scenes of the chapter
+2. Finished up draft one for the remaining scenes of the chapter "Sarah's Fundraiser"
 ----
 
 #### 0.0.1.18 - MAU `2023-08-15`
