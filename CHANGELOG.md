@@ -1,5 +1,10 @@
 # Changelog
 
+#### 0.0.21 - MAU `2023-08-18`
+1. Completed the stubbing in of templates for the remainder of this project.
+2. SavePoint: This is a safe point before some major cleanup is done.
+----
+
 #### 0.0.20 - MAU `2023-08-17`
 1. Stubbing in templates for scenes, and fully completing templates others.
 	- Completed Templates for Sarah and Evan Consummate Their Relationship
