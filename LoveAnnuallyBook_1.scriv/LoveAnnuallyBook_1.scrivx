@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="C1CC4C75-4A12-4579-ADB5-479DFFD60702" Creator="SCRWIN-3.1.3.0" Device="Trinity" Author="The Kindergarten Poet" Modified="2023-08-18 11:02:00 -0400" ModID="2B42C0B4-F49B-4FEF-AF32-89C568783D44">
+<ScrivenerProject Template="No" Version="2.0" Identifier="C1CC4C75-4A12-4579-ADB5-479DFFD60702" Creator="SCRWIN-3.1.3.0" Device="Trinity" Author="The Kindergarten Poet" Modified="2023-08-18 19:02:20 -0400" ModID="551B7412-DC4D-4616-A41C-9B0E3CD5936E">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 12:57:53 -0400" Modified="2023-08-04 14:07:09 -0400">
             <Title>Novel Format</Title>
@@ -1369,7 +1369,7 @@ Katie Andrews</Value>
                                 <SectionType>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</SectionType>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5630,0</TextSelection>
+                                <TextSelection>3380,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="31A264CB-084A-44EC-9C7B-7C90BC22914E" Type="Text" Created="2023-08-14 03:40:31 -0400" Modified="2023-08-16 21:29:17 -0400">
@@ -2846,7 +2846,7 @@ Katie Andrews</Value>
                                 <NotesTextSelection>1149,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>396,0</TextSelection>
+                                <TextSelection>259,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="94352142-C9DD-4164-A896-07800F9B2268" Type="Text" Created="2023-08-14 00:41:08 -0400" Modified="2023-08-16 09:48:49 -0400">
@@ -3764,76 +3764,173 @@ Nicole Jenkins</Value>
             </TextSettings>
             <DefaultChildTemplateUUID>BE948F87-BDA3-4551-8E08-AC248FE89301</DefaultChildTemplateUUID>
             <Children>
-                <BinderItem UUID="D6087F48-C104-4EDB-9084-D147AFEDDE6C" Type="Folder" Created="2023-08-10 21:39:07 -0400" Modified="2023-08-10 21:39:11 -0400">
+                <BinderItem UUID="00D98598-FA69-44D2-8C35-16CE959A8E92" Type="Text" Created="2023-08-18 16:27:00 -0400" Modified="2023-08-18 18:57:39 -0400">
+                    <Title>Characters Summaries for volunteer event.</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3536,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="D6087F48-C104-4EDB-9084-D147AFEDDE6C" Type="Folder" Created="2023-08-10 21:39:07 -0400" Modified="2023-08-18 17:21:58 -0400">
                     <Title>Evan</Title>
                     <MetaData>
+                        <LabelID>10</LabelID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="29556064-441E-49DD-9A83-8B39F6CB33D6" Type="Text" Created="2023-08-01 17:17:17 -0400" Modified="2023-08-10 22:19:45 -0400">
-                            <Title>Evan Vaughn - legacy</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <IconFileName>Characters (Character Sheet)</IconFileName>
-                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>6650,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="7E6A4830-998E-4EF8-963E-8014B3F4093D" Type="Text" Created="2023-08-10 21:39:27 -0400" Modified="2023-08-12 10:29:44 -0400">
-                            <Title>Evan Part 1</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,49</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection Caret="10349">0,10349</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem UUID="EFF204C7-FE45-4FA5-84AC-5CF18719B4ED" Type="Text" Created="2023-08-10 23:00:15 -0400" Modified="2023-08-11 20:19:55 -0400">
-                            <Title>Evan Part 2</Title>
+                        <BinderItem UUID="311D1ED4-A773-4D39-BAE6-D45911BE37C6" Type="Folder" Created="2023-08-18 17:09:35 -0400" Modified="2023-08-18 17:09:40 -0400">
+                            <Title>Legacy</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1227,0</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem UUID="29556064-441E-49DD-9A83-8B39F6CB33D6" Type="Text" Created="2023-08-01 17:17:17 -0400" Modified="2023-08-10 22:19:45 -0400">
+                                    <Title>Evan Vaughn - legacy</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>6650,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="7E6A4830-998E-4EF8-963E-8014B3F4093D" Type="Text" Created="2023-08-10 21:39:27 -0400" Modified="2023-08-18 17:07:29 -0400">
+                                    <Title>Evan Part 1</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>1,166</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>9804,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="EFF204C7-FE45-4FA5-84AC-5CF18719B4ED" Type="Text" Created="2023-08-10 23:00:15 -0400" Modified="2023-08-18 17:10:33 -0400">
+                                    <Title>Evan Part 2</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection Caret="168">0,168</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>4945,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem UUID="D5F5CB03-49D0-4ED8-8783-3EBA08C89BAF" Type="Folder" Created="2023-08-11 15:22:25 -0400" Modified="2023-08-11 15:22:28 -0400">
-                    <Title>Guido</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem UUID="E24EE04B-5E10-4D21-8A64-68628B4A9A7F" Type="Text" Created="2023-08-01 21:22:07 -0400" Modified="2023-08-11 15:37:58 -0400">
-                            <Title>Guido Legacy</Title>
+                        <BinderItem UUID="52501EF1-C061-4456-8ECC-EB75F6BDEF57" Type="Text" Created="2023-08-18 17:08:43 -0400" Modified="2023-08-18 17:14:01 -0400">
+                            <Title>Evan Part 1 of 2</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <IconFileName>Characters (Character Sheet)</IconFileName>
-                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <NotesTextSelection>787,562</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>368,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="B86F57BE-847A-4E55-B130-A739C8860DDF" Type="Text" Created="2023-08-18 17:11:30 -0400" Modified="2023-08-18 17:11:48 -0400">
+                            <Title>Evan Part 2 of 2</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="46878D91-06E4-485E-BC6F-78901860A0A5" Type="Text" Created="2023-08-11 15:22:46 -0400" Modified="2023-08-12 10:29:44 -0400">
-                            <Title>Guido</Title>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="94BFB1DC-249C-46F0-BAF0-1837778A7E02" Type="Folder" Created="2023-08-11 06:28:26 -0400" Modified="2023-08-11 06:28:30 -0400">
+                    <Title>Liz</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="CA5615D3-79E4-4003-BAEB-D87223C0D90F" Type="Text" Created="2023-08-04 20:19:08 -0400" Modified="2023-08-18 18:11:00 -0400">
+                            <Title>Liz Wilkins - Full Profile</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <IconFileName>Characters (Character Sheet)</IconFileName>
                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <NotesTextSelection>1294,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection Caret="64">0,64</TextSelection>
+                                <TextSelection>4145,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="127D3107-95E2-446A-92A4-DFB37A909FAB" Type="Text" Created="2023-08-11 06:28:42 -0400" Modified="2023-08-18 18:09:47 -0400">
+                            <Title>Liz Wilkins - Condensed Profile</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1,48</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>183,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="D5F5CB03-49D0-4ED8-8783-3EBA08C89BAF" Type="Folder" Created="2023-08-11 15:22:25 -0400" Modified="2023-08-18 17:22:06 -0400">
+                    <Title>Guido</Title>
+                    <MetaData>
+                        <LabelID>10</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="23A59B1D-FF21-41B6-8D18-776ACF009170" Type="Folder" Created="2023-08-18 17:15:24 -0400" Modified="2023-08-18 17:15:28 -0400">
+                            <Title>Legacy</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="E24EE04B-5E10-4D21-8A64-68628B4A9A7F" Type="Text" Created="2023-08-01 21:22:07 -0400" Modified="2023-08-11 15:37:58 -0400">
+                                    <Title>Guido Legacy</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="46878D91-06E4-485E-BC6F-78901860A0A5" Type="Text" Created="2023-08-11 15:22:46 -0400" Modified="2023-08-18 17:27:54 -0400">
+                                    <Title>Guido</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <NotesTextSelection>0,201</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>7747,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem UUID="93789A5B-E87F-4E15-81E5-94B5AF9F8FFD" Type="Text" Created="2023-08-18 17:15:39 -0400" Modified="2023-08-18 17:44:06 -0400">
+                            <Title>Guido's condensed profile</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1139,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -3847,75 +3944,53 @@ Nicole Jenkins</Value>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="7DC0A86F-0B58-4C98-93E5-EDF373D4BC1E" Type="Text" Created="2023-08-02 22:54:05 -0400" Modified="2023-08-11 16:11:04 -0400">
-                            <Title>Sarah Wilkins Legacy</Title>
+                        <BinderItem UUID="ADA1ED67-CEAD-45D4-BFCB-E6E935F7F5B2" Type="Folder" Created="2023-08-18 17:22:13 -0400" Modified="2023-08-18 17:22:18 -0400">
+                            <Title>Legacy</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <IconFileName>Characters (Character Sheet)</IconFileName>
-                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                <NotesTextSelection>4077,1569</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>7426,0</TextSelection>
+                                <TextSelection>0,0</TextSelection>
                             </TextSettings>
+                            <Children>
+                                <BinderItem UUID="7DC0A86F-0B58-4C98-93E5-EDF373D4BC1E" Type="Text" Created="2023-08-02 22:54:05 -0400" Modified="2023-08-11 16:11:04 -0400">
+                                    <Title>Sarah Wilkins Legacy</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                        <NotesTextSelection>4077,1569</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>7426,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem UUID="EF94AD83-1E33-4579-8D4A-B54DFEA9C965" Type="Text" Created="2023-08-11 15:48:29 -0400" Modified="2023-08-18 17:42:16 -0400">
+                                    <Title>Sarah Wilkins</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>1,48</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>11065,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
-                        <BinderItem UUID="EF94AD83-1E33-4579-8D4A-B54DFEA9C965" Type="Text" Created="2023-08-11 15:48:29 -0400" Modified="2023-08-12 16:32:07 -0400">
-                            <Title>Sarah Wilkins</Title>
+                        <BinderItem UUID="4B12B7DC-E4B6-420E-B86C-1B18929E0B35" Type="Text" Created="2023-08-18 17:23:35 -0400" Modified="2023-08-18 17:45:55 -0400">
+                            <Title>Sarah's condensed profile</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>1,48</NotesTextSelection>
+                                <NotesTextSelection>758,508</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection Caret="745">732,13</TextSelection>
+                                <TextSelection>693,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="B892E29A-E89D-430F-9294-768C21C1122F" Type="Text" Created="2023-08-03 12:50:41 -0400" Modified="2023-08-10 17:51:46 -0400">
+                <BinderItem UUID="924C379B-1CBA-47DE-8032-F88D8349288A" Type="Folder" Created="2023-08-18 17:48:10 -0400" Modified="2023-08-18 17:49:23 -0400">
                     <Title>Sarahs Father - Jack Wilkins</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection Caret="8572">0,8572</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="DEB7C909-884E-4654-A12C-471F188C8329" Type="Text" Created="2023-08-03 13:28:11 -0400" Modified="2023-08-10 17:51:46 -0400">
-                    <Title>Sarahs Mother - Mildred Wilkins</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection Caret="3845">0,3845</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="B305D270-DD3B-453B-A85F-31D5446479FB" Type="Text" Created="2023-08-03 15:18:18 -0400" Modified="2023-08-11 20:40:53 -0400">
-                    <Title>Katie Andrews</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                        <NotesTextSelection>24,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>125,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="656EA0DE-4029-4F7D-9F91-1EB0BFB279B7" Type="Text" Created="2023-08-03 18:36:45 -0400" Modified="2023-08-11 16:23:38 -0400">
-                    <Title>Nicole Jenkins</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>56,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="94BFB1DC-249C-46F0-BAF0-1837778A7E02" Type="Folder" Created="2023-08-11 06:28:26 -0400" Modified="2023-08-11 06:28:30 -0400">
-                    <Title>Liz</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -3923,49 +3998,240 @@ Nicole Jenkins</Value>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="CA5615D3-79E4-4003-BAEB-D87223C0D90F" Type="Text" Created="2023-08-04 20:19:08 -0400" Modified="2023-08-11 07:02:16 -0400">
-                            <Title>Liz Wilkins- Legacy</Title>
+                        <BinderItem UUID="B892E29A-E89D-430F-9294-768C21C1122F" Type="Text" Created="2023-08-03 12:50:41 -0400" Modified="2023-08-18 17:48:37 -0400">
+                            <Title>Sarahs Father - Full Profile</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>6342,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="07F98EA9-097A-4025-97D9-1BC399B4974D" Type="Text" Created="2023-08-18 17:48:41 -0400" Modified="2023-08-18 17:49:16 -0400">
+                            <Title>Sarahs Father - Condensed Profile</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1712,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="51315C8C-DBE1-435F-826D-1F1F180E26DF" Type="Folder" Created="2023-08-18 17:49:32 -0400" Modified="2023-08-18 17:49:36 -0400">
+                    <Title>Sarahs Mother - Mildred Wilkins</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="DEB7C909-884E-4654-A12C-471F188C8329" Type="Text" Created="2023-08-03 13:28:11 -0400" Modified="2023-08-18 17:52:10 -0400">
+                            <Title>Sarahs Mother - Full Profile</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <NotesTextSelection>755,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="3845">0,3845</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="13581D7F-9C95-43C2-B7C2-F29B94990180" Type="Text" Created="2023-08-18 17:49:57 -0400" Modified="2023-08-18 17:53:39 -0400">
+                            <Title>Sarahs Mother - Condensed Profile</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>872,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2228,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="35A2CD3F-CE6C-43FD-8B04-66D4BA3E17CF" Type="Folder" Created="2023-08-18 17:53:47 -0400" Modified="2023-08-18 17:53:53 -0400">
+                    <Title>Katie Andrews</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="B305D270-DD3B-453B-A85F-31D5446479FB" Type="Text" Created="2023-08-03 15:18:18 -0400" Modified="2023-08-18 17:54:08 -0400">
+                            <Title>Katie Andrews - Full Profile</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <NotesTextSelection>24,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>735,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="252D5C4D-710C-4768-BE19-E15FAF1B6968" Type="Text" Created="2023-08-18 17:54:12 -0400" Modified="2023-08-18 17:57:43 -0400">
+                            <Title>Katie Andrews - Condensed Profile</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>763,587</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>519,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="1E5ADD5D-8704-444D-97A9-74A1DE53362D" Type="Folder" Created="2023-08-18 18:13:37 -0400" Modified="2023-08-18 18:13:42 -0400">
+                    <Title>Patti Keane</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="C3886CCF-8C88-4EBE-A334-B074931EF45B" Type="Text" Created="2023-08-09 08:59:55 -0400" Modified="2023-08-18 18:13:56 -0400">
+                            <Title>Patti Keane - Full Profile</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <IconFileName>Characters (Character Sheet)</IconFileName>
                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>675,0</TextSelection>
+                                <TextSelection Caret="5317">57,5260</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="127D3107-95E2-446A-92A4-DFB37A909FAB" Type="Text" Created="2023-08-11 06:28:42 -0400" Modified="2023-08-11 20:30:48 -0400">
-                            <Title>Liz</Title>
+                        <BinderItem UUID="CDE467D6-E8A4-4A61-A6BD-098C21A32AFA" Type="Text" Created="2023-08-18 18:14:01 -0400" Modified="2023-08-18 18:16:46 -0400">
+                            <Title>Patti Keane - Condensed Profile</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>1,48</NotesTextSelection>
+                                <NotesTextSelection>787,496</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>99,0</TextSelection>
+                                <TextSelection>552,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="C3886CCF-8C88-4EBE-A334-B074931EF45B" Type="Text" Created="2023-08-09 08:59:55 -0400" Modified="2023-08-12 12:45:34 -0400">
-                    <Title>Patti Keane</Title>
+                <BinderItem UUID="C2526CDB-838D-44C3-9127-CB299036FC8B" Type="Folder" Created="2023-08-18 17:57:52 -0400" Modified="2023-08-18 17:58:00 -0400">
+                    <Title>Nicole Jenkins</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>56,0</TextSelection>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem UUID="656EA0DE-4029-4F7D-9F91-1EB0BFB279B7" Type="Text" Created="2023-08-03 18:36:45 -0400" Modified="2023-08-18 17:59:11 -0400">
+                            <Title>Nicole Jenkins - Full Profile</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>449,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="F36EE8F2-91CF-40CC-AC68-95068C5D1B10" Type="Text" Created="2023-08-18 17:58:05 -0400" Modified="2023-08-18 18:07:21 -0400">
+                            <Title>Nicole Jenkins - Condensed Profile</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>1322,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2021,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
-                <BinderItem UUID="6A2B26F7-B6AB-48D2-BDC6-26C9F9EBAA68" Type="Text" Created="2023-08-09 11:01:57 -0400" Modified="2023-08-11 16:26:51 -0400">
+                <BinderItem UUID="2D28CA72-C5E2-4030-974E-0462A55D29EF" Type="Folder" Created="2023-08-18 18:11:30 -0400" Modified="2023-08-18 18:11:36 -0400">
+                    <Title>Joe Bennett</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="7DCF4BEC-DE17-4C4B-A118-7766FCDE84C6" Type="Text" Created="2023-08-18 15:31:05 -0400" Modified="2023-08-18 18:12:18 -0400">
+                            <Title>Joe Bennett - Full Profile</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <NotesTextSelection>110,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2257,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="661D5648-9647-4D50-87D5-E09B7D32A98F" Type="Text" Created="2023-08-18 18:13:17 -0400" Modified="2023-08-18 18:13:27 -0400">
+                            <Title>Joe Bennett - Condensed Profile</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2499,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="7B8209D3-4238-446F-BA3F-613BBA705581" Type="Folder" Created="2023-08-18 18:15:14 -0400" Modified="2023-08-18 18:15:23 -0400">
                     <Title>Roxanne</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <IconFileName>Characters (Character Sheet)</IconFileName>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>406,0</TextSelection>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="6A2B26F7-B6AB-48D2-BDC6-26C9F9EBAA68" Type="Text" Created="2023-08-09 11:01:57 -0400" Modified="2023-08-18 18:16:41 -0400">
+                            <Title>Roxanne - Full Profile</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>928,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="8141BEA9-CF37-44CF-9FF9-8697001C0DBB" Type="Text" Created="2023-08-18 18:15:40 -0400" Modified="2023-08-18 18:19:42 -0400">
+                            <Title>Roxanne - Condensed Profile</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection Caret="1357">818,539</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>160,19</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="A9208A3E-5A7B-40DC-A149-B14FCE6C5279" Type="Text" Created="2023-08-18 18:19:57 -0400" Modified="2023-08-18 18:37:20 -0400">
+                    <Title>Marcus Chamberlain</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>759,634</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection Caret="2194">57,2137</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="922E4C2F-9F61-41C2-A5FA-7565C9589A6F" Type="Text" Created="2023-08-18 18:35:23 -0400" Modified="2023-08-18 19:00:24 -0400">
+                    <Title>Diego</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <NotesTextSelection>839,646</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1052,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -4315,11 +4581,11 @@ Nicole Jenkins</Value>
                         <TextSelection>28,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="69CAD51B-D351-4DE0-9A99-DFFE2A48A114" Type="Text" Created="2023-08-16 19:05:27 -0400" Modified="2023-08-18 08:05:38 -0400">
+                <BinderItem UUID="69CAD51B-D351-4DE0-9A99-DFFE2A48A114" Type="Text" Created="2023-08-16 19:05:27 -0400" Modified="2023-08-18 16:08:46 -0400">
                     <Title>Scene Template: AI Create All</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>153,165</NotesTextSelection>
+                        <NotesTextSelection>321,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <TextSelection Caret="1477">0,1477</TextSelection>
@@ -4366,7 +4632,7 @@ Nicole Jenkins</Value>
                         <ShowSynopsisImage>Yes</ShowSynopsisImage>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>18,0</TextSelection>
+                        <TextSelection>300,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="85C5A3DF-C3C1-45BA-AD2C-6C42B69EF072" Type="Text" Created="2023-08-02 08:08:34 -0400" Modified="2023-08-16 21:29:17 -0400">
@@ -4406,14 +4672,14 @@ Nicole Jenkins</Value>
                         <TextSelection>333,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="1406B9FA-5CDA-4299-A0DA-4ECCCBE0F343" Type="Text" Created="2023-08-10 18:31:52 -0400" Modified="2023-08-16 21:29:17 -0400">
+                <BinderItem UUID="1406B9FA-5CDA-4299-A0DA-4ECCCBE0F343" Type="Text" Created="2023-08-10 18:31:52 -0400" Modified="2023-08-18 16:09:14 -0400">
                     <Title>Character Sketch New: Full</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>1,48</NotesTextSelection>
+                        <NotesTextSelection>632,169</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,56</TextSelection>
+                        <TextSelection Caret="1700">0,1700</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="9ED43523-F6E6-4FA4-B26A-12DDD1907093" Type="Text" Created="2023-08-11 06:27:53 -0400" Modified="2023-08-16 21:29:17 -0400">
@@ -4423,7 +4689,7 @@ Nicole Jenkins</Value>
                         <NotesTextSelection>1,48</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,56</TextSelection>
+                        <TextSelection Caret="1700">0,1700</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="DA7DDA37-1BE5-4AF0-96D5-919B6151C55D" Type="Text" Created="2023-08-12 10:09:46 -0400" Modified="2023-08-16 21:29:17 -0400">
@@ -4594,6 +4860,14 @@ Nicole Jenkins</Value>
                         <TextSelection>4127,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="072B3783-E34D-4407-A85C-A541DCC03366" Type="Folder" Created="2023-08-18 18:33:05 -0400" Modified="2023-08-18 18:33:05 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -4603,7 +4877,7 @@ Nicole Jenkins</Value>
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.901961 0.901961 0.980392">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">rejects</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">morgan</SearchSettings>
         </Collection>
         <Collection Type="Arbitrary" ID="84A7B044-F30D-4580-B1B2-0214DB9D304D" Color="0.841505 0.920714 0.990005">
             <Title>New Collection</Title>
@@ -5026,15 +5300,15 @@ Nicole Jenkins</Value>
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" ShowOverrun="Yes" Deadline="2023-08-01 16:31:59 -0400" IgnoreDeadline="Yes">385000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2023-08-18 11:02:00 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2023-08-18 19:02:20 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
     <RecentWritingHistory Date="2023-08-18 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>5263</OtherWordCount>
-        <OtherCharCount>32964</OtherCharCount>
+        <OtherWordCount>13112</OtherWordCount>
+        <OtherCharCount>84353</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
     <UserProjectData>

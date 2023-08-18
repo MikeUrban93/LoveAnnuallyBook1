@@ -1,5 +1,10 @@
 # Changelog
 
+#### 0.0.22 - MAU `2023-08-18`
+1. Did my best to clean up some profiles and make everything present tense. I used chatGPT 3.5 to do so, so the formatting is not consistent or standardized.
+2. I added two new character profiles: Marcus, Diego.
+----
+
 #### 0.0.21 - MAU `2023-08-18`
 1. Completed the stubbing in of templates for the remainder of this project.
 2. SavePoint: This is a safe point before some major cleanup is done.
