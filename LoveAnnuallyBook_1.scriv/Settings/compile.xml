@@ -12,6 +12,7 @@
             <RemoveAnnotations>Yes</RemoveAnnotations>
             <ResampleImages DPI="72" MaxSize="0">No</ResampleImages>
             <DeleteStruckThroughText>Yes</DeleteStruckThroughText>
+            <RemoveTextColor>Yes</RemoveTextColor>
             <ConvertRichTextToMMD>No</ConvertRichTextToMMD>
             <ConvertTablesAndListToMMD>Yes</ConvertTablesAndListToMMD>
             <Links/>
@@ -552,11 +553,22 @@
                 <DefaultFrontMatter Add="Yes"/>
             </FrontAndBackMatter>
         </Format>
+        <Format ID="4F80FA67-FA7D-494D-81BF-423A9636A88A">
+            <SectionLayouts>
+                <Type ID="417A6CCE-D4E1-44BA-9A8D-038360B4B905">CHAPTER-NUMBER</Type>
+                <Type ID="4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D">D1848966-5D15-4080-B5FA-EDC5063123B0</Type>
+                <Type ID="5770D705-B9A4-4798-AAB1-B2C56190B02E">TEXT-WITH-HEADER</Type>
+                <Type ID="9AFECE21-8C79-45E0-9B9F-D6D62A9729D3">TEXT-SECTION</Type>
+                <Type ID="C256170C-9607-4380-B84A-86A34F8D32A4">AFDD0D11-14C8-4F46-9114-32BD669639A3</Type>
+                <Type ID="DA299D05-E212-41BE-A82B-88EA3A472C49">F06837C7-95F0-41AF-8050-90874CBAAFD8</Type>
+                <Type ID="DFBFB5B6-D47F-4913-9E23-FC3950C10171">NEW-PAGE-HEADER</Type>
+            </SectionLayouts>
+        </Format>
     </FormatSettings>
     <LastUsedFormats>
         <Fountain>script-screenplay</Fountain>
         <Print>manuscript-times</Print>
-        <docx>4B45DD7F-FB86-4B59-9B03-78F0B7225F54</docx>
+        <docx>4F80FA67-FA7D-494D-81BF-423A9636A88A</docx>
         <epub2>e-book-legacy</epub2>
         <epub3>e-book</epub3>
         <fdx>script-screenplay</fdx>

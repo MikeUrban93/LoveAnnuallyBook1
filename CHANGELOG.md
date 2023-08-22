@@ -1,5 +1,15 @@
 # Changelog
 
+#### 0.0.24 - MAU `2023-08-21`
+1. Added a "Scene Part Template"
+2. Wrote scenes up to "Evan Volunteers for Overtime"
+----
+
+#### 0.0.23 - MAU `2023-08-19`
+1. Reformatted template styles and added paragraph breaks to the templates, so that they look better when submitting them to chat.
+2. Draft one complete for Sarah and Evan Consummate Their Relationship.
+----
+
 #### 0.0.22 - MAU `2023-08-18`
 1. Did my best to clean up some profiles and make everything present tense. I used chatGPT 3.5 to do so, so the formatting is not consistent or standardized.
 2. I added two new character profiles: Marcus, Diego.
