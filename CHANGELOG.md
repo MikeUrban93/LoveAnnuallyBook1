@@ -1,6 +1,11 @@
 # Changelog
 
 #### 0.0.26 - MAU `2023-08-24`
+1. Using the fast draft method, I completed the final 2 scenes of Chapter 13: Evan Volunteers for the Weekend
+2. I also added a fast draft scene template
+----
+
+#### 0.0.26 - MAU `2023-08-24`
 1. Added a new section in templates for submitting scenes in parts to AI.
 2. Changed some fonts to the Tahoma 11
 3. Renamed some of the character fonts so they will be displayed in order
