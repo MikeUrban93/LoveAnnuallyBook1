@@ -1,5 +1,18 @@
 # Changelog
 
+#### 0.0.26 - MAU `2023-08-24`
+1. Added a new section in templates for submitting scenes in parts to AI.
+2. Changed some fonts to the Tahoma 11
+3. Renamed some of the character fonts so they will be displayed in order
+----
+
+#### 0.0.25 - MAU `2023-08-23`
+1. Added, removed, and added some styles so that they are displayed in a desired order.
+2. Updated patties profile to be less dramatic.
+3. Added a few ideas and notes throughout the project.
+4. Updated the outline to include some new chapters and scenes.
+----
+
 #### 0.0.24 - MAU `2023-08-21`
 1. Added a "Scene Part Template"
 2. Wrote scenes up to "Evan Volunteers for Overtime"
@@ -22,7 +35,7 @@
 
 #### 0.0.20 - MAU `2023-08-17`
 1. Stubbing in templates for scenes, and fully completing templates others.
-	- Completed Templates for Sarah and Evan Consummate Their Relationship
+	- Completed Templates for Sarah and Evan Consummate Their RelationshipCleaned up scene template.
 	- Stubbed "Evan Volunteers for the Weekend" and "Christmas at Liz's"
 ----
 

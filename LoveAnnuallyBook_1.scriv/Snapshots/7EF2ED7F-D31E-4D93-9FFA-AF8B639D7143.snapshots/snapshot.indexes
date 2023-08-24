@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SnapshotIndexes Version="1.0" BinderUUID="7EF2ED7F-D31E-4D93-9FFA-AF8B639D7143">
+    <Snapshot Date="2023-08-24 05:35:12 -0400">
+        <Title>b4 first cleanup</Title>
+        <Text>Scene Template:
+
+Title: Title
+
+Summary:
+Information
+
+Leading Context:
+Information
+
+Setting:
+- Location: Information
+- Time: Information
+- Weather/Environment: Information
+
+Characters Present:
+- Main Characters: Information
+- Secondary Characters: Information
+
+Character Emotional State:
+- Evan: Information
+- Sarah: Information
+
+POV: Third person limited, deep (focusing on Name)
+
+Dialogue Focus: Moderate
+
+Use of Internal Dialogue: Moderate
+
+Plot/Action:
+
+- Beginning:
+Place the happenings of the beginning of the scene in this paragraph. Use brackets to enclose embedded instructions that assist artificial intelligence in writing a compelling scene.
+
+- Middle:
+Place the happenings of the middle of the scene in this paragraph. Use brackets to enclose embedded instructions that assist artificial intelligence in writing a compelling scene.
+
+- End:
+Place the happenings of the end of the scene in this paragraph. Use brackets to enclose embedded instructions that assist artificial intelligence in writing a compelling scene.
+
+Objectives/Goals:
+Information
+
+Props/Items:
+Information
+
+Special Instructions/Notes:
+All information located between brackets [] is to be treated as embedded instructions to assist you in writing a compelling scene. 
+
+Example: [ In the following dialogue section, Evan is angry and snaps at Patti. ]
+
+All dialogue is to be used verbatim. Do not add, change, or delete any quoted dialogue I provided in this scene template. Dialogue is marked by the character's name followed by a colon. Example Evan: &quot;Patti, how dare you!
+
+Example: Evan: &quot;Patti, how dare you!”
+
+When I want you to write a complete narrative, I will describe what needs to be narrated. You are to replace whatever I have provided with a well-written narrative. You can write as little or as much as necessary for a compelling narrative. In the following example, you take my simple line and write about the weather and narrative format. 
+ 
+Example: Narrative: It was a perfect snowy day on Christmas.
+
+I will sometimes use embedded instructions within a narrative or dialogue marker. These instructions will help you write dialogue tags action tags, or guide you in writing the narrative. I will place the embedded instructions between the label and the &quot;:&quot;.
+
+Example: Evan [growled]: &quot;Patti, how dare you!”
+Example: Narrative: [ Mention snowplows plowing the streets. ]:  It was a perfect snowy day on Christmas.
+
+Whenever possible, “Show” instead of “Tell.”
+
+Use Deep POV generously when creating this scene.
+</Text>
+    </Snapshot>
+    <Snapshot Date="2023-08-24 05:52:55 -0400">
+        <Title>B4 implementing AI suggestions</Title>
+        <Text>Scene Template:
+
+Title: Title
+
+Summary:
+Information
+
+Leading Context:
+Information
+
+Setting:
+- Location: Information
+- Time: Information
+- Weather/Environment: Information
+
+Characters Present:
+- Main Characters: Information
+- Secondary Characters: Information
+
+Character Emotional State:
+- Evan: Information
+- Sarah: Information
+
+POV: Third person limited, deep (focusing on Name)
+
+Dialogue Focus: Moderate
+
+Use of Internal Dialogue: Moderate
+
+Plot/Action:
+
+- Beginning:
+Place the happenings of the beginning of the scene in this paragraph. Use brackets to enclose embedded instructions that assist artificial intelligence in writing a compelling scene.
+
+- Middle:
+Place the happenings of the middle of the scene in this paragraph. Use brackets to enclose embedded instructions that assist artificial intelligence in writing a compelling scene.
+
+- End:
+Place the happenings of the end of the scene in this paragraph. Use brackets to enclose embedded instructions that assist artificial intelligence in writing a compelling scene.
+
+Objectives/Goals:
+Information
+
+Props/Items:
+Information
+
+Special Instructions/Notes:
+All information located between brackets [] is to be treated as embedded instructions to assist you in writing a compelling scene. 
+
+Example: [ In the following dialogue section, Evan is angry and snaps at Patti. ]
+
+All dialogue is to be used verbatim. Do not add, change, or delete any quoted dialogue I provided in this scene template. Dialogue is marked by the character's name followed by a colon. 
+
+Example: Evan: &quot;Patti, how dare you!”
+
+When I want you to write a complete narrative, I will describe what needs to be narrated. You are to replace whatever I have provided with a narrative. You can write as little or as much as necessary for a compelling narrative. In the following example, you take my simple line and write about the weather and narrative format. 
+ 
+Example: Narrative: It was a perfect snowy day on Christmas.
+
+I will sometimes use embedded instructions within a narrative or dialogue marker. These instructions will help you write dialogue tags action tags, or guide you in writing the narrative. I will place the embedded instructions between the label and the &quot;:&quot;.
+
+Example: Evan [ growled ]: &quot;Patti, how dare you!”
+Example: Narrative: [ Mention snowplows plowing the streets. ]:  It was a perfect snowy day on Christmas.
+
+Whenever possible, “Show” instead of “Tell.”
+
+Use Deep POV generously when creating this scene.
+
+
+</Text>
+    </Snapshot>
+</SnapshotIndexes>
