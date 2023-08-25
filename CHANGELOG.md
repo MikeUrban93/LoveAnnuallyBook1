@@ -1,5 +1,15 @@
 # Changelog
 
+#### 0.0.26 - MAU `2023-08-25`
+1. I prepped the scenes for the Christmas chapter.
+2. I added or modified the following character profiles:
+	* Evan
+	* Liz
+	* Joe
+	* Bridget (Liz and Evan's mom)
+3. I also added the following "Main Characters and close secondary characters"
+----
+
 #### 0.0.26 - MAU `2023-08-24`
 1. Using the fast draft method, I completed the final 2 scenes of Chapter 13: Evan Volunteers for the Weekend
 2. I also added a fast draft scene template
