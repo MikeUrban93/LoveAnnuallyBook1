@@ -1,6 +1,13 @@
 # Changelog
 
-#### 0.0.26 - MAU `2023-08-25`
+#### 0.0.27 - MAU `2023-08-26`
+1. I added a few more scenes into the Christmas at Liz's chapter. 
+	* I stubbed in the template for those scenes
+2. I took two scenes out of that chapter and put it into a new chapter called something like more surprises in store for Liz.
+3. I added a location profile for Liz's apartment
+----
+
+ 0.0.26 - MAU `2023-08-25`
 1. I prepped the scenes for the Christmas chapter.
 2. I added or modified the following character profiles:
 	* Evan
