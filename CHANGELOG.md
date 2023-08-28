@@ -1,12 +1,15 @@
 # Changelog
 
+#### 0.0.31 - MAU `2023-08-28`
+1. Fast drafted all scenes in the chapter "Sarah Promise Ring Concerns"
+----
+
 #### 0.0.30 - MAU `2023-08-28`
 1. Created three new scenes using fast draft.
 	* Sarah's Parents Question Relationship with Evan
 	* Sarah Feels Awkward at a Football Watch Party
 	* Sarah Tells Katie about Her Relationship Concerns with Evan
 ----
-
 
 #### 0.0.29 - MAU `2023-08-27`
 1. Dialogue entered up to Christmas eve gifts
