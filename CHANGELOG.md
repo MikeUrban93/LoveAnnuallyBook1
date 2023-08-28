@@ -1,10 +1,16 @@
 # Changelog
 
+#### 0.0.30 - MAU `2023-08-28`
+1. Created three new scenes using fast draft.
+	* Sarah's Parents Question Relationship with Evan
+	* Sarah Feels Awkward at a Football Watch Party
+	* Sarah Tells Katie about Her Relationship Concerns with Evan
+----
+
 
 #### 0.0.29 - MAU `2023-08-27`
 1. Dialogue entered up to Christmas eve gifts
 ----
-
 
 #### 0.0.28 - MAU `2023-08-26`
 1. Created a new scene to end the Christmas Eve at Liz's chapter. 

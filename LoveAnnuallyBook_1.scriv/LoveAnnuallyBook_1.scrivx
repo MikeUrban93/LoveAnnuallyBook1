@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="C1CC4C75-4A12-4579-ADB5-479DFFD60702" Creator="SCRWIN-3.1.3.0" Device="Trinity" Author="The Kindergarten Poet" Modified="2023-08-27 21:40:05 -0400" ModID="B7044867-09E8-43A1-A1AE-1E89294E3D1A">
+<ScrivenerProject Template="No" Version="2.0" Identifier="C1CC4C75-4A12-4579-ADB5-479DFFD60702" Creator="SCRWIN-3.1.3.0" Device="Trinity" Author="The Kindergarten Poet" Modified="2023-08-28 00:59:58 -0400" ModID="8E17E252-0E84-4E0E-B31B-0321AABE42B4">
     <Binder>
         <BinderItem UUID="F8F9FDEF-FD9F-4A8C-B33D-3434A1220ADC" Type="Text" Created="2018-11-06 12:57:53 -0400" Modified="2023-08-23 17:56:51 -0400">
             <Title>Novel Format</Title>
@@ -1316,7 +1316,7 @@ Katie Andrews</Value>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="9B8D6A0E-A50F-4F57-8D2B-77977440A801" Type="Text" Created="2023-08-24 11:39:41 -0400" Modified="2023-08-24 11:39:41 -0400">
+                        <BinderItem UUID="9B8D6A0E-A50F-4F57-8D2B-77977440A801" Type="Text" Created="2023-08-24 11:39:41 -0400" Modified="2023-08-27 23:25:12 -0400">
                             <Title>Sarah's Parents Question Relationship with Evan</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1324,7 +1324,7 @@ Katie Andrews</Value>
                                 <NotesTextSelection>0,442</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>3084,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -1340,7 +1340,7 @@ Katie Andrews</Value>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="F6779C40-FE03-4F65-989D-92DE7CBFEDF9" Type="Text" Created="2023-08-24 11:39:41 -0400" Modified="2023-08-24 11:39:41 -0400">
+                        <BinderItem UUID="F6779C40-FE03-4F65-989D-92DE7CBFEDF9" Type="Text" Created="2023-08-24 11:39:41 -0400" Modified="2023-08-28 00:45:58 -0400">
                             <Title>Sarah Feels Awkward at a Football Watch Party</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1348,18 +1348,18 @@ Katie Andrews</Value>
                                 <NotesTextSelection Caret="45">0,45</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>620,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="A54B888A-119E-4D9F-828E-46F39BEB2743" Type="Text" Created="2023-08-24 11:39:41 -0400" Modified="2023-08-24 11:39:41 -0400">
+                        <BinderItem UUID="A54B888A-119E-4D9F-828E-46F39BEB2743" Type="Text" Created="2023-08-24 11:39:41 -0400" Modified="2023-08-28 00:59:49 -0400">
                             <Title>Sarah Tells Katie about Her Relationship Concerns with Evan</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <SectionType>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</SectionType>
-                                <NotesTextSelection>0,59</NotesTextSelection>
+                                <NotesTextSelection>362,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>2627,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -3035,15 +3035,15 @@ Katie Andrews</Value>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="F33BD612-AD0E-4011-9201-DFD41EF565FF" Type="Text" Created="2023-08-23 17:27:42 -0400" Modified="2023-08-23 18:27:08 -0400">
+                        <BinderItem UUID="F33BD612-AD0E-4011-9201-DFD41EF565FF" Type="Text" Created="2023-08-23 17:27:42 -0400" Modified="2023-08-27 22:59:34 -0400">
                             <Title>Sarah's Parents Question Relationship with Evan</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <SectionType>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</SectionType>
-                                <NotesTextSelection>0,442</NotesTextSelection>
+                                <NotesTextSelection>0,558</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>1556,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -3059,18 +3059,18 @@ Katie Andrews</Value>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="45FA9277-DFFA-4020-AD97-FA6F4681C22C" Type="Text" Created="2023-08-23 17:37:28 -0400" Modified="2023-08-23 18:27:16 -0400">
+                        <BinderItem UUID="45FA9277-DFFA-4020-AD97-FA6F4681C22C" Type="Text" Created="2023-08-23 17:37:28 -0400" Modified="2023-08-28 00:03:01 -0400">
                             <Title>Sarah Feels Awkward at a Football Watch Party</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <SectionType>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</SectionType>
-                                <NotesTextSelection Caret="45">0,45</NotesTextSelection>
+                                <NotesTextSelection Caret="134">45,89</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection Caret="7330">0,7330</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="BB69CD72-BB52-4B0C-B0B1-27CDC5544783" Type="Text" Created="2023-08-23 17:39:07 -0400" Modified="2023-08-23 18:27:20 -0400">
+                        <BinderItem UUID="BB69CD72-BB52-4B0C-B0B1-27CDC5544783" Type="Text" Created="2023-08-23 17:39:07 -0400" Modified="2023-08-28 00:57:56 -0400">
                             <Title>Sarah Tells Katie about Her Relationship Concerns with Evan</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -3078,7 +3078,7 @@ Katie Andrews</Value>
                                 <NotesTextSelection>0,59</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>4280,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -4678,7 +4678,7 @@ Nicole Jenkins</Value>
                         <IconFileName>Characters (Character Sheet)</IconFileName>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>4814,0</TextSelection>
+                        <TextSelection Caret="5483">0,5483</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="00D98598-FA69-44D2-8C35-16CE959A8E92" Type="Text" Created="2023-08-18 16:27:00 -0400" Modified="2023-08-25 11:33:05 -0400">
@@ -4948,14 +4948,14 @@ Nicole Jenkins</Value>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="B892E29A-E89D-430F-9294-768C21C1122F" Type="Text" Created="2023-08-03 12:50:41 -0400" Modified="2023-08-24 05:40:55 -0400">
+                        <BinderItem UUID="B892E29A-E89D-430F-9294-768C21C1122F" Type="Text" Created="2023-08-03 12:50:41 -0400" Modified="2023-08-27 22:51:27 -0400">
                             <Title>Sarahs Father - Full Profile</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <IconFileName>Characters (Character Sheet)</IconFileName>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>19,6</TextSelection>
+                                <TextSelection>5485,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="07F98EA9-097A-4025-97D9-1BC399B4974D" Type="Text" Created="2023-08-18 17:48:41 -0400" Modified="2023-08-23 17:56:51 -0400">
@@ -4978,7 +4978,7 @@ Nicole Jenkins</Value>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="DEB7C909-884E-4654-A12C-471F188C8329" Type="Text" Created="2023-08-03 13:28:11 -0400" Modified="2023-08-24 05:40:54 -0400">
+                        <BinderItem UUID="DEB7C909-884E-4654-A12C-471F188C8329" Type="Text" Created="2023-08-03 13:28:11 -0400" Modified="2023-08-27 22:51:45 -0400">
                             <Title>Sarahs Mother - Full Profile</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -4987,7 +4987,7 @@ Nicole Jenkins</Value>
                                 <NotesTextSelection>755,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1793,0</TextSelection>
+                                <TextSelection>1574,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="13581D7F-9C95-43C2-B7C2-F29B94990180" Type="Text" Created="2023-08-18 17:49:57 -0400" Modified="2023-08-23 17:56:51 -0400">
@@ -5019,7 +5019,7 @@ Nicole Jenkins</Value>
                                 <NotesTextSelection>24,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>735,0</TextSelection>
+                                <TextSelection Caret="3161">0,3161</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="252D5C4D-710C-4768-BE19-E15FAF1B6968" Type="Text" Created="2023-08-18 17:54:12 -0400" Modified="2023-08-24 06:28:42 -0400">
@@ -5358,7 +5358,7 @@ Nicole Jenkins</Value>
                         <NotesTextSelection>527,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection Caret="2660">0,2660</TextSelection>
+                        <TextSelection>558,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="293C005F-4720-4379-A0D6-56093BC131DB" Type="Text" Created="2023-08-03 18:02:21 -0400" Modified="2023-08-24 05:40:54 -0400">
@@ -5529,7 +5529,7 @@ Nicole Jenkins</Value>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>526,839</TextSelection>
+                                <TextSelection Caret="1368">0,1368</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="C439BB9D-D778-4E35-A428-365FF89181D8" Type="Folder" Created="2023-08-24 03:48:35 -0400" Modified="2023-08-24 03:48:45 -0400">
@@ -6812,15 +6812,15 @@ Nicole Jenkins</Value>
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" ShowOverrun="Yes" Deadline="2023-08-01 16:31:59 -0400" IgnoreDeadline="Yes">385000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2023-08-27 21:40:05 -0400"/>
+        <PreviousSession Words="1122" Characters="6374" Date="2023-08-28 00:59:58 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
     <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2023-08-27 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>10824</OtherWordCount>
-        <OtherCharCount>59759</OtherCharCount>
+    <RecentWritingHistory Date="2023-08-28 00:00:00 -0400">
+        <DraftWordCount>1122</DraftWordCount>
+        <DraftCharCount>6374</DraftCharCount>
+        <OtherWordCount>1092</OtherWordCount>
+        <OtherCharCount>6726</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
     <UserProjectData>
