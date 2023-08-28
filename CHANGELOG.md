@@ -1,5 +1,11 @@
 # Changelog
 
+
+#### 0.0.29 - MAU `2023-08-27`
+1. Dialogue entered up to Christmas eve gifts
+----
+
+
 #### 0.0.28 - MAU `2023-08-26`
 1. Created a new scene to end the Christmas Eve at Liz's chapter. 
 	* I decided to split that into a separate chapter because the dinner scene was so long. 
@@ -7,7 +13,7 @@
 2. All the roughed-in jagged dialogue is now complete for Christmas eve at Liz's.
 ----
 
-#### 0.0.27 - MAU `2023-08-26`
+#### 0.0.27.2 - MAU `2023-08-26`
 1. A random safe point, after writing rough draft dialogue for the scene "Liz Prepares Christmas Eve Dinner"
 ----
 
