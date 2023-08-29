@@ -1,5 +1,10 @@
 # Changelog
 
+#### 0.0.32 - MAU `2023-08-29`
+1. Did a lot of writing of scenes and reorganization of scenes during the Christmas chapters.
+2. The last scene worked on was "Sarah's Dinner Roll Gambit"
+----
+
 #### 0.0.31 - MAU `2023-08-28`
 1. Fast drafted all scenes in the chapter "Sarah Promise Ring Concerns"
 ----
