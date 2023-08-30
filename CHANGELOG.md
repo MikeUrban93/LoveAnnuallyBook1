@@ -1,5 +1,9 @@
 # Changelog
 
+#### 0.0.30 - MAU `2023-08-30`
+1. I completed thorough drafts for the chapter "The Unseen Gifts of Christmas Eve"
+----
+
 #### 0.0.32 - MAU `2023-08-29`
 1. Did a lot of writing of scenes and reorganization of scenes during the Christmas chapters.
 2. The last scene worked on was "Sarah's Dinner Roll Gambit"
