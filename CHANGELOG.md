@@ -1,5 +1,9 @@
 # Changelog
 
+#### 0.0.50 - MAU `2024-01-28`
+1. Snapshot of up-to-date work
+----
+
 #### 0.0.30 - MAU `2023-08-30`
 1. I completed thorough drafts for the chapter "The Unseen Gifts of Christmas Eve"
 ----
